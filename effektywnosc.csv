@@ -1,0 +1,3242 @@
+SL_LP_ID,LP_TITLE,SUCCES_RATE
+2,Program uczenia nr 2,1.0000
+3,Program uczenia nr 3,0.5000
+10,UKI/D Imitacja werbalna w zestawach,0.2667
+26,SFC/A Podążanie za planem dnia MiGa,0.6000
+43,UKW/A - Podążanie za planem,0.3846
+50,UKI/E Imitacja z przedmiotami ,0.1818
+70,Bycie on-task JK PRZYKLAD 2,0.3333
+76,Przykład 8,0.0000
+88,S/E Posługiwanie się zegarem,0.6471
+104,UKW/B utrzymywanie uwagi Tobiasz Langer,0.6000
+112,UKI/B - imitacja werbalna PhiWi,0.0000
+116,SFC/B - oglądanie bajek Phi Wi,0.3333
+117,P/C Układanie puzzli,0.4828
+121,P/C Kolorowanie,0.0000
+132,UKW/D - reakcja na timer Phi Wi,0.0484
+133,UKW/A - podążanie za planem Phi Wi,0.0762
+136,P/C - układanie Phi Wi ,0.0989
+137,MKR/B- wykonywanie prostych poleceń Phi Wi,0.1265
+144,UKD/B  Dopasowywanie pojedynczych elementów,0.5000
+152,UKW/B utrzymywanie uwagi S Koz,0.1852
+153,S/E  liczenie ToLa,0.2769
+154,S/A obsługa komputera To La,1.0000
+164,UKW/B - Utrzymywanie uwagi na zadaniu SzyKry,1.0000
+165,MKK/E Udzielanie informacji o sobie JaHa,0.6667
+166,S/A Obsługa komputera JaHa,0.5714
+174,UKW/D  Podążanie za znanymi poleceniami  MaPa,0.0000
+176,SFC/B Oglądanie telewizji  MaPa,0.2000
+178,S/E Liczenie PaSt,0.1341
+181,UKD/ E dopasowywanie DoKr notowania,0.0968
+182,UKD/E Sortowanie DoKr,0.0545
+185,SFS/A czynności samoobsługowe DoKr,0.0000
+187,Z/A Wykonywanie prezawodowych łańcuchów czynności DoKr,0.0000
+196,SFS/C Trening czystości ,0.3333
+208,UKI/B imitacja z przedmiotami Phi Wi,0.1261
+213,S/E  Znajomość nominałów pieniężnych AdMa,0.0286
+215,S/E Liczenie AdMa,0.0000
+218,S/B Czytanie AdMa,0.1429
+219,S/C Rozumienie czytanego tekstu AdMa,0.0000
+220,S/E Znajomość miar i wag AdMa,0.0000
+225,S/E pisanie ToLa,0.3333
+233,S/D Liczenie LauKre ,0.0597
+237,S/D Posługuje się zegarem LauKre,0.0000
+244,SFG/A Sprzątanie MaRy,0.0769
+246,SFG/ A Gotowanie MaRy,0.0625
+249,MKP/B Proszenie o potrzebne przedmioty z wykorzystaniem PECS LauKre,0.5000
+253,MKK/E -	Udzielanie informacji o sobie - Prze Wój,0.8750
+264,MKR/ E rozumienie stosunków przestrzennych ToLa ,0.1596
+265,S/E liczenie S Koz,0.3333
+266,S/E czytanie S Koz,0.0000
+273,MKK/B  Budowanie dłuższych wypowiedzi JoMi,1.0000
+274,SF/P Realizacja prostych czynności domowych  JoMi ,1.0000
+275,Z/A Wykonywanie prezawodowych łańcuchów czynności  JoMi,0.6250
+276,S/C Czytanie  JoMi,0.2500
+277,S/B Liczenie  JoMi,0.4615
+278,S/E Obsługa komputera  JoMi ,0.1143
+279,S/E  Znajomość nominałów pieniężnych JoMi,0.2297
+280,UKD/B - dopasowywanie pojedynczych elementów Phi Wi,0.1202
+281,MKP/B - proszenie o potrzebę za pomocą PECS Phi Wi,0.5000
+282,SFS/A - czynności samoobsługowe Phi Wi,0.0000
+288,MKP/B Proszenie o nagrody SzyKon,0.2143
+297,SFS/A Realizacja higieny osobistej WikSo,0.1111
+302,UKD/B Sortowanie/dopasowanie identycznych elementów MaBo,1.0000
+303,MKR/B Wykonywanie prostych poleceń MaBo,0.5714
+308,SFS/A Realizacja higieny osobistej MaBo,0.0000
+314,SFG/A Sprzątanie MaBo,0.0000
+320,UKW/A Realizacja albumów aktywności MaPa,0.5714
+321,MKK/C Prowadzenie rozmowy z wykorzystaniem PECS LauKre ,0.0000
+322,UKW/D Podążanie za znanymi poleceniami MiArw ,0.1585
+324,MKK/B Opowiadanie JoMi,0.2368
+328,MKR/C Identyfikowanie elementów otoczenia AnTw,0.1081
+330,S/C Kolorowanie AnTw,0.0000
+334,SFS/A Korzystanie z podpaski MaBo,0.0000
+335,UKW/C Reakcja na timer MiGa,0.3333
+342,"MKK/B, Zadawanie pytań, FiSze",0.7500
+344,"MKK/D,Odpowiadanie na pytania,FiSze",0.5000
+345,FSG/D Kształtowanie interakcji społecznych AdMa,0.0000
+346,"MKK/B, Używanie zwrotów grzecznościowych,FiSze",0.2500
+347,UKW/ B Utrzymanie uwagi na zadaniu Adam M.,1.0000
+348,UKW/B Utrzymanie uwagi na zadaniu   JoMi,0.0000
+352,MKR/E stosunki przestrzenne CeDra,0.3333
+354,SFS/A realizacja higieny osobistej CeDra,0.0000
+355,SFG/A robienie zakupów CeDra,0.0000
+358,S/E Liczenie CeDra,0.0000
+360,S/A przepisywanie w MS Word CeDra,0.2500
+361,Z/A prezawodowe łańcuchy czynności CeDra,0.1250
+362,"SFG/A Robienie zakupów w sklepie samoobsługowym, FiSze",0.1333
+363,Z/A Prezawodowe łańcuchy czynności FiSze,0.1757
+364,S/A Obsługa komputera FiSze,0.2000
+365,S/E Liczenie FiSze,0.0556
+366,"MKN/D Nazywanie czynności, osób, atrybutów FiSze",0.0000
+367,"MKR/ E Identyfikowanie kolorów, kształtów, elementów otoczenia MiGa",0.1111
+379,SFS/A Samoobsługa AnTw,0.0000
+382,S/A obsługa komputera S Koz,0.2121
+384,S/E pisanie S Koz,0.4615
+390,MKP/C Proszenie o pomoc z wykorzystaniem PECSa WikSo,1.0000
+402,FSN/C Korespondowanie JaHa,0.3103
+405,S/C Pisanie MaRy,0.3000
+408,Z/A - Realizowanie prezawodowych łańcuchów czynności - Prze Wój ,0.0833
+409,SFG/A - Realizacja prostych czynności domowych (zbieranie prania) - GrzePo,0.6667
+411,SFS/A - Realizacja higieny osobistej- GrzePo,0.0000
+412,UKD/C - Sortowanie identycznych elementów - GrzePo,0.3421
+413,S/D Realizacja obowiązków MaRy,1.0000
+414,S/E Posługiwanie się zegarem MaRy,0.7500
+415,S/C Znajomość miar i wagi MaRy,0.9286
+417,UKD/B Sortowanie przedmiotów i obrazków MiArw,0.8000
+418,UKD/B Sortowanie przedmiotów SzyKon,0.4000
+419,UKW/D Podążanie za znanymi poleceniami SzyKon,1.0000
+420,MKR/B Identyfikowanie osób z otoczenia MiArw,0.0000
+422,SFS/A Realizowanie higieny osobistej SzyKon,0.0000
+423,SFG/A Wycieranie parapetów SzyKon,0.0000
+424,Z/A Prezawodowe łańcuchy czynności SzyKon,1.0000
+425,SFG/A Nakrywanie do stołu SzyKon,0.0000
+433,S/E Operacje liczbowe w zakresie 1-5 MiGa,0.0748
+435,SFG/A  Zakupy MaRy,0.0000
+438,S/E  Znajomość nominałów pieniężnych JaWó,0.2238
+439,S/C Rozumienie tekstu czytanego MaRy,0.0000
+441,UKW/B Utrzymanie uwagi MaRy,1.0000
+443,S/C Liczenie JaWó,0.1494
+447,UKW/B Podążanie za znanymi poleceniami MaWój,0.0526
+448,UKW/C Reagowanie na timer MaWój,0.3214
+451,S/C Przepisywanie na komputerze ,0.6667
+454,MKR/C Identyfikowanie osob z najbliższego otoczenia MaWój,0.0000
+455,MKN/E Nazywanie przedmiotów MaWój,0.0000
+456,SFS/A Realizacja higieny osobistej MaWój,0.0160
+457,SFS/A Ubieranie się MaWój,0.0175
+459,Z/B Wykonywanie powtarzalnej pracy JaWó,0.1631
+460,S/E Posługiwanie się kalendarzem JaWó,0.2000
+461,S/C Posługiwanie się zegarem JaWó,0.1257
+462,SFG/A Sprzątanie MaWój,0.0000
+464,SFC/A Oglądanie telewizji MaWój,0.0000
+465,Z/A Wykonywanie prezawodowych łańcuchów czynności MaWój1,1.0000
+469,UKW/B Utrzymywanie uwagi JaHa,1.0000
+472,MKR/E Identyfikowanie elementów otoczenia MiGa,0.2041
+480,S/B Obsługa komputera JaWó,0.1488
+481,S/C Wykonywanie zadań JaHa,0.8824
+483,MKP/C Proszenie o jedzenie przy stole SzyKon,1.0000
+494,Z/A prezawodowe łańcuchy czynności MiArw,0.0000
+496,S/C Wykonywanie zadań MaRy,0.8000
+502,Z/A Wykonywanie prezawodowych łańcuchów czynności AdKa,0.0000
+503,SFS/A Realizowanie higieny osobistej MiArw,0.0000
+504,"SFG/A Nakrywanie do stołu talerze, kubki MiArw",0.0000
+505,SFG/A Mycie stołu MiArw,0.0000
+506,MKP/D Proszenie o nagrody za pomocą gestów systemu MAKATON MiArw,0.0641
+509,UKD/B Sortowanie MaPa,0.1111
+510,S/E posługiwanie się kalendarzem SKoz,0.0222
+514,SFC/A Plan samodzielnych aktywności MiArw,0.0000
+527,JK Czekanie próbne 08.12.17,0.6667
+531,JK Program testowy z linią bazową 08.12.17,0.0000
+532,JK Program testowy ilość w czasie + K 08.10.17 ,0.0000
+536,Z/A Wykonywanie prezawodowych łańcuchów czynności (długopisy) MaWój,0.0339
+538,UKW/C reagowanie na imię PhiWi testowy,0.0000
+541,PSZ/E odczytywanie godzin ToLa,1.0000
+542,S/E czytanie ToLa testowy,1.0000
+544,S/A Pisanie na komputerze SKoz,0.2500
+545,SFC/B oglądanie bajek PhiWi testowy,1.0000
+547,UKW/C - czekanieTESTOWYJASZCZ,1.0000
+550,S/E pisanie SKoz,0.3333
+557,MKR1/E Identyfikowanie osób z najbliższego otoczenia FiSze,1.0000
+558,MKP/C Proszenie z wykorzystaniem PECS FiSze,0.0000
+560,MKN/D Nazywanie z wykorzystaniem PECS FiSze,0.0000
+562,MKK/B Zadawanie pytań z wykorzystaniem PECS FiSze,0.0000
+563,MKK/D Odpowiadanie na pytania z wykorzystaniem PECS FiSze,0.0000
+565,MKK/B Odpowiadanie na pytania z wykorzystaniem PECS FiSze,1.0000
+566,SFG/A Robienie zakupów w sklepie samoobsługowym FiSze,0.0000
+567,S/A Obsługa komputera FilipSze,1.0000
+568,S/E Liczenie FilipSze,0.0000
+569,Z/A Prezawodowe łańcuchy czynności FilipSze,0.0000
+570,Wkładanie świeczek do świeczników MaBo,0.0000
+573,SZ/C - obsługa komputera - WiKa,0.5000
+575,UKW/D - podążanie za poleceniami - WiKa,1.0000
+576,MKK/C - prowadzenie rozmowy na dany temat - WiKa,0.0000
+578,Proszenie o pomoc MaBo,1.0000
+581,Jakub Testowy Posługiwanie sie kalendarzem ,0.0000
+588,"MKK/ D CeDra startery PECS, odpowiadanie na pytania",0.0000
+590,UK/B SKoz,0.0000
+591,MKR/C Orientacja w schemacie włąsnego ciała AnTw,1.0000
+592,UKW/A podążanie za planem AniaTestowy,1.0000
+600,S/E CeDra stosunki przestrzenne,0.0000
+601,SFS/A CeDra (A) tonik,0.0000
+603,MKK/B Opowiadanie Joanna Testowy ,0.3333
+604,S/B liczenie Migas testowy ,0.3333
+605,S/E  Znajomość nominałów pieniężnych Migas testowy ,0.3333
+606,MK/C Proszenie o potrzebne przedmioty DoKre,0.1154
+607,MK/K Odpowiadanie na pytania DoKre,0.0580
+608,S/E CeDra posługiwanie się zegarem,1.0000
+615,UKI/B imitacja motoryki dużej Philip W,0.1034
+616,Martyniak A. Obsługa komputera 2,0.0161
+617,UK/W SKoz,1.0000
+618,S/C Czytanie globalne AnTw,0.2000
+619,MKN/C Nazywanie za pomocą PECS AnTW,0.2000
+620,SFS/A Golenie się MaRy,0.0000
+621,SFG /A Prasowanie spodni MaRy ,0.1111
+622,"MaWój Komunikowanie ""nie działa""",0.0690
+631,UKW/C Czekanie notowania MiGa,0.9375
+632,S/E Czytanie notowania MiGa,0.1667
+633,UKD/ E Dopasowywanie pojedynczych elementów notowania MiGa,0.3673
+634,UKW/C Reagowanie na imię notowanie MiGa,0.0000
+635,MKP/C Proszenie o potrzebne przedmioty notowanie MiGA,0.8333
+636,UKD/C Sortowanie elementów w kategoriach notowanie MiGa,0.4348
+637,UKD/C Sortowanie nieidentycznych elementów notowanie MiGa,0.9091
+638,S/E Grafomotoryka notowanie MiGa,0.4348
+639,S/E liczenie SKoz notowanie,0.2381
+640,UK/W  SK czekanie notowanie,0.8276
+642,MK/K  opowiadanie ToLa notowania ,0.1500
+644,UKW/C - Czekanie JASZCZ KOPIA,0.3182
+645,UKW/C - reagowanie na imię JASZCZ KOPIA,0.2000
+646, UKD/B - dopasowywanie JASZCZ KOPIA,0.1837
+647,UKI/B - imitacja werbalna samogłosek JASZCZ KOPIA,0.0000
+648,S/C posługiwanie się zegarem ToLa notowania,0.3571
+649, UKI/B - imitacja przedmiotem JASZCZ KOPIA,0.1284
+650,UKD/B - segregowanie JASZCZ KOPIA,0.2667
+651,S/E czytanie To La notowania,0.6667
+652, P/C - Układanie puzzli JASZCZ KOPIA,0.1321
+653,MKR/B - Wykonywanie prostych poleceń JASZCZ KOPIA,0.2476
+654, S/C - kolorowanie JASZCZ KOPIA,0.0638
+655,SFC/B - oglądanie bajek JASZCZ KOPIA,0.2917
+656,MKP/C - różnicowanie nagród JASZCZ KOPIA,0.0481
+657,UKW/C Czekanie PhiWi DO NOTOWAŃ,0.0000
+660,S/C pisanie imienia SKoz notowania,0.3109
+661,UKW/C Reagowanie na imię PhiWi DO NOTOWAŃ,0.1875
+662,UKW/C Czekanie NOTOWANE AnTw,0.3438
+664,UKD/B Dopasowywanie NOTOWANE AnTw,0.2857
+666,(SYSABA) UKD/C - Dopasowywanie pojedynczych elementów (albumy) - GrzePO,0.2500
+667,(SYSABA) - SFC/B - Oglądanie telewizji - GrzePo,0.4000
+668,UKI/B Imitacja motoryczna NOTOWANE AnTw,0.1429
+669,UKI/C Imitacja z przedmiotami C NOTOWANE AnTw,0.0233
+670,(SYSABA) MKP/B - Proszenie o zaspokojenie potrzeby z wykorzystaniem PECS - GrzePo,0.1000
+671,MKP/C Proszenie o potrzebne przedmioty z wykorzystaniem PECS  NOTOWANE AnTw,1.0000
+672,SZ/C Obsługa komputera WiKa - do notowań,0.4000
+673,(SYSABA) SFG/A - Realizacja prostych czynności domowych - GrzePo,0.0000
+674,MKK/C Prowadzenie rozmowy WiKa  - do notowań,0.2000
+675,UKW/C Reagowanie na imię NOTOWANE AnTw,0.4194
+676,(SYSABA) SFS/A - Ubieranie się - GrzePo,0.2000
+678,SFG/A Realizacja czynności gospodarczych z użyciem sprzętów AGD WiKa - do notowania,0.6667
+679,MKK/B Opowiadanie JoMi - notowanie ,0.1000
+680,MKR/B Wykonywanie prostych poleceń /B NOTOWANE AnTw,0.0294
+682,MKR/C Rozumienie NOTOWANE AnTW,0.1613
+683,Z/A Praca na zlecenie WiKa - do notowań,1.0000
+685,SFG/A Robienie zakupów WiKa - do notowań,1.0000
+686,UKD/B Sortowanie w kategoriach NOTOWANE AnTw,1.0000
+691,Z/A Wykonywanie prezawodowych łańcuchów czynności JoMi - notowanie,0.3684
+704,MKK/C Opowiadanie MiGa,0.0612
+705,SFS/A - czynności samoobsługowe JASZCZ (KOPIA),0.0107
+706,S/D Czytanie globalne CeDra notowania ,0.7500
+708,S/E Liczenie na konkretach CeDra notowania,0.5000
+709,MKN/D Nazywanie atrybutów osób i przedmiotów CeDra notowania,0.0000
+710,MKR/E Identyfikowanie osób NOTOWANIA Fi Sze,0.4595
+711,S/E Posługiwanie się zegarem CeDra notowania,0.0000
+712,MKN/D Nazywanie z wykorzystaniem PECS NOTOWANIA FiSze,0.7273
+713,S/E Identyfikowanie nominałów CeDra notowania,0.0000
+714,MKK/B Odpowiadanie na pytania NOTOWANIA FiSze,1.0000
+715,MKK/D Odpowiadanie na pytania NOTOWANIA FiSze,0.1429
+716,MKP/C Proszenie NOTOWANIA FiSze,0.5000
+717,MKN/D Nazywanie z wyk. PECS  WikSo notowania,0.0000
+718,MKP/C Proszenie o pomoc z wyk. PECS WikSo notowania,0.0000
+719,MKR/D Rozumienie nazw rzeczowników WikSo notowania,0.6667
+720,SFG/A Sprzątanie WikSo notowania,0.0714
+721,Z/A Prezawodowe łańcuchy czynności WikSo notowania,0.3750
+723,UKW/D POdążanie za znanymi PhiWI DO NOTOWAŃ,0.0357
+724,UK/W Przynoszenie elementu z sali zgodnie z etykietą MaWój,0.2222
+726,(SYSABA) S/E - Czytanie - Prze Wój,0.1212
+727,(SYSABA) S/E - Obsługa komputera - PrzeWój,0.6667
+728,(SYSABA) SFC/B Oglądanie telewizji/ słuchanie muzyki - Prze Wój,0.1224
+729,(SYSABA) S/C - Pisanie - PrzeWój,0.0857
+730,(SYSABA) Z/A Wykonywanie prezawodowych łańcuchów czynności - Prze Wój - piórnik,0.0000
+731,"MKN/B nazywanie z wykorzystaniem PECS przedmiotów, czynności, osób i ich wzajemnych relacji LauKre notowania",0.3000
+732,S/E pisanie LauKre notowania,0.0133
+733,Z/A wykonywanie prezawodowych łańcuchów czynności LauKre notowania,0.1042
+734,S/D znajomość nominałów pieniężnych LauKre notowania,0.1010
+735,FSN/A Robienie zakupów SzyKry Kopia,0.0000
+736,UKW/C Czekanie MaPa notowania,0.7500
+737,UKI/B Imitacja motoryczna MaPa notowanie,0.2857
+738,S/B Obsługa komputera SzyKry kopia,0.1053
+742,Z/A Wykonywanie prezawodowych łańcuchów SzyKry Kopia,0.0000
+743,UKW/C Czekanie DoKr notowania,0.4000
+745,UKI/B Imitacja werbalna DoKr notowania,0.0455
+746,UKW/C Czkanie PaST notowania,0.5000
+747,UKD/B dopasowywanie identycznych napisów PaSt notowania,0.0000
+748,MKN/E Nazywanie czasowników PaSt notowania,0.6923
+749,SFC/C oglądanie telewizji PaSt notowania,1.0000
+750,P/C Kolorowanie PaSt notowania,0.0000
+751,UKD/D Dopasowywanie pojedyńczych elementów PaSt notowania,0.5000
+752,UKD/D Sortowanie PaSt notowania,0.0000
+753,SFG/A Sprzątanie PaSt notowania,0.0000
+754,MKR/D Wykonywanie poleceń PaSt notowania,0.5714
+755,Martyniak Adam konwersacje,0.0857
+756,SFC/B Oglądanie TV DoKre notowania,0.0000
+757,MKR/D Rozumienie nazw rzeczowników  WikSo notowania2,0.5000
+758,SFS/A DoKre mycie zębów łańcuch przez pełną prezentację,0.0000
+759,SFG/A DoKre Odkurzanie ,0.0000
+760,MKK/E odpowiadanie na pytania DoKr,0.0000
+761,"MKR/E DoKre Rozumienie nazw rzeczowników, czasowników notowania",0.1677
+762,MKR/D Wykonywanie poleceń złożonych DoKr,0.5333
+763,MKP/C Proszenie o potrzebę za pomocą PECS PhiWI DO NOTOWAŃ,0.1429
+764,UKW SzyKry Podążanie za znanymi poleceniami Kopia NOWA,0.4000
+765,UKW/D - podążanie za znanymi poleceniami JASZC,0.0000
+766,UKW/D - podążanie za znanymi poleceniami JASZCZ (KOPIA),0.1633
+769,S/E czytanie ToLa not,0.5000
+770,Samoobsługa NOTOWANE AnTw,0.0000
+771,GrzePo - Samodzielne i spokojne realizowanie aktywności proaktywnych,0.1724
+772,Adam Martyniak PSZ S Pisanie ze słuchu,0.1667
+773,Adam Martyniak ON- TASK NOTOWANIA,0.0000
+774,Adam Martyniak Rozumienie czytanego tekstu NOTOWANIA,0.0541
+775,PrzeWój - Odpowiadanie na pytania,0.0000
+776,MK/P Proszenie o jedzenie/picie za pomocą PECS MaBo,0.1143
+777,MK/N Nazywanie przedmiotów z wykorzystanie PECS MaBo,0.0968
+778,UK/D Sortowanie identycznych elementów MaBo,0.7143
+779,UK/W Reagowanie na timer MaBo,0.0000
+780,PrzeWój - Pisanie na komputerze - codzienne,0.5455
+781,S/E Czytanie Tobi,0.2929
+782,ON- TASK NOTOWANIA ADAM M.,0.1316
+784,SzyKry Robienie Zakupów NOWE,0.0000
+785,Z/A Wykonywanie pracy na zlecenie FiSze,0.1923
+786,MKR/B - Wykonywanie prostych poleceń  II JASZCZ,0.5714
+787,Adam LICZENIE 5 PRÓB NOTOWANIA,0.2295
+788,Adam mierzenie notowania 5 prób,0.1579
+789,ADAM PISANIE ZE SŁUCHU 5 PRÓB,0.1034
+790,MKP/C proszenie o potrzeb za pomocą PECS PhiWi do notowań 2,0.0420
+791,Z/A Zakręcanie butelek MiArw ,0.0000
+792,UKW czekanie zmodyfikowane Phi Wi,0.2951
+793,Z/A Wykonywanie powtarzalnej pracy zawodowej SzyKon ,0.0625
+794,Z/A Wykonywanie prezawodowych łańcuchów czynności MiArw DO NOTOWAŃ,0.0337
+795,SZ/A Obsługa komputera - WiKa do notowań,0.3846
+796,GrzePo - proszenie różnych osób o potrzebne przedmioty,0.0000
+797,GrzePo - nazywanie przedmiotów/czynności,0.1348
+798,PrzeWój - Odpowiadanie na pytania o najbliższe otoczenie,0.0000
+799,PrzeWój - odpowiadania na pytania do obrazka - czasowniki,0.0000
+801,PrzeWój - Pisanie na komputerze - codzienne2,0.4286
+802,PrzeWój - Mycie rąk - codzienne,0.0000
+808,UK/W Czekanie Wzorcowy we Wzorcowym,0.7500
+809,UK/W On task Wzorcowy we wzorcowym,1.0000
+810,SFS/A realizacja higieny  Wzorcowy 2 we wzorcowym,0.0000
+811,"UK/D wzorcowy tyb B, wybrane ćwiczenia, wymuszona liczba prób bez limitu czasowego",0.7500
+812,"UK/I wzorcowy tyb B, wybrane ćwiczenia,bez wymuszonej liczba prób bez limitu czasowego",0.3333
+813,"UK/W wzorcowy tyb B, wybrane ćwiczenia, wymuszona liczba prób z limitem czasowym",1.0000
+814,"UK/I wzorcowy tyb B, wybrane ćwiczenia,bez wymuszonej liczba prób z limitem czasowym",0.5000
+815,SFG/A Wzorcowy łańcuch przez całkowitą prezentację,0.0000
+816,SFG/A wzorcowy łańcuch zachowań od końca,0.0000
+817,PSZ/ A wzorcowy cuch łańod początku,0.0000
+818,MK/B proszenie o nagrodę  pomiar w próbie czasowej z wymuszoną liczbą prób,1.0000
+819,MKP/B pomiar w próbie czasowej bez wymuszonej liczby prób,1.0000
+820,UK/W  Gacoń Testowy pomiar w próbie czasowej,0.5000
+821,UK/W Gacoń pomiar w próbie czasowej wymuszona liczba prób,0.0000
+822,UK/W Uwaga wzorcowy 1 próba pomiar w próbie czasowej,1.0000
+823,UK/D wzorcowy B 2 kroki 1 zadanie,0.0000
+824,PSZ/ C wzorcowy kroki ilośc prób 3,0.2857
+825,UKI/D imitacja ze zdjęcia wzorcowy zestaw wym. l.prób 3,0.6667
+826,UKW/E proste polecenia zest. w krokach 2 kroki i 2 zadania,0.3333
+827,UKW/B reagowanie na imię z podpowiedziami i linią bazową l.p 5 lb 5,0.5000
+828,PSZ/B czytanie z podpowiedziami,0.3333
+829,UKI/D imitacja ruchów z l.b 3,0.0000
+831,S/C przeliczanie z linią bazową,0.0000
+837,UKW/C Reagowanie na imię,0.5510
+851,UKI/B Imitacja motoryczna Uczeń szkoleniowy,0.0000
+852,SFS/A  Realizacja higieny osobistej Uczeń Szkoleniowy,0.0000
+854,UKW/B On task podczas zabawy grupowej Uczeń Szkoleniowy,0.0000
+855,MKP/B Komunikowanie swoich próśb Uczeń Szkoleniowy,1.0000
+856,UKW/B Bycie w zadaniu Uczeń Szkoleniowy,1.0000
+863,UK/I/B imitacja motoryczna - uczeń szkoleniowy 4,1.0000
+867,imitacje,0.0000
+871,imitowanie,1.0000
+872,"SF/SF_S Mycie rąk, czesanie włosów uczeń 18",1.0000
+873,"SF/SF_S mycie rąk , czesanie włosów",0.0000
+874,"SM/S/A - Realizacja higieny osobistej (mycie rąk, robienie kucyka)",0.0952
+877,SF/A Gonia ,0.0000
+878,SFG/A sortowanie przedmiotów na 2 zbiory,0.0000
+885,SFS/A Aga,0.0000
+891,SFS - Samodzielne funkcjonowanie / umiejętności samoobsługowe.,0.0000
+892,SFS/A Robienie kucyka szkol,0.0000
+893,Robienie kucyka,0.0000
+895,SF/Ł Higiena osobista - AA,0.0000
+896,SM/SFS/szkoleniowy 16,0.0000
+899,SFS/A relizacja higieny osobistej,0.3333
+901,SFS/A realizacja higieny osobistej,0.0000
+907,SFS/A/1,0.0000
+909,SFG/A Aga,0.0000
+914,SFS/A realizacja h.szu14,1.0000
+916,SFG/A Szkoleniowy 10,0.0000
+922,SFG/A szko 21 robienie kisielu,0.0000
+924,SFG/A/ umiejetności gospodarcze,0.0000
+925,SF/G/A - Przygotowanie kisielu student 4,0.5000
+931,UK/ Samoobsługa  Olek ,0.0000
+936,SFS/A REALIZACJA HIGIENY OSOBISTEJ3,0.0000
+940,UKW/C czekanie KsPe,0.4085
+942,S/A pisanie na komputerze MiGa,0.0811
+943,SFS/A umiejętności samoobsługowe MiGa,0.0000
+945,UKD/B dopasowywanie pojedyńczych elementów KsPe,0.4189
+946,MKR/B wykonywanie poleceń KsPe,0.6842
+947,UKI/B imitacja z przedmiotami KsPe,0.2459
+948,SFS/A mycie rąk KsPe,0.0000
+949,SFS/C trening czystości KsPe,0.9032
+951,UKW/C czekanie MaOch,1.0000
+952,UKD/B dopasowywanie pojedyńczych elementów MaOch,0.7647
+953,UKI/B imitacja z przedmiotami MaOch,0.2830
+954,SFS/A mycie rąk MaOch,0.0364
+955,SFS/F trening czystości MaOch,0.8250
+956,S/E Grafomotoryka AlTu,1.0000
+957,MKR/B wykonywanie poleceń MaOch,1.0000
+958,S/E Liczenie AlTu,0.7143
+959,S/E Pisanie AlTu,0.0000
+960,P/C Kolorowanie AlTu,0.2188
+961,MKN/C Nazywanie AlTu,0.5395
+962,UKD/B Segregowanie w kategoriach AnTw,0.2857
+966,UKD/B Dopasowywanie MaOl,0.5000
+967,Podążanie za znanymi poleceniami - SzyKon Nowy UKW/D,0.0526
+968,Proszenie o wzmocnienia - SzyKon Nowe MKP/D,0.3600
+970,SFG/A Sprzątanie MaBoj - po zmianie reakcji terapeuty,0.0144
+975,UKW/A podążanie za planem samodzielnej aktywności KsPe,0.0000
+977,SFG/A - Realizacja prostych czynności domowych - MiAr,0.5000
+978,UKW/C Czekanie MaOl,1.0000
+979,UKI/B Imitacja z przedmiotami MaOl,0.1026
+982,SFG/A - Realizacja prostych czynności domowych - WiKa,0.5333
+983,PSZ/Z - realizowanie prezawodowych łańcuchów - WiKa,0.4500
+984,SFG/A - czynności gospodarcze SZYKO,0.0000
+985,MKR/B Wykonywanie poleceń MaOl,0.0000
+986,SF/C - Spędzanie czasu wolnego - kontrakty - MiAr,0.2000
+987,Czekanie UK/Uk W,0.3846
+988,SF_G/A Sprzątanie MaRy,0.0000
+989,PSZ/S Filip W,0.8419
+990,FS/G Filip W.,1.0000
+991,FS/G bycie w uwadze Filip W.,0.2295
+993,MK/D odpowiadanie na pytania o rodzinę i szkołęPrzWoj,0.1000
+994,S/C pisanie imienia PrzWoj,0.2105
+995,S/E CzytaniePrzWoj,1.0000
+996,S/E Pisanie na komputerze PrzeWoj,0.0000
+997,Z/A Wykonywanie prezawodowych łańcuchów czynności-piornik Prz/Woj,0.0909
+998,MK/D odpowiadanie na pytania do obrazkaPrzWoj ,0.4286
+999,UKI/B SYSABA  SYSABA imitacja ruchów motorycznych,0.4444
+1000,UKI/B SYSABA 10 Imitacja ruchów motorycznych,1.0000
+1001,UKI/B 3 Uczeń SYSABA IMITACJA RUCHÓW MOTORYCZNYCH,1.0000
+1003,UKI/B 30 imitacja ruchów Uczeń 30 ,1.0000
+1004,UK/B SYSABA imitacja ruchów motorycznych ,1.0000
+1005,UKI/B uczeń 33 imitacja ruchów motorycznych,0.5000
+1007,UKI/B 2 UCZEŃ SYSABA IMITACJA RUCHÓW MOTORYCZNYCH,0.5000
+1008,UKI/B/20Uczeń SYSABA imitacja motoryczna,1.0000
+1009,UK/B uczeń11 imitacja ruchów motorycznych ,1.0000
+1010,UK/I/B/uczeń 18 imitacja ruchów motorycznych,0.5000
+1011,uki/b 15 uczeń sysaba imitacja ruchów motorycznych,0.3333
+1014,UKI/B/SYSABA17  Imitacja ruchów motorycznych,0.0000
+1015,UKI/B/SYSABA23 imitacja ruchów motorycznych,0.5000
+1017,UKI/B/imitacja motoryczna,0.0000
+1019,UKI/B 4 uczeń imitacja ruchów motorycznych,1.0000
+1020,UKI/B 25 Uczeń SYSABA imitacja ruchów motorycznych,1.0000
+1022,UKI/B  uczeń 31 imitacja ruchów motorycznych,0.5000
+1023,UK/IB/uczeń19 imitacja ruchów motorycznych,1.0000
+1025,UKI/B IMITACJA RUCHÓW MOTORYCZNYCH 5SYSABA,1.0000
+1030,UKI/B Uczeń 34 ,1.0000
+1031,UKI/B Imitacja ruchów Uczeń 1,1.0000
+1032,UKI/B  imitacja ruchów motorycznych ,0.7500
+1033,UKI/B/14SYSABA Imitacja ruchów motorycznych,0.6667
+1034,UK/B SYSABA im. ruchów motorycznych,0.5000
+1037,SFS/24/A uczeń robienie kucyka/mycie rąk,0.5000
+1038,SF/SF_S Realizacja higieny osobistej U32,0.5000
+1039,SF/SF _S realizacja higieny osobistej u26,0.0000
+1040,"SFS/A higiena osobista, robienie kucyka",0.4000
+1041,SFS/A realizacja higieny osobistej 20 Uczeń SYSABA,0.5000
+1042,SFS/A 3 uczeń SYSABA realizacja higieny osobistej,0.0000
+1043,sfs/a 15 sysaba mycie rąk i czesanie kucyka,0.3750
+1044,SFS/A 2 UCZEŃ SYSABA Realizacja higieny osobistej,0.0000
+1045,"SFS/A 25 Uczeń SYSABA mycie rąk, czesanie kucyka",0.4000
+1047,SFS/A realizacja higieny osobistej S.,0.3333
+1048,UKI/B  uczeń 31 realizacja higieny osobistej,1.0000
+1049,UKI/B 4 uczeń realizacja higieny osobistej,0.8333
+1051,SFS/A Realizacja higieny osobistej SYSABA 8,1.0000
+1052,SFS/A realizacja higieny osobistej SYSABA23,0.6667
+1053,SFS/A/17 Realizacja higieny osobistej,0.0000
+1054,SFS/A HIGIENA OSOBISTA 5 SYSYBA,0.6667
+1058,SFS/A realizacja higieny osobistej UCZEŃ 30,0.0000
+1060,SFS/A UCZEŃ 1,0.0000
+1062,SFS/14SABA Realizacja higieny osobistej,0.0000
+1063,SFS/A uczeń 33,0.0000
+1066,SF/zrobienie kucyka,1.0000
+1067,SF/A  realizacja higieny osobistej/ uczeń 19,0.2500
+1068,S/C liczenie S,0.7143
+1069,SF/A/Mycie rąk,0.3333
+1070,USL/C przeliczaie do 5,1.0000
+1074,s/c liczenie do 5 u15,1.0000
+1075,S/C przeliczanie do 5,1.0000
+1076,S/C przeliczanie do 5 UCZEŃ 2 SYSABA,1.0000
+1078,S/C 20 Uczeń SYSABA,1.0000
+1079,PSZ/S przeliczanie do 5,0.0000
+1080,PSZ/S Liczenie,1.0000
+1082,S/C  uczeń 24 przeliczanie do 5,0.0000
+1083,S/C Przeliczanie do 5 SYSABA 8,0.0000
+1088,UKI/B 4 uczeń liczenie do 5,0.0000
+1090,UP/C umiejętności szkolne przeliczanie SYSABA23,1.0000
+1091,US/C liczenie uczeń 33,0.5000
+1092,US/C uczeń 11,1.0000
+1096,PSZ/S liczenie SW ,1.0000
+1097,US/C 14 SYSABA Przeliczanie do 5,1.0000
+1100,P/C Liczenie do 5,0.0000
+1103,S/C/ umiejętności szkolne Uczeń 18,1.0000
+1104,On-task MarWój,0.3793
+1105,utrzymywanie uwagi on-task,0.1111
+1106,FS/G Mateusz P bycie w zadaniu,0.4118
+1107,FS/G Kamil S bycie w zadaniu,0.5909
+1108,FS/G Krystian Z bycie w zadaniu,0.1111
+1109,SFG/A - czynności gospodarcze SZKO,0.0588
+1110,S/C - pieniądze SZyKO,0.2469
+1111,PSZ/S czytanie Krystian Z,0.6730
+1112,PSZ/S czytanie Mateusz P,0.7822
+1113,PSZ/S czytanie Kamil S,0.8520
+1115,PSZ/S rozumienie tekstu Mateusz ,0.4667
+1116,UKI/C naśladowanie ruchów motoryki dużej R,0.0000
+1117,S/E Liczenie w zakresie  do 10 SZYKO,0.2213
+1118,UKW/B Utrzymywanie uwagi JaH,1.0000
+1119,UKW/B Utrzymywanie uwagi MaRy,1.0000
+1163,UKW/C - Czekanie ADY,0.6667
+1165,UKW/B - jest on task podczas pracy w klasie ADY,0.7143
+1166,FSC funkcjonowanie w grupie umiejętność czekania,1.0000
+1169,SFS/A - dbanie o siebie ADY,0.1875
+1170,S/C - pisanie imienia ADY,0.4483
+1171,Czekanie kontrakt MiGa ,0.5333
+1172,S/E Przepisywanie na komputerze JaH,1.0000
+1173,SFG/A Sprzątanie,0.0000
+1174,S/C - przepisywanie na komputerze SZYKO,0.7500
+1175,S/C Znajomość nominałów pieniężnych ADY,0.1356
+1176,S/C Liczenie (zakres do 20) ADY,0.1198
+1177,Rozumienie mowy - podawanie przedmiotów - MarWój,0.2941
+1178,MKR/C rozpoznaje i wskazuje cześci ciała - głowa,1.0000
+1179,AlWi UKW1 plan SAM,1.0000
+1180,MKN/C nazywanie części ciała w obrębie głowy,1.0000
+1184,MKSD/sortowanie obrazów wedle cechy: kolory,1.0000
+1189,UKI/E imitacja ruchów motoryki DoKr,0.1042
+1191,S/E- Łatwe czytanie (z liną bazową) ADY,0.2432
+1192,Z/B - Prezawodowe MarBoj,0.1875
+1193,MKR/B Wykonywanie prostych poleceń MaBo - KOPIA,0.3676
+1194,Sortowanie identycznych elementów - MarBoj,0.6667
+1195,Proszenie o pomoc z wykorzystaniem PECS MKP/C AnTw,0.2500
+1196,ToLa Znajomość nominałów pieniężnych  S/E,0.5306
+1197,ToLa Miary i Wagi  S/C,0.2703
+1198,ToLa Zegar S/C,0.2514
+1235,SFG/A Mycie toalety JaH,0.4000
+1236,SFG/A Czynności gospodarcze MaRy,0.0000
+1237,FS/A Korzystanie z telefonu MaRy,0.0000
+1238,ToLa Obsługa komputera S/B,0.3684
+1239,MarBo - Wykonywanie poleceń kierowanych do grupy,0.2667
+1240,MarWój - Wykonywanie poleceń kierowanych do grupy,0.6667
+1243,UKD/E sortowanie wg kategorii MaOch,0.2128
+1244,P/C kolorowanie MaOch,0.0000
+1245,"MKN/E nazywanie czynności, zwierząt, rzeczowników MaOch",0.2507
+1248,UKW/D Podążanie za poleceniami AdKa,0.4211
+1249,Z/B wykonywanie powtarzalnej pracy JoMi,0.2174
+1251,MarBoj - Imitowanie z zakresu motoryki dużej (zajęcia grupowe),0.7857
+1252,UKI/B - Imitacja motoryczna JaSzcz,0.2000
+1254,"MarWój - Komunikowanie ""nie chcę!""",0.0000
+1255,MarWój - Imitowanie z zakresu motoryki dużej (zajęcia grupowe),0.5882
+1256,MarWój - Czynności biurowe (5 prób),0.0278
+1257,UKD/C Dopasowywanie pojedynczych elementów JaSzcz,0.1619
+1258,Z/B - Zadania prezawodowe JaSzcz,0.1818
+1259,SF/A ZakupyPrzeWojci,0.1333
+1262,"MKR/C Rozumienie nazw rzeczowników,czasowników i przymiotników JaSzcz",0.1651
+1263,S/C Grafomotoryka JaSzcz,0.1667
+1265,AlWi UK/W 2 podążanie za znanymi poleceniami,0.2727
+1266,MKR/B - Rozumienie mowy (identyfikowanie przedmiotów codziennego użytku),0.0000
+1267,UKW/B Podążanie za znanymi poleceniami MaWój - 3 próby,0.3307
+1269,Z/ A RobienieZestawuSztućców1 PrzeWoj,0.1304
+1270,UKD/C Dopasowywanie pojedynczych elementów PhiWi,0.2703
+1271,FS/G bycie w zadaniu 2 Krystian Z.,0.6364
+1272,S/E - posługiwanie się kalendarzem SZYKO,0.0484
+1273,UKD/B Sortowanie identycznych elementów JaSzcz,0.1719
+1275,SF/ubieranie,0.7500
+1276,FS/ubieranie,0.3200
+1277,SFG/A Sprzątanie JaH,0.4138
+1278,PSZ_S/E Przepisywanie na komputerze JaH,0.7000
+1279,MKN/C Nazywanie LauKR,0.2941
+1281,FSN/A Korzystanie z telefonu MaRy,0.3529
+1282,SFG/A Sprzątanie MaRyb,0.2292
+1283,SFG/A Nawlekanie nici JaH,0.2857
+1284,SFG/A Nawlekanie igły MaRy,0.2222
+1285,MK/N PauSt,0.0000
+1286,MKN/E atrybuty PaSt,0.0000
+1287,PSZ/E pisanie PaST,0.0000
+1288,On task ToLa,0.2941
+1289,SFS/A sprzątanie MaOch,0.0769
+1290,MKP/C proszenie  KsPe,0.3548
+1291,UKW/C Reagowanie na imię MaWój,0.0000
+1292,UKW/C- Czekanie MaWój,0.6818
+1294, MKR/B - Rozumienie mowy (identyfikowanie przedmiotów codziennego użytku) - KOPIA,0.2667
+1296,UKD/E Dopasowywanie przedmiotów MaOl,0.3043
+1298,UK/W Realizacja albumu aktywności MaOl,0.0000
+1299,SFS/A Mycie rąk MaOl,0.0000
+1301,SFG/A sprzątanie MaPa,0.0909
+1302,UKD/E Sortowanie PaSt,0.5676
+1303,MKP/E proszenie o wzmocnienie MAPa,0.5333
+1304,"PROSZENIE O POMOC, PROGRAM 1",1.0000
+1305,PSZ/S rozumienie tekstu Kamil,0.4333
+1306,PSZ/S rozumienie tekstu Filip,0.3333
+1307,Wykonywanie prezawodowych łańcuchów czynności,1.0000
+1309,Mowa i komunikacja - Konwersacje - Udzielanie informacji o sobie,0.8571
+1311,UKW/C- Czekanie MaBoj,0.4308
+1312,UKW/C Reagowanie na imię MaBOJ,1.0000
+1313,Czytanie ,0.2875
+1314,Samodzielne przygotowanie jedzenia,0.0714
+1315,Imitacja motoryczna,0.4000
+1316,Imitacja rysowanie/pisanie,0.4800
+1317,S/E Liczene AlTu ,0.4413
+1318,Segregowanie ,0.5000
+1319,Dopasowywanie ,0.2346
+1320,PSZ/E Rozpoznawanie i nazywanie kolorów i kształtów ADY,0.0688
+1321,Funkcjonowanie społeczne,0.1136
+1322,Wykonywanie poleceń złożonych.,0.6667
+1323,Rozumienie mowy.,0.3049
+1324,Proszenie o potrzebne/brakujące przedmioty.,0.5556
+1325,Nazywanie.,0.2456
+1329,SF/A  Pranie|RęcznikówPrzeWoj,0.0000
+1330,SF/A Realizacja czynności gospodarczych FiSze,0.1364
+1331,S/E Pisanie  AlTu,0.0000
+1333,S/E Czytanie globalne  AlTu,0.4000
+1334,S/E  Pisanie  AlTu,0.3103
+1336,Proszenie o wykonanie różnych czynności potrzebnych do dokończenia czynności.,0.4091
+1337,Konwersacje.,0.3793
+1342,UKD/B Dopasowywanie obrazków MaOl,0.1324
+1343,SFG/A - czynności gospodarcze mycie lustraFiSze,0.1724
+1344,PSZ/SKrystian rozumienie tekstu,0.3704
+1345,SFG/A - czynności gospodarcze - mycie umywalki FiSz,0.0000
+1347,Układanie klocków,1.0000
+1348,Plan samodzielnej aktywności.,0.2727
+1350,Imitacja ruchów motoryki małej i dużej - sekwencje ,0.4000
+1351,Imitacja - pisanie. ,0.2857
+1352,Czytanie ze zrozumieniem.,0.4000
+1353,Rozumienie mowy - proste polecenia.,0.1977
+1354,MK/E Opis zwierząt na obrazkach ADY,0.1702
+1355,SFS/A Wiązanie sznurowadeł SKoz,0.2000
+1357,PSZ/E Pisanie   PaSt,0.2353
+1358,Posługiwanie się zegarem PSZ/S LaKr,0.5532
+1363,"Spokojne proszenie o powstrzymanie niechcianej aktywności, odmawianie.",0.4000
+1366,Rozumienie złożonych poleceń.,0.6667
+1367,"Proszenie o pożądaną rzecz/aktywność z użyciem przysłówków, przyimków, przymiotników.",0.6667
+1368,Nazywanie ,0.2987
+1373,Odpowiadanie na pytania.,0.1538
+1374,Czytanie.,0.0000
+1375,Liczenie.,0.5000
+1376,Z/E Realizacja różnych aktywności MaPo,0.5000
+1377,PSZ_Podpisywanie się,0.3846
+1378,MK/K/Spontaniczne komunikaty do rówieśnika,0.0000
+1379,MK/K/Spontaniczne komunikaty do rówieśnika_,0.0000
+1380,Czytanie 1.,0.2250
+1381,Segregowanie.,0.2000
+1382,UK/W/współpraca,0.6667
+1383,Zakupy.,0.0000
+1384,MK/P/Proszenie o potrzebne przedmioty.,0.6000
+1385,MK/P/Proszenie o potrzebne przedmioty_,0.6000
+1386,UK/DS/2,0.5200
+1387,PSZ/5,0.4906
+1388,UK/DS/3,0.3333
+1389,FS/G/1 - czekanie na swoją kolejność,0.2000
+1390,UK/DS/1/ALFABET,0.0000
+1391,UK/DS/2/NOMINAŁY,0.0000
+1393,SF/Z/2 - format textu,0.6173
+1394,UK/DS/1 - sortow.,0.4000
+1395,PSZ/1 - dyktando,0.5455
+1397,"MK/R/1 - słuchanie - odpowiedzi kto, co, gdzie",0.2712
+1399,"MK/R/2 - przymiotniki przeciwstawne (mały/duży, krótki/długi, pełny/pusty)",0.4800
+1400,SF/S/2 - przygotowanie kanapek,0.0000
+1401,SF/Z/1 - kserowanie,0.0000
+1402,SF/Z/2 - form. tekstu,0.3592
+1403,UK/DS/1/1DOPASOWYWANIE KOLORY ,0.6667
+1404,SFS/A Mycie rąk AlTu,0.0127
+1407,UK/DS/2/MG,0.1429
+1408,UK/DS/3/MG,0.2727
+1409,UK/DS/1/WK/dopasowywanie/naczynia/sztucce,0.6327
+1410,UK/DS/2/WK/dopasowywanie/bielizny,0.2857
+1411,UK/DS/5/MG,0.2778
+1412,UK/DS/3/WKparowanie/skarpet,0.2500
+1413,UK/DS/4/MG,0.2857
+1414,UK/DS/6/MG,0.5000
+1415,MK/R/1/WK/wykonuje/polecenia,0.6333
+1416,"MK/R/2/WK/""pokaż""",0.3000
+1417,"MK/R/3/WK/""Daj""",0.3000
+1418,MK/P/1/WK/prosi/pomoc,0.2500
+1419,MK/P/2/WK/prosić/wzmocnienia,0.5000
+1421,"PROGRAM 1, PROSZENIE O POMOC",0.4444
+1422,"NAPRZEMIENNA GRA, LOTTO, DOMINO, PROGRAM 1",0.0606
+1423,UK/DS/1/2/DOPASOWYWANIE KATEGORIA,0.0000
+1425,"LICZBA MNOGA, PROGRAM 1",0.7500
+1427,Liczenie do 5 MB,0.0000
+1428,IPAD MB,0.0000
+1429,MK/N/2/WK/nazywanie/PECS,0.5000
+1431,PSZ_Podpisywanie się.,0.2500
+1432,M/K/komunikaty do rówieśnika podczas gry w kręgle,0.1351
+1433,M/K/komunikaty do rówieśników podczas gry w kręgle,0.2373
+1434,SF/S/9/WK/herbata,0.3333
+1435,SF/P/4/WK/zmywarka,0.1818
+1436,MSZ - zegar,0.2857
+1440,SF/S/8/MG,0.0400
+1441,SF/P/3//WK/posiłek/sprzątanie,0.2143
+1442,SF/S/5/WK/myje/ręce,0.5714
+1443,SF/S/1/MG,0.0000
+1444,AlWi MK/P 2 proszenie PECS,0.0000
+1445,"Opowiadanie-uczenie w oparciu o skrypty, 1",0.7288
+1446,SF/S/5/MG,0.0000
+1447,"RYSOWANIE, PROGRAM 1",0.2759
+1448,SF/P/3/WK/herbata/sprzątanie,0.4000
+1449,SF/S/6/MG,0.2500
+1450,SF/S/7/MG,0.0000
+1451,Posługiwanie się pieniędzmi,0.3333
+1452,czytanie ze zrozumieniem,0.4545
+1453,SF/Z 4 - drukowanie,0.0000
+1454,SF/Z/5 - archiwizacja do segregatora,0.2500
+1456,SF/Z/3  - email,0.2222
+1457,MK/K/ 1 - dialog,0.6667
+1458,sytuacje społeczne,0.8000
+1459,UK/DS/1 - sortowanie,0.6111
+1460,"MK/R/1 - słuchanie - odpowiedzi kto, co, gdzie GC",0.6250
+1461,"MK/R/2 - przymiotniki przeciwstawne (mały/duży, krótki/długi, pełny/pusty) GC",0.8500
+1462,zegar,0.4000
+1464,SF/Z/1 - kserowanie GC,0.0000
+1465,JW posługiwanie się pieniędzmi,1.0000
+1466,SF/Z/3 - email GC,0.1190
+1467,JW - czytanie ze zrozumieniem,0.3846
+1468,SF/Z/4 - drukowanie GC,0.0000
+1469,SF/Z/5 - archiwizacja do segregatora GC,0.2632
+1471,FS/G/1 - czekanie na swoją kolej GC,0.6667
+1472,JW - u. społeczne,0.7500
+1473,UK/W/1 - trening poleceniowy GC,0.7778
+1474,SF/C/1 - karta pracy GC,0.5000
+1475,PSZ/1 - dodawanie na konkretach zak.20 GC,0.5000
+1476,PSZ/2 - pieniądze GC,0.2800
+1477,PSZ/3 - podpisywanie się (imie/nazwisko) GC,0.1364
+1478,PSZ/4 - pisanie cyfry GC,0.3000
+1479,MK/N/1/WK/nazywa/przedmioty,0.1111
+1480,SF/S/1 - mycie zębów GC,0.0000
+1481,SF/S/2 - przygotowanie kanapki GC,0.0000
+1485,"ON TASK, PROGRAM 1",0.1613
+1488,UKW/A realizacja albumów aktywności MaOl,0.1250
+1489,AlWi MK/P 1 spontaniczne komunikowanie się,0.1364
+1490,S/E Trening płynności czytania ,0.5000
+1493,Imitacja motorycznaa,0.0000
+1494,UK/DS/3/RODZINA,0.8000
+1495,AlWi S3 przeliczanie modyfikacja,0.0833
+1496,AlWi S3 przepisywanie na komputerze,0.0000
+1497,MK/N/3/PORY ROKU,0.3333
+1498,UK/DS/4/ZJAWISKA I PORY ROKU,0.5517
+1500,UK/DS/4/1,0.4167
+1501,UK/DS/4/2,0.3529
+1502,MK/R/2/1,0.4091
+1504,MK/R/2/3,0.1333
+1505,MK/R/2/4,0.5581
+1506,MK/R/2/5,1.0000
+1508,PSZ/S płynność czytania Krystian,0.0741
+1509,MKR/B Rozumienie i wykonywanie prostych poleceń MaOl,0.2958
+1510,Dopasowywać cyfrę do zbioru ,0.5385
+1511,Rozumienie,0.6667
+1512,UK/W/2/3,0.5000
+1515,MK/P/2,0.4000
+1516,MK/N/2/3,0.1429
+1517,MK/K/2,0.1667
+1519,SF/S/5,0.2000
+1520,SF/Z/1,1.0000
+1521,SFG/A odkurzanie DoKr,0.0000
+1522,UKW/C czekanie na stojąco DoKr,0.3256
+1523,PSZ/S płynność czytania Filip,0.0865
+1524,MK/K/1/KOM_PRZEPRASZAM,0.1667
+1525,SF/Z/1/PRZEPISYWANIE NA KOMP,0.2222
+1526,PSZ/1/PISANIE IMIENIA I NAZWISKA,0.5000
+1527,PSZ/3/ODLICZANIE,0.1290
+1528,PSZ/2/DOPASOWYWANIE LICZB,0.8000
+1529,UKW /D Wykonywanie poleceń z przemieszczeniem  AlTu,0.7500
+1531,SFG/A  Nakrywanie do stołu AlTu,0.1500
+1533,Zakupy w sklepie,0.0000
+1535,"Reagowanie na imię, program 1",0.2500
+1536,"Zwroty grzecznościowe, program 1",0.4286
+1538,UK/DS/1/2/DOP_KSZTAŁT,1.0000
+1539,UK/DS/1/3/DOP_KAT,0.3000
+1540,UK/DS/1/1/DOP_KOL,0.4412
+1541,UK/W/1/REAGOWANIE NA IMIĘ,0.0526
+1542,UK/I/1/IMITACJA_MOT_D,0.3333
+1543,UK/I/2/1/IMIT_FIG_GEO,0.2222
+1544,UK/I/2/2/IMITACJA_LITERY,0.3333
+1545,MK/N/1/1/NAZYWANIE_FIG_GEO,0.0769
+1546,MK/N/1/2/NAZYWANIE_KOLORY,0.0625
+1547,MK/N/1/3/NAZYWANIE_POJAZDY,0.1429
+1548,MK/N/1/4/NAZYWANIE_CZYNNOŚCI,0.1200
+1549,MK/K/1/ILE MASZ LAT,0.2000
+1550,MK/K/2/ZDANIA_NIEDOK,0.1648
+1551,UK/DS/2/DOP_NOMINAŁY,0.3333
+1552,UK/DS/1/DOP_ALFABET,0.3500
+1553,MK/N/2/NAZYWANIE_CZYNNOŚCI,0.7188
+1554,MK/N/1/NAZYWANIE_NAUCZYCIELE,0.2000
+1555,MK/R/1/NAPISZ_JAK_MASZ,0.5385
+1556,MK/K/4/ZDANIA_NIEDOKOŃCZONE,0.5882
+1558,MKK/E Odpowiadanie na pytania związane z sytuacjami społecznymi AlTu,0.2222
+1559,SF/C - Samodzielna praca w oparciu o kontrakt - MiAr,0.2105
+1561,Nawiązywanie kontaktu wzrokowego w reakcji na imię.,0.9286
+1562,Imitacja motorycznaaa,0.2500
+1563,Imitacja motoryczna z przedmiotami,0.0000
+1564,Dopasowywanie napisu do obrazka,0.0000
+1565,Zakupy ,0.0000
+1567,Podążanie za planem,0.0000
+1568,MKK/C Opowiadanie historyjek obrazkowych AlTu,0.0000
+1569,Układanie i dopasowywanie,1.0000
+1570,MK/K/3/ZDANIA WIELOELEMNTOWE,0.9167
+1573,PSZ/1/ETYKIETOWANIE,0.3095
+1574,PSZ/2/DOP_LICZB_ILOŚĆ,0.1000
+1575,Nazywanie pór roku,0.0000
+1576,Odpowiada na  pytania Co?,0.3333
+1577,REalizacja planu SAM,0.5000
+1578,Podlewanie,1.0000
+1579,Rozpoznawanie cyfr 0-10.,0.1500
+1580,P/C Kolorowanie KsPe,0.0000
+1581,SFG/A ściąganie prania KsPe,0.1333
+1582,Wybiera właściwie przedmioty.,0.0000
+1583,Spontaniczne mandy,0.0000
+1584,Nazywanie Czynności,0.0000
+1585,Komunikat „ skończyłem”,0.2500
+1586,Plan SAM,0.0000
+1587,Sprzątanie.,0.8824
+1589,kolorowanie w schemacie,0.0000
+1597,MKK/C Konwersacje z  użyciem czasów LauKre,0.2593
+1598,UK/DS/2/MG.,0.2857
+1599,PSZ/4,0.0000
+1600,MK/R/2/7,0.2000
+1601,PSZ/6,0.6667
+1602,PSZ/7,0.6667
+1603,FS/G/1,0.6667
+1606,Granie w gre z partnerem FS/G/1,1.0000
+1607,MKK/C Budowanie opowiadania z wykorzystaniem PECS LauKre,0.3000
+1608,UK/W/2 A.M,0.1667
+1609,UK/W/1 A.M,0.5000
+1610,SFG/ A Zamiatanie PrzeWoj,0.2353
+1611,PSZ/ E    Tomek- czytanie,0.5714
+1612,UK/I/2,0.0000
+1614,PSZ/3 ,0.0000
+1615,SF/S/1,0.0000
+1616,PSZ/1,0.0000
+1617,On Task ADY,0.3750
+1618,UK/I/1 A.M,0.0625
+1619,UK/I/2 A.M,0.1667
+1620,"UK/I/2/imitować""nie""",1.0000
+1621,MK/K/1/1/1/2odpowiedź na pytania imię/tak/nie,0.1250
+1622,SF/S/1/WK zakładanie kurtki,0.6667
+1623,SF/S/2/WK/ ściaga kurtkę,0.0000
+1624,SF/S/3/WK/ przebieranie WF,0.0000
+1625,Granie w gry planszowe.,0.0000
+1627,Ścieranie kurzy MiGa,0.0000
+1628,MK/E Opis osób na obrazkach jednoelementowych ADY,0.1622
+1629,SFS/A Samodzielne funkcjonowanie - mycie twarzy tonikiem - MiAr,0.0000
+1631,SF/S/1/MYCIEZĘBÓW,0.5000
+1632,SF/SC/1/SAM AE,0.3333
+1633,S/C Miary JaWó,0.1304
+1634,Czynności,0.0000
+1635,S/E  Czytanie globalne  AlTu,0.3636
+1636,MKK/C  Opowiadanie historyjek obrazkowych Altu,0.4333
+1637,SFS/A DoKr Sprzątanie naczyń z suszarki ,0.0000
+1638,AdKa UK/W Opanowane aktywności z planu dnia,0.1304
+1639,UKW/D Realizacja zadań proaktywnych MaPa,0.2857
+1640,MKR/B- Rozumienie i wykonywanie poleceń MaPa,0.3023
+1644,Konrad Wasilewski - Reagowanie na imię ,0.0000
+1645,UKW - Monitorowanie realizacji zadań proaktywnych,0.1053
+1646,SF/G - Sprzątanie - łańcuch od końca MarBoj,0.0000
+1648,NA/UK/DS,0.6250
+1649,Tomasz Czajkowski - umiejętności kluczowe (imitacja motoryczna),0.6410
+1652,NA/UK/2,0.3333
+1653,ŁP/UK/DS,0.8000
+1654,ŁP/UK/I/2,0.5714
+1655,ŁP/MK/N/2,0.5909
+1656,NA/MK/R/4,0.4643
+1657,NA/MK/R/3,0.4615
+1658,ŁP/MK/R/3,0.6923
+1659,ŁP/MK/K/1,0.6000
+1660,NA/MK/K/1,0.4800
+1661,NA/MK/K/5,0.5417
+1662,ŁP/MK/N/5,0.5652
+1665,SAM Miko,0.2308
+1666,Z/A Kserowanie PrzeWoj,0.0667
+1668,SFG/ A Mycie podłogi w łazience gimnazjum FiSze,0.0000
+1669,SFG/A Odkurzanie PaSt,0.0000
+1671,S / C Globalne czytanie nazwiska PrzeWój,0.2078
+1672,MKK/C Odpowiadanie na pytania dotyczące czasu teraźniejszego/ przeszłego/ przyszłego z użyciem PECS FiSze,0.2083
+1673,S/A Wysyłanie wiadomości z poczty elektronicznej FiSze,0.0000
+1674,Odpowiada na pytania co to jest?,0.2857
+1675,Nazywa 5 czynności,0.2500
+1677,Korespondencja - MarWój,0.1958
+1680,UK uczeń 1 naśladowanie ruchów motoryki dużej,0.0000
+1688,umiejętności kluczowe imitacji - naśladowanie motoryki dużej ,0.0000
+1689,UKI Uczeń 10 naśladowanie motoryki dużej ,0.0000
+1690,uki uczeń 25,0.5000
+1692,UKI/ machanie i klepanie,0.5000
+1699,SFG/A kisiel uczeń 19,0.0000
+1704,uczeń A - łancuchy zachowań  kisiel 33,0.0000
+1706,SFG/A uczeń1 kisiel,0.0000
+1707,łańcuch zachowań kisiel  25,0.0000
+1710,umiejętności związane z gotowaniem sfg/a- gospodarcze - uczeń 21,1.0000
+1716,SFG/A kisiel uczeń 02,1.0000
+1717,SF/A Szycie,0.1667
+1718,SF/A Gotowanie,0.4510
+1719,Podążanie za planem aktywności dnia PaSt,0.3000
+1721,MK/MK K Spontaniczne komunikaty i prośby PECS PaSt,1.0000
+1723,MK/Przerwa KOBY nr1,0.4286
+1724,UK/Dop/KOBY/nr1,0.7368
+1726,SFS/A Ubieranie się JaSzcz,0.0545
+1727,S/A Wysyłanie wiadomości z poczty elektornicznej FiSze,0.3571
+1730,SFG/A ścieranie kurzu PaSt,0.0000
+1732,FSN/B Adekwatne komunikaty werbalne na bodźce społeczne ze środowiska ,0.0345
+1735,PSZ/A Przygotowywanie prezentacji w Prezim,0.2308
+1736,PSZ/C Pisanie pism,0.4737
+1737,Odpowiadanie na pytania Mateusz Miazek,0.5957
+1738,SFS/A - samoobsługa AnTw - mycie rąk (pełna prezentacja),0.0000
+1739,MKK/E Odpowiedzi na pytania AlTu,0.8667
+1740,"MK/P Komunikowanie ""nie chcę"" - wszystkie próby",0.2500
+1741,NAZYWA PORY ROKU,1.0000
+1742,Przysiad,0.2857
+1743,proszenie,0.3571
+1744,FSG/C - MarWój Posługiwanie się zwrotami grzecznościowymi,0.0000
+1745,PSZ/E Korzystanie z zegara MaRyb,0.3918
+1746,MKR/B wykonywanie poleceń z przemieszczeniem KsPe,0.2813
+1747,UKW/B Reagowanie na polecenie STOP KsPe,0.3077
+1748,MiGa Grafomotoryka,0.2941
+1749,MiGa czytanie globalne,0.1341
+1750,PROŚBY,0.0000
+1751,IMITACJAA MOTORYCZNA Z PRZEDMIOTAMI,0.1667
+1752,UKW/D Realizacja opanowanych czynności z planu dnia MaOch,1.0000
+1753,SFG/A Szycie MaRyb,0.2162
+1754,SFS/A samoobsługowe AnTw (od końca),0.0000
+1756,DOPASOWUJE NAPIS DO OBRAZKA,0.2941
+1757,Wykonywanie poleceń złożonych z przemieszczeniem.,0.8333
+1760,"Rozumienie ""Daj""",0.4341
+1761,FS/LEGO,0.6667
+1762,Nakładanie nasadek na długopisy GrzePo,0.0000
+1764,S/C Miary JoMi,0.0256
+1765,SFG/ A Sprzątanie FiSze,0.0172
+1766,S/C - przepisywanie na komputerze ADY,0.4400
+1767,SAM BARTEKK,0.5000
+1768,Z/A Pieczątkowanie kopert FiSze,0.2308
+1769,mnożenie przez 2 i 3,0.8750
+1770,mnożenie,0.7742
+1771,SFS/A Przebieranie się PhiWi,0.0000
+1772,SFS/A - Realizacja higieny osobistej - łańcuch przez całkowitą prezentację,0.0000
+1773,Polecenia dwuetapowe,0.8462
+1774,Proszenie o przedmioty - wg kroków,0.0000
+1775,Konwersacje2,0.6129
+1776,SFC/C Oglądanie telewizji/słuchanie muzyki Philip,0.2759
+1777,Proszenie o pomoc za pomocą PECS GrzePo,0.0556
+1779,SF/G Składanie ubrań - AnTw,0.0000
+1780,Szkoleniowy Uczeń imitacja,0.3333
+1781,Program zdolnego ucznia K. B.,0.0000
+1782,program motoryczny OL,0.0000
+1783,szkoleniowy program imitacja a,0.2500
+1784,Program - Motoryka Duża,0.0000
+1785,Motoryka duża-OO,0.0000
+1787,szkolenie program- imitacja,1.0000
+1788,program MG,0.0000
+1789,Program motoryczny AG,0.0000
+1790,Program Motoryczny US7,0.6667
+1791,Program 1 Uczeń 1,0.0000
+1793,Szkoleniowy kisiel łańcuch zachowań przez pełną prezentację,0.0000
+1794,szkolenie program na kisiel a ,0.0000
+1795,Program - Gotowanie ,0.0000
+1797,Gotowanie Kisiel,0.7500
+1799,Program 2 uczeń 1,0.0000
+1800,program gospodarczy,0.0000
+1801,kisiel AG,0.0000
+1803,Kisiel,0.0000
+1804,Gotowanie-kisiel ,0.0000
+1806,Przeliczanie,0.0000
+1807,liczenie ol,1.0000
+1808,Przeliczanie do 5,1.0000
+1810,przeliczanie AG,1.0000
+1811,Uczeń 1 Program 3,0.0000
+1812,przeliczanie szkolenie,0.5000
+1814,Nauka liczenia ,1.0000
+1817,Program - Przeliczanie do 5,1.0000
+1818,szkoleniowy program przeliczanie a,0.0000
+1820,Zabawa grupowa,1.0000
+1823,On task szkoleniowy,0.0000
+1824,Uwaga e grupie ,0.0000
+1826,Program On task ,1.0000
+1827,szkoleniowe uwaga,1.0000
+1829,Uczeń 1 Program 4,1.0000
+1835,Odkurzanie.,0.6667
+1836,zegar MSZ,0.4444
+1837,Przygotowanie kisielu.,0.2857
+1838,Przepisywanie tekstu na komputerze.,0.2000
+1839,zakupy MS,0.0000
+1843,Z/A Niszczenie dokumentów FiSze,0.3750
+1844,UKW Realizacja albumu aktywności MaOl,0.0000
+1845,S/C Obsługa komputera 2 ToLa,0.4000
+1847,Z/B Wykonywanie powtarzalne pracy ToLa,0.6452
+1848,SF/G - Sprzątanie MarWój - całkowita prezentacja,0.0000
+1849,UKI- Imitacja z przedmiotami (u osoby z czterokończynową niepełnosprawnością ruchową) - BGN ,0.6667
+1850,UKW Koncentracja wzrokowa na przedmiocie (u osoby czterokończynowo niepełnosprawnej ruchowo; przygotowanie do wskazywania wzrokiem)- BGN,0.6471
+1851,"UKD Dopasowywanie przedmiotów (u osoby niepełnosprawnej ruchowo w zakresie kończyn dolnych i górnych, z zachowaną minimalną koordynacją rąk)- BGN ",0.1739
+1853,UKI Imitacja (u osoby głuchoniewidomej)- BGN ,0.0000
+1854,UKD- Dopasowywanie przedmiotów (u osoby głuchoniewidomej)- BGN ,0.0000
+1855,MKR Reagowanie na przywołanie (osoba na wózku inwalidzkim)- BGN EwOs,0.0000
+1857,MKR Reagowanie na przywołanie (w krokach z gestem)- BGN,0.0455
+1858,UKD Dopasowywanie identycznych (u osoby sprawnej motorycznie)- BGN ,0.1818
+1859,UKI Imitacja prostych ruchów motorycznych- BGN/MaKij,0.0000
+1860,"Z-  Nauka prostych aktywności prezawodowych (rozpoczęcie uczenia, poziom startowy)- BGN ",0.0735
+1861,MKP- Proszenie z wykorzystaniem PECS (pierwsze mandy)- BGN ,0.3284
+1862,UKI- Imitacja motoryczna (u osoby sprawnej motorycznie) -BGN,0.0247
+1863,MKR- Wykonywanie prostych poleceń (u osoby sprawnej motorycznie)- BGN,0.4286
+1865,Z-  Nauka prostych aktywności prezawodowych- BGN - KacWi,0.0556
+1866,MKR- Wykonywanie prostych poleceń- BGN- KacWi,0.0526
+1868,Z-  Nauka prostych aktywności prezawodowych- BGN- JaPet ,0.1786
+1869,UKD Dopasowywanie identycznych (na kartkach i w przestrzeni)- BGN,0.1143
+1870,MKR- Wykonywanie prostych poleceń - BGN- MiDo,0.7778
+1871,Realizacja zadań proaktywnych w ciągu dnia UKW/D PaSt,0.8333
+1872,UK/DS/DOPASOWYWANIE I SKOJARZENIA,0.6667
+1873,Skręcanie długopisów GrzePo,0.0203
+1874,Czas przeszły PECS GrzePo,0.0000
+1875,Kontrakt na samodzielne wykonywanie zadań proaktywnych GrzePo,0.2558
+1876,UKD Dopasowywanie identycznych - BGN - MiDo,0.0000
+1877,MKR- Wykonywanie prostych poleceń - BGN- JaWit,0.0000
+1878,UKI- Imitacja z przedmiotami - BGN  JaWit,0.0000
+1879,UKI- Imitacja motoryczna -BGN- JaMa,0.0963
+1880,UKI/B Imitacja motoryczna- BGN- JaMa,0.4643
+1881,MKP- Proszenie z wykorzystaniem PECS (pierwsze mandy)- BGN - JaMa,0.3333
+1882,MKR- Wykonywanie prostych poleceń - BGN - JaMa,0.0213
+1883,UKI- Imitacja motoryczna (przy sprawnych kończynach górnych) - BGN,0.1930
+1884,UKI- Imitacja z przedmiotami - BGN ,0.1455
+1885,UKD Dopasowywanie identycznych - BGN - JaEr,0.1954
+1886,MKR- Wykonywanie prostych poleceń (czasownik oraz czasownik i rzeczownik) - BGN,0.5000
+1887,UKI Imitacja werbalna- BGN,0.1912
+1888,UKI- Imitacja motoryczna -BGN- JoJa,0.1905
+1889,UKD- Dopasowywanie pojedynczych elementów- BGN - JoJa,0.3448
+1890,"Z-  Nauka prostych aktywności prezawodowych (rozpoczęcie uczenia, poziom startowy)- BGN - JoJa",0.3784
+1891,MKR- Wykonywanie prostych poleceń PRZYKŁADOWY- BGN,0.0000
+1892,MKP- Proszenie z wykorzystaniem PECS (pierwsze mandy) PRZYKŁADOWY- BGN ,0.0000
+1893,Z-  Nauka prostych aktywności prezawodowych PRZYKŁADOWY- BGN ,0.0000
+1894,UKI/B Imitacja motoryczna- PRZYKŁADOWY BGN,1.0000
+1897,MKP TESTOWY Przywoływanie z użyciem komunikatora  BGN ,1.0000
+1898,MKP Przywoływanie z użyciem komunikatora z pomiarem co 5 min. BGN - FraSan,1.0000
+1899,Z/D Profesjonalne i staranne wykonanie pracy MaPo,1.0000
+1900,SAM KOBY 1,1.0000
+1902,MiGa ścieranie stołu,0.0119
+1904,Z-  Nauka prostych aktywności prezawodowych - BGN - PatKon ,0.0625
+1905,SFG/A Rozkładanie sztućców SzyKon,0.0000
+1906,SFG/A Ścieranie parapetów SzyKon,0.0000
+1908,Program 4 Mariusz Wróblewski,0.1667
+1910,S/C Czytanie JaH,0.0769
+1911,UK/W Podążanie za znanymi poleceniami PaSt,0.0920
+1912,SFC/C Oglądanie telewizji/słuchanie muzyki,0.2031
+1913,UKI/C Imitacja za nośnikiem elektronicznym,0.1000
+1914,"MKN/C Nazywanie przedmiotów, osób i czynności za pomoca PECS",0.0000
+1915,SFG/A Realizacja prostych czynności domowych PaSt,0.0000
+1916,SF / A Mycie naczyń PrzeWoj,0.0000
+1917,SF/A Wyciąganie naczyń ze zmywarki PrzeWoj,0.0288
+1919,UZ kompl KOBY 1,0.0000
+1920,PSZ/S Kuba czytanie,0.5442
+1921,Pogram 6 Imitacja z przedmiotem M.Wróblewski,0.5000
+1922,UKD Dopasowywanie identycznych- BGN - KacWik ,0.0000
+1923,UKD Dopasowywanie identycznych obrazków- BGN,0.9167
+1924,UKD- Sortowanie identycznych- BGN,0.1456
+1925,"UKD Dopasowywanie konkret- obrazek (u osoby czterokończynowo niepełnosprawnej, z możliwością ruchu kończyn górnych)- BGN",0.2000
+1926,MK/D Płynność JoMi,0.0833
+1928,UK/W Przynoszenie elementu z sali zgodnie z etykietą MaWój - KOPIA,0.2432
+1929,Rozumienie mowy - podawanie przedmiotów - MarWój - KOPIA,0.0000
+1930,"Patryk O., - dopasowywanie identycznych 3-6 obrazków ",0.2222
+1933,skręcanie długopisów według określonych kolorów ,0.8333
+1935,"Patryk O., dopasowywanie ikony przedmiotu do jednej z 3/5/6/7/8",0.0000
+1936,S/A obsługa komputera - ADY,0.0294
+1937,"MKN/C Nazywanie osób, przedmiotów i czynności - AnTw",0.0000
+1940,Program 9 Mariusz Wróblewski Imitacja prostych słów,0.0250
+1941,SFG/A Sprzątanie ADY,0.0952
+1943,MKP- Proszenie z użyciem PECS - JaPet BGN,0.0000
+1944,SFC/A Realizacja albumu aktywności- BGN,0.2222
+1945,MKP/C Proszenie o pomoc JaSzcz,0.0625
+1946,relacje z rówieśnikami,0.4286
+1947,UKI imitacja z przedmiotami - JOJAR- BGM,0.6364
+1948,MKP proszenie z wykorzystaniem PECS JOJA BGN,0.1169
+1951,Z/A Zbieranie zamówień MaRyb,0.1923
+1952,MKP/C Proszenie o pomoc Philip Widłak,0.2353
+1953,SFC/A Realizacja albumu aktywności JPe,0.0500
+1954,UKI- Imitacja motoryczna - ElWas- BGN,0.0698
+1955,MKR- Wykonywanie prostych poleceń- ElWas- BGN,0.0594
+1957,MKR- Wykonywanie prostych poleceń (czasownik oraz czasownik i rzeczownik) - PaMi- BGN,0.0543
+1958,MKR- Rozpoznawanie obrazków- BGN,0.1765
+1959,UKI- Imitacja motoryczna- PaMi- BGN,0.2063
+1960,UKI- Imitacja z przedmiotami -PaMi - BGN ,0.1803
+1962,UKI- Imitacja z przedmiotami- JaBie - BGN ,0.2857
+1963,MKR- Wykonywanie prostych poleceń (rzeczownik + czasownik)- JaBie - BGN,0.0000
+1964,MKR- Wykonywanie prostych poleceń MatSku- BGN,0.0444
+1965,MKR-  Reagowanie na przywołanie- MatSku- BGN,0.0000
+1966,UKI- Imitacja z przedmiotami - MatSku - BGN ,0.2500
+1967,SFS/A  LaKre Czynności gospodarcze z użyciem MYJKI KARCHER ,0.0000
+1969,S/C - pisanie nazwiska ADY,0.2632
+1970,MKR- Wskazywanie oczami właściwych przedmiotów i obrazków- BGN,0.3158
+1971,UKI Imitacja werbalna- MaPo- BGN,0.0093
+1972,UKI Imitacja motoryczna- MaPo- BGN,0.1087
+1973,MKR- Wykonywanie prostych poleceń - MaPo- BGN,0.0140
+1974,UKD- Dopasowywanie identycznych konkretów- MaPo- BGN,0.1232
+1975, S/C Szyko Przepisywanie zdań na komputerze ,0.1062
+1976,"ROZUMIENIE STOSUNKÓW PRZESTRZENNYCH, PROGRAM 1",0.4444
+1977,"NAZYWANIE, PROGRAM MATEUSZ MIAZEK",0.5490
+1979,MKR/ podawanie właściwego przedmiotu - JAMA - BGN,0.5000
+1980,UKD/ dopasowywanie identycznych konkretów - JAMA - BGN,0.4000
+1981,MKR - wykonywanie prostych poleceń MIDO - BGN,0.0494
+1982,S/C - Czytanie ADY,0.1860
+1983,MKR wykonywanie prostych poleceń kontynuacja PaKon - BGN,0.0442
+1984,UKD dopasowywanie PaKo BGN,0.0741
+1985,S/C Pisanie ToLa,0.3404
+1986,PS/SZ płynność czytaniaMati,0.0000
+1987,2019.04.08. Damian Geldner - naśladowanie,0.0000
+1988,"Geldner Damian, Dopasowywanie. 2019.04.08",0.0000
+1990,MK/D Płynność WóJa,0.0458
+1991,MK_N/D Test płynności nazywania MaRyb,0.2857
+1992,Z/A Zbieranie zamówień drogą mailową JaHa,0.1739
+1993,SFC realizacja albumów aktywności - JOJA- BGN,0.0667
+1995,SFG/A Mycie powierzchni umywalki FiSz,0.1500
+1996,MK/R/2/8,0.0000
+1997,MK/K/5,0.3333
+1998,UKI/A Imitacja z przedmiotami (videomodelowanie) ,0.0263
+1999,Z/A Wykonywanie prezawodowych łańcuchów czynności MiGa,0.0469
+2000,MK/K/3,0.3333
+2001,MK/K/4,0.3864
+2002,PSZ/8,0.8438
+2003,SFG/A Umiejętności gospodarcze (videomodelowanie) MaOl,0.0952
+2004,SFG/A Realizacja prostych czynności domowych - kolejny MiAr,0.1398
+2005,MKP/B Proszenie o zaspokojenie potrzeb (trening incydentalny)- BGN,0.0000
+2006,Naśladowanie- motoryka,0.9412
+2007,Reagowanie na imię,0.8571
+2008,reakcja na przywołanie Kuba,0.6250
+2009,Z/D Kompletowanie zestawów biurowych FiSz,0.6667
+2010,mnożenie w pamięci,0.3636
+2011,zegar minuty,1.0000
+2012,MKR- wykonywanie prostych poleceń ( kontynuacja)- JaEr-BGN,0.0339
+2013,UKW/C - Reagowanie na timer - MaWój - wszystkie próby,0.0645
+2014,UKW/C Reagowanie na timer - MaBoj - wszystkie próby,0.2857
+2015,MKP/C Proszenie o potrzebne przedmioty - MarBoj,0.1739
+2017,Komunikacja - proszenie,0.5227
+2018,SFG/A Prasowanie  LaKre,0.0857
+2019,SFS/A Realizacja higieny osobistej PhiWid,0.0000
+2021,Z/B - Staranne wykonanie aktywności planu dnia ,0.3000
+2022,UKW/A Podążanie za planem,0.1500
+2023,MKK/B CzasPrzeszłyPrzWoj,0.5500
+2024,UKW/A podążanie za planem  MaPa,0.3636
+2025,SFG/A wykonywanie prostych czynności domowych MaPa,0.0000
+2027,Dopasowywanie/sortowanie 1 Adam,0.5000
+2028,"MKR/B Rozumienie mowy (identyfikowanie przedmiotów codziennego użytku) - CODZIENNE, WSZYSTKIE PRÓBY, PODPOWIEDZI DOZWOLONE",0.0000
+2029,"Z/B - Prezawodowe - MarBoj - WSZYSTKIE PRÓBY, CODZIENNE NOTOWANIE, PODPOWIEDZI DOZWOLONE",0.2500
+2030,"MKR/B Wykonywanie prostych poleceń MaBo - WSZYSTKIE PRÓBY, CODZIENNE NOTOWANIA, DOZWOLONE WZMOCNIENIA",0.0178
+2031,"Rozumienie mowy - podawanie przedmiotów - MarWój - WSZYSTKIE PRÓBY, CODZIENNE NOTOWANIE, PODPOWIEDZI DOZWOLONE",0.0244
+2032,"UKW/B Podążanie za znanymi poleceniami MaWój - WSZYSTKIE PRÓBY, CODZIENNE NOTOWANIE, PODPOWIEDZI DOZWOLONE",0.2571
+2033,"MarWój - Czynności biurowe - WSZYSTKIE PRÓBY, CODZIENNE NOTOWANIE, PODPOWIEDZI DOZWOLONE",0.1215
+2035,Sprzątanie GrzePo,0.0161
+2039,KOBY składanie ubrań  ,0.0435
+2040,Wykonywanie prostych poleceń,0.0612
+2041,UKI/B Imitacja motoryczna- BGN- EwOS,0.0000
+2042,MKN/C Komunikowanie zakończenia zadania -  BGN - JaPet,0.1176
+2049,"Jan Wrona, proszenie, program 1",0.6667
+2051,"odpowiadanie na pytania, Jan Wrona",0.0000
+2053,"Informowanie o zakończeniu, Karol Siha",0.0000
+2054,"Odpowiadanie na pytania, Karol Siha",0.2000
+2055,"Proszenie o pomoc, Marceli Sosowski",0.5000
+2062,"Opowiadanie, program 1, Karol Siha",0.6250
+2074,"Proszenie o pomoc, Jan Wrona",0.3333
+2075,"On task, Jan Wrona",0.6000
+2076,"Naprzemienna gra, Jan Wrona",0.0000
+2077,"Marceli Sosowski, proszenie o przedmioty",0.7500
+2078,"on task, Marceli Sosowski",0.7778
+2079,"naprzemienna gra, Marceli Sosowski",0.0000
+2080,"Odpowiadanie na pytania, Marceli Sosowski",0.0000
+2081,"Proszenie o pomoc 1, Antek Kosmala",0.0000
+2082,"on task, Karol Siha",0.5455
+2083,"Przeliczanie, Karol Siha",0.8000
+2084,"Proszenie o przedmioty, Antek Kosmala",0.2500
+2085,"on task, Antek Kosmala",0.0000
+2086,"Naprzemienna gra, Antek Kosmala",0.0000
+2088,Kasjan Sulmowski - Imitacja oralna,1.0000
+2090,UKD/C Dopasowywanie elementów Ma Ol,0.0000
+2093,PSZ/SKamil,0.0308
+2095,FS_G Tomek On Task - plastyka,0.1500
+2096,FS_G Kacper - On task,0.0435
+2097,FS_G Małgosia - On task,0.0000
+2099,"MK_N/ Kacper - komunikat ""skończyłem""",0.3750
+2100,"MK_N/Kacper - Nazywanie przedmiotów, osób",0.3750
+2102,On task - Filip,0.1429
+2105,Rozumienie mowy - identyfikacja przedmiotów z otoczenia,0.5000
+2107,"MK_R/Tomek - nazywanie przedmiotów, czynności, osób",0.4545
+2108,UKL/I - Naśladowanie 2 sekwencji ruchów,0.3043
+2109,MK_R / wykonywanie poleceń dwuetapowych,0.0667
+2110,Plan dnia - grupa Zuu.,0.1667
+2111,MK_N/ nazywanie przedmiotów z otoczenia,0.5000
+2112,Plan aktywności dnia - grupa Zuu.,0.0833
+2113,FK/ Nazywanie - zwierzęta. ,0.8000
+2115,Plan aktywności dnia - RaOj,0.1724
+2116,Plan aktywności dnia - KuJó,0.7143
+2117,"MK_R/ rozpoznawanie przedmiotów, miejsc, zawodów, części ciała",0.2500
+2119,Mycie rąk - IlBo,0.0000
+2126,Filip Antczak- naśladowanie ,0.1111
+2128,"Proszenie za pomocą PECS, Filip Antczak",0.2500
+2129,"Fryderyk Hibner, imitacja werbalna, program 1",0.0000
+2130,"Filip Antczak, reagowanie na timer",0.0000
+2131,Mycie rąk - Filip,0.0000
+2132,Mycie rąk - Tomek,0.0000
+2133,"Filip Antczak, dopasowywanie program1",0.0167
+2134,Mycie rąk - Małgosia,0.0000
+2135,Mycie rąk - Kacper,0.0000
+2136,UKD - Dopasowywanie identycznych przedmiotów - PM/BGN,0.0600
+2137,Czesanie włosów - Małgosia,0.0000
+2138,Naprzemienna układanka 4-elementowa ,0.0000
+2139,"Fryderyk Hibner, reagowanie na timer",0.0213
+2143,Reagowanie na swoje imię - Szymon Krawczyk,0.0000
+2144,Reagowanie na timer - Szymon Krawczyk,0.0323
+2149,Mikołaj Ciołkowski- Imitacja z przedmiotem. Program 1,0.3636
+2150,"Fryderyk Hibner, plan SAM, program 1",0.0333
+2151,Kacper Saładajczyk - nazywanie program 1,0.5618
+2152,"Kacper Saładajczyk, proszenie, program 1",0.5185
+2160,UKI/B imitacja motoryczna Ewasysaba,1.0000
+2161,UKI/B Imitacja motoryczna - Uczeń10,0.7500
+2164,UKI/B Imitacja motoryczna Pio No,0.5000
+2165,UK/B imitacja motoryczna - MarzenaSzkolenie,0.6000
+2166,UKI/B/imitacja motoryczna/MiCzo,0.0000
+2167,UK B IMITACJA MOTORYCZNA ZO KO,1.0000
+2169,SFS/ Uki 7 Higiena osobista A.Ł,0.5000
+2170,SFS/A Higiena osobista Ewasysaba,0.0000
+2173,SFS/A/JuSko,0.0000
+2174,SFS/A - Uczeń10,0.0000
+2176,SFS/ A realizacja higieny osobistej bz ,0.0000
+2177,SFS/A samoobsługa Ma.Gl,0.0000
+2181,UKI/B A Uczeń Ewy,0.7500
+2183, Tomek - mycie zębów,0.0000
+2185,Z/A Wykonywanie prezawodowych łańcuchów czynności LaKr,0.0833
+2186,SF/A Szycie LaKr,0.0000
+2187,Używanie mandów (IlBo),0.0000
+2188,Reagowanie na imię (IlBo),0.2917
+2189,Nazywanie przedmiotów (IlBo),0.0000
+2190,Proszenie o pożądane przedmioty (IlBo),0.0000
+2191,SFS/C Trening czystości MaOch,0.4783
+2193,UK/ DOP/ KOBY 2,0.8235
+2194,MK/ PRZERWA 2,0.3333
+2195,SF/ SU 2,0.1277
+2196,PSZ/Z SS 2,0.1304
+2200,SFC- Realizacja albumów aktywności- JaER- BGN,0.0179
+2204,MKP- Proszenie o potrzebne przedmioty- JaEr- BGN,0.0106
+2205,SFC- Oglądanie telewizji/ słuchanie muzyki- On- task- JaEr- BGN,0.3125
+2206,MKP/C Proszenie PECS Szy Kos,0.1667
+2207,UKW/D wykonywanie poleceń Szy Kos,0.0990
+2208,PSZP/C Pisanie nazwiska Szy Kos,0.4310
+2209,PSZP/A Obsługa komputera Szy Kos,0.2667
+2210,Przepisywanie,0.7500
+2211,MK PECS  Kuba,0.2500
+2212,Proszenie o nagrody - Alan Jankowski,0.0000
+2214,PSZ/E czytania globalne AlTu,0.3200
+2215,PSZ/S posługiwanie się zegarem LaKr,0.3333
+2217,Dopasowywanie identycznych przedmiotów,0.1739
+2218,Imitacja motoryki,0.5000
+2219,"Imitacja motoryczna, Ines Grabowska",0.3019
+2220,MKK/E Prowadzenie rozmowy tematycznej LaKr,0.2727
+2222,UKW/A Podążanie za planem samodzielnej aktywności OlPi,0.1765
+2223,UKI/E Imitacja z przedmiotami OlPi,0.1818
+2224,"Nazywanie, Kasjan Sulmowski",0.3750
+2225,"Reagowanie na polecenia, Igor Kowalczyk",0.2308
+2227,E - Próby nieciągłe - ćwiczenie w krokach - matematyka,1.0000
+2229,KZ - C - próbujemy,1.0000
+2234,PSZ-układanie puzzli/JAWI-BGN,0.0000
+2235,UKD dopasowywanie konkret- obrazek kontynuacja fransan-BGN ,0.8333
+2236,PSZ/E Identyfikowanie i nazywanie kolorów i kształtów OlPi,0.5333
+2237,Z/A Wykonywanie prezawodowych łańcuchów czynności OlPi,0.3077
+2238,SFS/A Czynności samoobsługowe DoKr!,0.0000
+2240,SFS/A Mycie zębów poprzez pełna prezentację DoKr!,0.0000
+2246,S/C Liczenie SzKł,0.2500
+2247,S/A Obsługa komputera SzKł,0.1613
+2248,S/C Liczenie GM,0.2283
+2249,Układanie puzzli Ines Grabowska ,0.0588
+2251,UKI/E Podążanie za poleceniami DaNa,0.1064
+2253,"Wybieranie nagrody, Alan Jankowski",0.7857
+2254,"Imitacja werbalna, Igor Kowalczyk",0.0676
+2255,"Imitacja motoryczna, Igor Kowalczyk",0.4219
+2256,"Konrad Wasilewski, dopasowywanie",0.2632
+2257,"Plan SAM, Kacper Krysztof",0.2727
+2258,FSG/B Posługiwanie się zwrotami grzecznościowymi SzKł,0.1695
+2259,"Czekanie, Kacper Saładajczyk",0.7222
+2260,UKD/E sortowanie elementów MaPa,0.0000
+2261,MKR/C - Rozumienie stosunków przestrzennych SzKł,0.2273
+2263,UKI/E Imitacja motoryki DaNa,0.5714
+2264,"Anastazja Janiak, program 1, nazywanie",0.0000
+2265,S/C - Rozumienie czytanego tekstu SzKł,0.3824
+2266,MKP-Kuba,0.3846
+2267,UKI - Kuba,0.2500
+2268,P - rysowanie -Kuba,0.4286
+2269,MKR- Kuba,0.8205
+2270,UK - dopasuj - BGN - fransan,0.5833
+2271,Pokazywanie osób na zdjęciu - BGN,0.0714
+2272,MKN - Adekwatne używanie zwrotów TAK/NIE - BGN,0.0000
+2273,S/A Obsługa komputera GaMi,0.1860
+2274,MKR/C - Rozumienie stosunków przestrzennych GaMi,0.2258
+2275,MKN/E nazywanie Szy Kos,0.2577
+2276,UKD dopasowanie konkret- obrazek kontynuacja fransan-BGN ,0.7500
+2277,"Nazywanie, Alan Jankowski",0.3750
+2278,"Proszenie o pomoc z wykorzystaniem PECS, Adam Pasiewicz",0.0500
+2279,"Adam Pasiewicz, proszenie o przerwę za pomocą systemu PECS",0.0000
+2280,"Adam Pasiewicz, on task",0.0000
+2281,"Fryderyk Hibner, on task",0.0732
+2288,"Kacper Saładajczyk, zabawa",0.0000
+2290,"Proszenie o przedmioty, Kacper Krysztof",0.0000
+2291,"Kacper Krysztof, reagowanie na imię",0.0000
+2292,"Filip Antczak, on task",0.0606
+2293,"Reagowanie na przywoływanie, Fryderyk Hibner",0.1563
+2294,FSG/B Posługiwanie się zwrotami grzecznościowymi GaMi,0.0781
+2295,SFC - plan samodzielnych aktywności PatKo - BGN,0.0000
+2297,UKW- Reagowanie na timer  FiAn,0.0000
+2298,PSZ/P Wycinanie JaHa,0.3333
+2299,UKI - motoryka mała i duża,0.2586
+2300,"HibFry, UKI/C",0.0000
+2301,SF/S - A - Realizacja higieny osobistej - MarPis,0.0000
+2302,UK/UKI ,0.1157
+2303,MKP/C Prosi PECS MiJu,0.1739
+2305,S/B Przepisywanie tekstu PrzeWoj,0.0000
+2306,PSZ/Z - A - Zadania prezawodowe - MarPis,0.1282
+2308,PSZ/S - E - Liczenie i znajomość cyfr - MarPis,0.1953
+2310,UK/MIK - Nazywanie rzeczy - Alan Jankowski,0.2632
+2311,UKW - Podążanie za poleceniami z kontaktem wzrokowym - Alan Jankowski,0.4000
+2312,MKR - Alan Jankowski,0.2353
+2314,UKD - Alan Jankowski,0.5714
+2316,PSZ/S - E - Opowiadanie - MarPis,0.3418
+2317,PSZ/S - E - Czytanie - MarPis,0.4504
+2318,SFS/A Realizacja higieny osobistej DaNa,0.0000
+2319,MKK/E Prowadzenie konwersacji JaHa,0.4091
+2320,MKK/E Prowadzenie konwersacji MaRy,0.0769
+2321,UKI/B-Imitacja z przedmiotami. Kuba,0.6667
+2322,SFS - jedzenie kanapki z miodem. ,0.5000
+2324,"Fryderyk Hibner, UKI",0.0229
+2325,"KasSul, rysowanie",0.0714
+2326,"Kasjan Sulmowski, sekwencje z przedmiotami ",0.1071
+2328,Mariusz - Emocje,0.0909
+2329,"AntFil, MKP",0.2667
+2330,"AntFil, UKI",0.0000
+2331,"FilAnt, UP, zabawa ",0.0000
+2332,"AntFil, mycie rąk",0.0000
+2333,"AntFil, oglądanie bajki",0.1111
+2334,"ANTFIL, PLAN SAM",0.0000
+2335,"AntFil, UP, układanie puzzli",0.0000
+2336,"SałKAcp, UKI",0.1429
+2337,"SałKacp, PLAN SAM",0.1111
+2338,"JanAl, MIK/P",0.2143
+2339,"SulKas, UP, zabawa",0.0645
+2340,"PasAd, PLAN SAM",0.0000
+2341,"PasAd, zabawa ",0.0000
+2342,"PasAd, UK/I",0.3333
+2343,"PasAd, UKI, z przedmiotem",0.0213
+2344,"PasAd, UK/D",0.5000
+2345,"PasAd, UP, rysowanie",0.0000
+2346,"PasAd, UP, naprzemienna gra",0.0000
+2347,"MK/MB Igor Kowalczyk, Rozumienie",0.2222
+2348,"KryKac, MKP",0.1591
+2349,"KryKAc, UP, zabawa",0.3333
+2350,"KryKacp, ON TASK",0.1111
+2351,"KryKacp, samoobsługa",0.0000
+2352,"KrysKacp, UK/I",0.2222
+2353,"KrysKacpr, UKD",0.2222
+2354,"KrysKacp, naprzemienna gra",0.0000
+2355,"JanAnas, UKI",0.4000
+2356,"JanAnas, UK/I ze wzoru",0.0000
+2357,"JanAnas, ON TASK",0.0667
+2363,"Rozumienie mowy - ""daj"" przedmiot/obrazek",0.3226
+2364,MKP/C Proszenie DaNa,0.2105
+2365,UKW/C Czekanie DaNa,0.3095
+2366,"WasKon, ON TASK",0.0690
+2367,"WasKon, UP, naprzemienna gra",0.0000
+2368,"WasKon, MKP, PECS",0.1429
+2369,"WaKon, PLAN SAM",0.0000
+2370,"WasKon, oglądanie bajek",0.0909
+2371,"WasKon, UKI, werbalne",0.0000
+2372,"WasKon, UKI z przedmiotem",0.0877
+2373,"WasKon, UKI motoryczna",0.0789
+2374,"WasKon, UKW, reagowanie na timer",0.0000
+2375,CiołMik Identyfikowanie bliskich osób na zdjęciach,0.0455
+2376,LOGO Imitacja oralna,0.0597
+2377,UK/W Reagowanie na imię - Anastazja Janiak,0.1429
+2378,"WasKon, UP, zabawa",0.0303
+2379,"WasKon, UP, puzzle",0.1250
+2380,"WasKon, mycie rąk",0.0000
+2381,"WasKon, UKR, reagowanie na proste polecenia",0.0000
+2388,"WasKon, MKR, identyfikowanie osób",0.0000
+2389,"CiołMik, ON TASK",0.0714
+2390,"CiołMik, naprzemienna gra",0.0000
+2391,"CIołMik, MKR, rozumienie prostych poleceń",0.0472
+2392,"CiołMik, proszenie o pomoc PECS",0.0500
+2393,"CiołMik, MKP PECS",0.1429
+2394,"CiołMik, UKI imitacja motoryki",0.3333
+2395,"CiołMik, UP, puzzle",0.2857
+2396,"CiołMIk, samoobsługa",0.0000
+2397,"CiołMik, UP, zabawa",0.0526
+2398,"CiołMIk, UKD, sortowanie według kategorii",0.1563
+2399,"HibFry, UP, zabawa",0.0233
+2400,"HibFry, MKP PECS",0.0417
+2401,HibFry. samoobsługa,0.0000
+2403,"HibFry, UKD identycznych obrazków",0.1525
+2404,"HibFry, oglądanie bajek",1.0000
+2405,"HibFry, UP, tańczenie do piosenek",0.0000
+2406,"SałKacp, UP tańczenie do piosenek",0.0370
+2407,"SałKacp, MKR, identyfikowanie osób",0.0000
+2408,"SałKacpr, UK, reagowanie na polecenia",0.2000
+2409,"SałKacpr, ON TASK",0.4000
+2410,"SałKacp, czynności samoobsługowe",0.0000
+2411,"SałKacp, naprzeminna gra",0.0000
+2412,"JanAnas, UP, zabawa",0.0909
+2413,GrabIn/OnTask,0.0000
+2414,GrabIn/UP/Zabawa,0.0333
+2415,S/C Pisanie na komputerze ,0.2755
+2416,FSN/A Robienie zakupów,0.0000
+2417,"PasAd, tańczenie do piosenek",0.0000
+2418,"AntFil, UP, tańczenie do piosenek ",0.0000
+2419,"PasAd, samoobsługa ",0.0000
+2420,"MKN/E Nazywanie przedmiotów, czynności, osób i ich wzajemnych relacji OlPi",0.2667
+2421,"Kasjan Sulmowski, on task",0.0625
+2422,"Igor Kowalczyk, on task",0.0278
+2423,"Kasjan Sulmowski, UK, naśladowanie",0.1111
+2424,MK_N/D Test płynności - nazywanie przedmiotów MaRyb,0.2000
+2425,UKI/B imitacja motoryczna - EmGa,0.5556
+2426,GrabIn/UKI/B,0.2469
+2427,GrabIn/US,0.0000
+2428,GrabIn/UKW,0.0000
+2429,GrabIn/Plan Sam,0.0000
+2430,"SałKacpt, UKD",0.3750
+2431,Imitacja motoryczna - przekroczenie osi ciała,0.5556
+2432,Imitacja motoryczna - sekwencje czynności,0.0556
+2434,Dopasowanie małych liter do dużych.,0.1852
+2435,Samodzielne przygotowanie kanapki.,0.0000
+2436,Granie w gry planszowe,0.0000
+2438,Mariusz - ZAWODY,0.5714
+2439,SFG/A Wykonywanie prostych czynności domowych,0.1364
+2440,UKW/Reagowanie na timer ToCza,0.2500
+2441,komunikat nie chcę,0.0000
+2442,UKW - wybieranie nagrody - Anastazja Janiak,0.6364
+2443,MIEJSCA,0.6364
+2447,"Igor Kowalczyk , mycie rąk",0.0112
+2448,"Kasjan Sulmowski, MYCIE RĄK.",0.0147
+2449,UP - Gra w memo - Anastazja Janiak,0.0000
+2451,MK - Proszenie o nagrody - AnJan,0.0217
+2452,UP - Rysowanie - JanAnas,0.0000
+2453,UP - Układanie puzzli - JanAnas,0.8889
+2454,S/C - pisanie JaWó,0.6667
+2455,Imitacja werbalna.,0.2090
+2456,Nazywanie PECS,0.2975
+2457,Dopasowanie/etykietowanie,0.5000
+2458,Rozumienie mowy - polecenia złożone,0.2222
+2459,UKD/B Sortowanie identycznych- JaEr- BGN,0.1351
+2460,MKP/C Prosi PECS BaJu,0.0000
+2462,MKR/B Rozumienie poleceń z indywidualnego słownika- FiHe- BGN,0.0208
+2463,UKD/B/PaZu,0.2963
+2464,MK/MK_P/PaZa,0.0000
+2465,UKI/1,0.6667
+2467,UK/Podążanie za planami ,0.3077
+2468,MK/P/Proszenie o nagrody,1.0000
+2469,M/R - rozumienie poleceń,0.5000
+2471,FS - gra z rówieśnikiem,0.5000
+2472,UK/I - imitacja z przedmiotami,0.6000
+2473,"LOGO, SulKas, UKI imitacja motoryki artykulacyjnej",0.2222
+2474,"LOGO KowIgor, Imitacja motoryki artykulacyjnej",0.4925
+2475,S/C Obsługa komputera GaMi,0.3226
+2476,"LOGO AntFil, Imitacja motoryki artykulacyjnej",0.1111
+2477,UKI/B Imitacja motoryczna ToCza,0.2424
+2478,UKD/B Dopasowywanie nieidentycznych ToCza,0.1154
+2479,MKR/D Realizowanie prostych poleceń ToCza,0.0435
+2480,Nazywanie poprzez komunikację PECS,0.3000
+2481,MKP/B Proszenie ToCza,0.1818
+2482,MKK/C opowiadanie AlTu,0.3750
+2483,MKN/C Nazywanie za pomocą PECS ToCza,0.5556
+2484,UP/ Wycinanie - AnJan,0.4737
+2486,PSZ/C Wycinanie ToCza,0.0000
+2487,"S/E Test płynności - odczytanie,nazwanie rzeczowników SzyKoz",0.1250
+2489,PSZ/C Rysowanie ToCza,1.0000
+2490,UP/C Grafomotoryka ToCza,0.2500
+2491,UKI/B Imitacja werbalna ToCza,0.0909
+2492,MKR/B Rozpoznawanie obrazków ToCza,0.0000
+2493,S/C Obsługa komputera SzKł,0.3333
+2494,UKl/B/MiFu,0.0000
+2495,UP/ Układanie puzzli - Alan Jankowski,0.8500
+2496,UKI/E Naśladowanie z przedmiotem (JaJó),0.3333
+2497,UKI/B Imitacja werbalna (JaJó),0.1667
+2498,UKD/E - Sortowanie w kategoriach (JaJó),1.0000
+2499,MKR/B - Rozumienie prostych poleceń (JaJó),0.0000
+2500,US/C - Kolorowanie (JaJó),0.0000
+2501,UP/ Wycinanie - Alan Jankowski,0.3462
+2502,"LOGO JanAnas, Imitacja motoryki artykulacyjnej",0.3333
+2503,UK/D - Dopasowywanie obrazków - AnJan,0.3333
+2504,"LOGO JanAlan, Imitacja motoryki artykulacyjnej",0.0842
+2505,"MK/N Nazywanie przedmiotów, czynności KsPe",0.2932
+2506,"LOGO GraInes, Imitacja motoryki artykulacyjnej",0.0000
+2507,"CiołMik, tańczenie do piosenek",0.0000
+2511,SFC/A Realizacja planu SAM- BGN- PaKo,0.0000
+2512,UKD/B Sortowanie obrazków w kategoriach u ucznia wskazującego wzrokiem- BGN- FraSan,0.5818
+2513,MKR/E- Rozpoznawanie nazw obrazków z użyciem wzroku- BGN-FraSan,0.3500
+2514,UKD/E Dopasowywanie znaków graficznych- BGN - FraSan,0.2222
+2515,UP/ Zabawa - Alan Jankowski,0.3333
+2516,"Kowalczyk Igor, UP, zabawa",0.0256
+2517,"SulKas, UK, Budowanie ze wzoru",0.2353
+2518,"Kowalczyk Igor, UK, Budowanie ze wzoru",0.0704
+2519,GrabIn MK/ Proszenie ,0.0290
+2520,"LOGO KrysKac, Imitacja motoryki artykulacyjnej",0.0833
+2521,"LOGO HibFry, Imitacja motoryki artykulacyjnej",0.0000
+2522,KOBY MK proszenie o przedmioty z PECS,0.6000
+2523,UKW/B Wybór nagrody KaSa,0.3000
+2524,zegarFilip,0.7143
+2525,UK/I/1 IMITACJA IMIĘ I NAZWISKO,0.9091
+2526,UK/I/2 KLOCKI,0.1364
+2527,MKR/B wykonywanie poleceń-ELWA-BGN,0.3743
+2528,S/E Nominały pieniężne AlTu,0.6800
+2529,S/C  Operacje matematyczne AlTu ,0.5143
+2539,UKW - Podążanie za znanymi poleceniami - AnJan,0.5000
+2541,UKI - Odwzorowywanie kształtu - AnJan,0.0625
+2542,UKD - Sortowanie obrazków - AnJan,0.5000
+2544,MKN - Nazywanie przedmiotów - AnJan,0.2000
+2548,Mnożenie i dzielenie Filip,0.5000
+2549,P/B Zabawa aktywnościami manipulacyjnymi (od startu całe zabawki)- BGN ,0.1282
+2550,UKI/B Naśladowanie z przedmiotami- ElWa- BGN,0.0932
+2551,UKI Imitacja werbalna- ElWa- BGN,0.0500
+2552,UKD Dopasowywanie identycznych przedmiotów i obrazków- ElWa- BGN,0.2969
+2553,SFC/A Realizacja planu SAM- ElWa- BGN,0.0541
+2554,UP/ Kolorowanie w konturze - Igor Kowalczyk,0.2727
+2555,UK/D - Dopasowywanie obrazka do cienia - IgKow,0.2857
+2556,UKI - Układanie według wzoru - Igor Kowalczyk,0.0000
+2557,UKD - Sortowanie - KasSul,0.4286
+2558,"UKI/E, imitacja z przedmiotem, FRyHI",0.2727
+2559,P/C aktywności manipulacyjne- BGN,0.4074
+2560,"UP/C, puzzle, KaSa",0.1667
+2561,SFS/A - Realizacja higieny osobostej (JaJó),0.0000
+2562,"USz/C, kolorowanie, KaSa",0.1923
+2563,"MKP/C, Proszenie o pomoc, KaSa",0.1875
+2564,SFC/A - Realizacja planu samodzielnej aktywności (JaJó),1.0000
+2565,"MKR/E identyfikwoanie osób, KaSa",0.2353
+2566,Proszenie o przedmiot,0.0000
+2567,Proszenie o przedmiot/ wykonanie czynności 1,0.0000
+2568,Nazywanie 1,0.0000
+2569,Odpowiadanie na pytania używając łącznika „i”,0.2500
+2570,Tosty/Toaleta,0.0000
+2572,Podpisywanie,0.1515
+2573,Płeć,0.5000
+2575,"FilAnt, naprzem układanka",0.0000
+2576,UKI/B Imitacja motoryczna - MaSku-BGN,0.0000
+2577,MPK/C -Proszenie o nagrodę GaEm,0.2000
+2578,UKW/ C Koncentracja na świecącym punkcie- JaBie-BGN,0.1667
+2579,"UKW/C, reagowanie na timer, KaLe",0.5000
+2580,UP/C Wycinanie KaLe,0.0000
+2657,Odpowiadanie na pytania,0.5714
+2658,Przygotowanie herbaty,0.6667
+2661,UK/DS/4 DOPASOWYWANIE LITERY,0.6000
+2662,UK/DS/3 ETYKIETOWANIE,0.3488
+2663,UKL/C Czekanie MaMaj,0.0000
+2664,SFS/A  Czynności gospodarcze z użyciem sprzętu AGD LaKr,1.0000
+2665,MK/R/1 „DAJ…”,0.7045
+2666,MK/N/2 NAZYWANIE CZASOWNIKI,0.4889
+2667,SF/S/1 ZAKUPY,0.0000
+2668,S/A Cyfrowa obróbka grafiki JaHa,0.7500
+2669,S/E pisanie i przepisywanie LaKr,0.2308
+2670,MKK/C opowiadanie z użyciem PECS LaKr,0.3000
+2671,UKW/B Utrzymywanie uwagi SzyKł,0.4375
+2672,UKW/B Utrzymywanie uwagi GaMi,0.4211
+2674,UK/W - Kontakt wzrokowy - KasSul,0.2857
+2676,MK/R - E - Rozumienie stosunków przestrzennych - MarPis,0.1094
+2677,Rozumienie złożonych poleceń ,0.0000
+2678,nazywanie przedmiotów z najbliższego otoczenia (n),0.0000
+2679,proszenie o pomoc,0.0000
+2685,"puzzle, układanki ",0.4000
+2687,dopasowywanie identycznych obrazków,0.0000
+2688,wykonywanie poleceń ,0.1515
+2689,Rozumienie poleceń - daj,0.1600
+2690,SFS/A Zapinanie guzików i klamer JASZCZ,0.0000
+2691,UKL/Imitacja werbalna MaMaj,0.4000
+2692,SF/A Mycie rąk MaMaj,0.0000
+2693,SF/A Mycie zębów MaMaj,0.0000
+2694,MKR/B Wykonywanie poleceń MaMaj,0.4865
+2695,UKL/B Imitacja ruchów MaMaj,0.2647
+2696,UKW/B Utrzymanie uwagi (bycie on-task),0.2727
+2697,UKL/C Imitacja za wzorem MaMaj,0.3077
+2698,MKN/C Nazywanie ,0.1356
+2699,PSZ/1 LICZENIE,0.2237
+2700,MK/P/1 POMOC - TABLET,0.3333
+2701,P/PSZ Wycinanie MaMaj,0.0000
+2702,PSZ/C Grafomotoryka MaMaj,0.2222
+2703,UKD/B Dopasowywanie nieidentycznych obrazków MaMaj,0.7000
+2704,MKR/B rozpoznawanie przedmiotów/części ciała MaMaj,0.0270
+2705,MKR/C rozpoznawanie przymiotników/rzeczowników/czasowników MaMaj,0.3182
+2706,PSZ/A Gra z rówieśnikiem MaMaj,0.1000
+2707,PSZ/A Gra z rówieśnikiem ToCza,0.0769
+2708,FS_G/B On task MaMaj,0.1111
+2710,UKI/B/imitacjaPaFi,0.5000
+2716,mnożenie idzielenieKamil,0.5294
+2717,UKL/W/C Reagowanie na timer ToCza,0.1667
+2718,SF/A Mycie zębów KaLe,0.0000
+2719,PSZ/A Gra z rówieśnikiem KaLe,0.0000
+2720,UKW/A Podążanie za planem KaLe,0.3750
+2721,UKW/A Podążanie za planem ToCza,0.1250
+2722,UKW/A Podążanie za planem MaMaj,0.2857
+2723,P/C Układanie puzzli KaLe,0.4167
+2724,UKI/C Imitacja za wzorem KaLe,0.7826
+2725,UKI/C Imitacja za wzorem ToCza,0.8095
+2726,MKP/C Proszenie o pomoc KaLe,0.2222
+2727,MKN/B Nazywanie przedmiotów/osób/czynności KaLe,0.3247
+2728,MKN/C komunikowanie zakończenia zadania KaLe,0.2500
+2729,MKK/C Udzielanie informacji o sobie KaLe,0.5625
+2730,MKR/D Rozumienie złożonych poleceń KaLe,0.4483
+2731,UKD/E Sortowanie obrazków KaLe,0.5000
+2732,MKP/B Proszenie MaMaj,0.0769
+2733,MKP/C Proszenie o przedmiot potrzebny do zadania KaLe,0.0769
+2734,P/C Grafomotoryka KaLe,0.3000
+2737,UKI/D imitacja werbalna Szy Kos,0.1429
+2739,P/C Układanie 9 - elementowej układanki JaLe,0.3750
+2740,On task - AlJan,0.6000
+2741,AlJan - Reagowanie na timer,0.6250
+2742,AnasJan - Reagowanie na timer,0.2857
+2745,"UP/Zabawa, FilAnt",0.0000
+2747,"MK Kasjan Sulmowski, Nazywanie ",0.6053
+2748,Kasjan Sulmowski - Gra w memo,0.0714
+2751,LOGO AdPas - Imitacja motoryki artykulacyjnej,0.0400
+2752,Imitacja z przedmiotami BarMad,0.0000
+2753,Dopasowanie identycznych przedmiotów BarMad,0.0000
+2754,Imitacja motoryczna BarMad,0.0000
+2755,"MKR/E, identyfikowanie osób FryHib",0.0000
+2756,"MKR/B, rozumienie poleceń, FryHIb",0.0149
+2757,"MKN/C, komunikowanie zakończenia, KaSa",0.6000
+2758,UK/Współpraca,0.0625
+2759,Rozumienie poleceń z pzryimkami,0.0000
+2760,Proszenie o potrzebne/brakujące rzeczy,0.3793
+2761,"UKR/C, identyfikowanie osób, InGra",0.2059
+2762,"UKR/B, reagowanie na polecenia, InGra",0.1081
+2763,PSZ/Z_A Wykonywanie powtarzalnej pracy MaRy,0.2857
+2764,UKI/B Imitacja z przedmiotami- BGN-MAPO,0.1875
+2765,UK/E Sortowanie MaOch,0.2963
+2766,S/E Liczenie MaOch,0.0692
+2767,UKI/C Naśladowanie działań z przedmiotami JaLe,0.0000
+2769,P/C- aktywności manipulacyjne- BGN-MaPo,0.0000
+2770,UKW/C Reakcja na timer FiKo,0.7500
+2772,"UP/C, wycinanie, KaSa",0.1200
+2773,MK/R/MAMo,0.4902
+2774,"UP/C, kolorowanie, FryHIb",0.0952
+2775,"UP/C, układanie puzzli, FryHib",0.2727
+2776,"MKK/E, opowiadanie o sobie, KaSa",0.3333
+2785,"UKI/C. budowanie ze wzoru, AdPAs",0.0870
+2786,"MKR/C, identyfikowanie osób z otoczenia, AdPa",0.2143
+2787,"MKR/C, wskazywanie na obrazkach, AdPas",0.1538
+2788,"UKI/C, budowanie ze wzoru, MiCio",0.1429
+2789,Podpisanie się ,1.0000
+2790,"podpisanie się ""Gabi""",0.5000
+2791,Wycinanie ,0.7500
+2792,MK/K/dokańczanie,0.5926
+2793,MK/Nazywanie 3 elementy,0.8837
+2794,PSZ_S/A Projektowanie grafiki na stronie canva.com MaRy,0.2182
+2795,"AdPas, reagowanie na timer",0.0303
+2796,"FilAnt, dopasowywanie",0.2174
+2797,KacKrys/MK nazywanie,0.2353
+2798,Filipmnożeniedzielenie,0.5122
+2800,"Jako, MK Rozpoznawanie kolorów ",0.0364
+2801,"Jako , UK Sortowanie",0.1481
+2802,S/E Liczenie OlPi,0.0645
+2803,MKR/D wykonywanie poleceń OlPi,0.2174
+2805,SFC/A realizacja albumu MF,0.0000
+2807,Umiejętność pracy z albumem KA,0.3333
+2808,Umiejętność pracy z albumem KZ,0.0000
+2809,Umiejętność pracy z albumem EP,0.0000
+2810,Umiejętność pracy z Albumem(AO),0.0000
+2811,Umiejętność pracy z albumem A.S,0.0000
+2815,TS us,0.0000
+2816,Umiejętność pracy z albumem KP,0.0000
+2819,SFC/A realizacja albumu BB2019,0.0000
+2820,realizacja imitacja motoryki dużej MF,0.0000
+2821,KP Mateusz,0.0000
+2822,Nazywanie rzeczowników(AO),0.0000
+2823,Wyrażanie próśb EP,0.0000
+2824,Nazywanie przedmiotów/czynności KA,0.5000
+2825,NAZYWANIE 5 CZYNNOŚCI,1.0000
+2826,Bliźniaki PECS nazywanie,0.0000
+2833,Proszenie o pożądaną rzecz KZ,0.0000
+2834,MKN/B nazywanie z użyciem odpowiedniej liczby LaKr,0.5714
+2835,SFS/A realizacja prostych czynności gospodarczych MaPa,0.0000
+2836,SFS/A Czynności gospodarcze z użyciem sprzętu AGD MaPa,0.0000
+2837,MKP/C Proszenie o potrzebne przedmioty KsPe,0.0455
+2839,UK/UK_I/JaMa,0.3182
+2840,UK/I JPe,0.3125
+2842,AdPas/MK nazywanie,0.0588
+2844,AdPas/UKI proste czasowniki ,0.0400
+2845,AdPas/UKI rzeczowniki ,0.0000
+2846,AdPas/P przecinanie paska,0.0000
+2847,AdPas/MKR elementy otoczenia,0.0870
+2848,AdPas/MKR czasowniki,0.1818
+2849,AdPas/UKD obrazki w kategorie,0.1154
+2850,P/A Zabawa ToCza,0.0000
+2851,UKI/C imitacja werbalna ToCza,0.6000
+2852,P/A Zabawa KaLe,0.2500
+2853,P/A Zabawa MaMaj,0.0000
+2854,UKI/C Imitacja werbalna MaMaj,0.3333
+2855,UKW/C Reakcja na timer MaMaj,0.5000
+2857,UKW/D Realizowanie zadań proaktywnych - MarPis,0.1792
+2858,Przyimki,0.2000
+2859,MKR/D polecenia z przemieszczeniem DoKr,0.1071
+2860,CZasowniki,0.4043
+2861,Współpraca NA,0.1000
+2862,Dopasowywanie cyfry,0.3793
+2864,MKK/E PROWADZENIE KONWERSACJI - JaWó,0.0000
+2867,czasownikii,0.4894
+2870,PSZ_Z/A  Montaż karmnika MaRy,0.1176
+2871,KonWas/MIK Rozumienie mowy biernej,0.0833
+2872,MKN/C Nazywanie z wykorzystaniem PECS OlPi,0.0313
+2873,SFG/A- Realizacja prostych czynności domowych w łańcuchu przez całkowitą prezentację- BGN,0.0479
+2875,Imitacja motoryczna BarMad2,0.0000
+2876,CiołMik/P wycinanie,0.2727
+2878,Proszenie o potrzebne przedmioty - SzyGra,0.5000
+2879,Umiejętności prezawodowe - SzyGra,0.1667
+2880,Sortowanie - SzyGra,0.2500
+2882,Dopasowanie ident. przedmiotu BarMad2,0.0000
+2883,PSZ/E Wycinanie DaNa,0.0000
+2889,S/E Znajomość nominałów pieniężnych JaWó,0.2083
+2891, BGN  aktywność prezawodowa płytki J ERNEST,0.0000
+2892,PSZ/C Kolorowanie DaNa,0.0606
+2893,Pisanie według wzoru.,0.1852
+2894,Rozumienie mowy - proste polecenia..,0.5000
+2896,MKP/Proszenie o potrzebne przedmioty (werbalny trening incydentalny),0.5000
+2897,S/C Posługiwanie się kalendarzem GaMi,0.3148
+2898,"LOGO WasKon, Imitacja motoryki artykulacyjnej",0.0000
+2899,"LOGO, SałKac, Imitacja motoryki artykulacyjnej",0.2000
+2900,MKR/B DaLe Wykonywanie prostych poleceń,0.2453
+2901,"UP/wycinanie, FryHib",0.0000
+2903,"Rozumienie polecenia ""daj""",1.0000
+2904,"Liczenie, rozpoznawanie cyfr MaStrz",0.1333
+2905,Sortowanie kategorii MaStrz,0.5455
+2906,Sprzątanie MaStrz,0.0000
+2907,UKI/C Imitacja z przedmiotami DaNa,0.0000
+2908,UKS/C Sortowanie DaNa,0.2951
+2910,Proste zadania manipulacyjne SzyGra,0.4167
+2911,Proste aktywności manipulacyjne BarMad,0.0000
+2912,"CiołMik/S, grafomotoryka",0.0714
+2913,"CiołMik/SF, Plan SAM",0.1250
+2916,"Rozumienie polecenia ""daj""..",0.8000
+2917,"AntFil, MKR/C identyfikowanie osób z otoczenia",0.0769
+2918,"AntFil, MKR/B rozumienie poleceń",0.0588
+2919,"FilAnt, UKI",0.1786
+2920,Z/A - Wykonywanie pracy na zlecenie - MaPo,0.4000
+2921,Z/A Powtarzalna praca - praca taśmowa - MaPo,0.6667
+2922,Z/B - Wykonywanie pojedynczych zadań zawodowych - StLe,0.1111
+2923,"FilAnt, UKD obrazki",0.0000
+2924,PSZ/A - Obsługa komputera - StLe,0.0000
+2925,MKP/C Proszenie (werbalny trening incydentalny kopia) DaNa,0.0936
+2926,"SulKas, UK, Budowanie ze wzoru 2",0.3333
+2927,PSZ_S/A Obsługa komputera PrzeWój,0.0476
+2928,UKI/C Imitacja DaNa,0.0429
+2930,składanie skarpet JE,0.0000
+2931,proszenie o potrzebne przedmioty (DA) JE,0.2353
+2958,MKN/C- Nazywanie z wykorzystaniem PECS MiJu,0.2419
+2961,MKR/ E- Rozumienie stosunków przestrzennych MiJu,0.0645
+2963,S/D- Identyfikowanie i nazywanie kształtów i kolorów MiJu,1.0000
+2964,S/E Liczenie BaJu,0.0000
+2965,S/E Liczenie MiJu,0.3898
+2968,S/E  Czytanie globalne MiJu,0.2400
+2969,MKP/C- Proszenie o wzmocnienie z wykorzystaniem PECS PaZa,0.5000
+2970,UKD/C Dopasowywanie pojedynczych elementów MaMo,0.2857
+2972,"MIK/R, identyfikowanie osób na zdjęciach, Kakry",0.0333
+2973,SF/S - A Realizacja higieny osobistej FiSz,0.1818
+2974,MK/R/KacKry - rozumienie prostych poleceń,0.2051
+2977,UK/JaMa/BGN,0.6667
+2978,JaMa-BGN/PSZ/Z,0.5455
+2979,UKW/A Podążanie za planem aktywności KA,0.3333
+2983,UKW/C - Reagowanie na imię KA,0.0000
+2985,"Igor Kowalczyk, Sekwencje z przedmiotami",0.1154
+2986,MKR/D Wykonywanie poleceń złożonych KrzyĆwi,0.3684
+2987,UKD/E Sortowanie obrazków KrzyĆwi,0.6667
+2988,MKK/ Udzielanie informacji KrzyĆwi,0.2353
+2989,PSZ/Z MaBoj Wykonywanie prezawodowych łańcuchów czynności,0.0261
+2990,UKW/B Kontakt wzrokowy KrzyĆwi,0.5000
+2991,UKW/C Reakcja na timer KrzyĆwi,0.7500
+2992,PSZ/C Wycinanie KrzyĆwi,0.6429
+2993,MKK/B Odpowiadanie na pytania KrzyĆwi,0.3333
+2994,P/A Granie w proste gry PioPain,0.7500
+2995,Z/ A - wykonywanie powtarzalnej pracy/KOBY,0.0000
+2996,Z/A Wykonywanie prezawodowych łańcuchów czynności MaWój,0.0000
+3004,SFS/A - Realizacja higieny osobistej (JaLe),0.0000
+3005,SFC/A Realizacja Planów Samodzielnych Aktywności JaLe,0.0000
+3008,MKR/B Wykonywanie prostych poleceń (JaLe),0.0000
+3009,SFS/A Realizacja higieny osobistej (RaOj),0.0000
+3010,SFC/A Realizacja planów samodzielnych aktywności (RaOj),0.1429
+3012,P/C Układanie 9- elementowej układanki (RaOj),0.4667
+3013,SFC/A - Realizacja planu samodzielnej aktywności (IlBo),0.5000
+3014,UKI/B Imitacja werbalna (IlBo),0.0000
+3016,UKD/E - Sortowanie w kategoriach (IlBo),0.0000
+3019,UKI/E - Naśladowanie z przedmiotami (IlBo),0.3043
+3021,MK/N Nazywanie przedmiotów MaWój,0.0000
+3022,SF/G Łańcuchy prostych czynności domowych MaWój,0.0000
+3023,SFS/ A Ubieranie się MaWój,0.0000
+3027,KOPIOWANIE DUŻYCH LITER,0.7188
+3028,NAZYWANIE CZYNNOŚCI.,0.4167
+3029,NAZYWANIE PRZEDMIOTÓW,0.8710
+3031,"ROZUMIENIE POLECENIA ""DAJ CYFRĘ..""",0.2727
+3032,ETYKIETOWANIE.,0.5556
+3033,DOPASOWYWANIE CYFRY/ LICZBY,0.4286
+3036,MKR/C Wskazywanie osób na zdjęciach RaOj,0.0000
+3037,KacKry/UP/ KOLOROWANIE ,0.2500
+3038,"CiołMik, imitacja werbalna samogłoski",0.0625
+3039,UKI/C Nawlekanie korali wg wzoru,0.8571
+3040,MKN/C Komunikowanie zakończenia zadania KrzyĆwi,0.3000
+3041,MKK/C Opowiadanie o obrazku KrzyĆwi,0.5000
+3042,nasladowanie mowy JP,0.4359
+3043,wykonywanie poleceń Gabi,0.1875
+3044,układanie puzzli - Kuba,0.1250
+3046,Sortowanie Gabrysia,0.0000
+3047,MKR/ Rozpoznawanie rzeczowników/czasowników,0.2571
+3048,PS/C Wycinanie ToCza,0.3846
+3049,S/E - Obsługa komputera MarPis,0.0000
+3052,Dbanie o sibie Gabi,0.0000
+3053,Ubieranie Gabi,0.0000
+3054,Zabawa manualna Gabi,0.0000
+3055,UKW/A Podążanie za planem JaSzcz,0.0000
+3059,Kac/Kry/Nazywanie ,0.5111
+3060,GaEm UK/UK_D (Dopasowywanie identycznych predmiotów u osoby sprawnej motorycznie),0.3250
+3061,GaEm UKI/B Imitacja z przedmiotami ,0.4255
+3062,"Ga EM MKR/E Rozumienie nazw rzeczowników, czasowników, przymiotników ",0.7692
+3063,SFG/D. Staranne sprzątanie - JoMi,0.3333
+3064,"MiK/C, proszenie o pomoc, KaKry",0.0625
+3065,"MIK/C, komunikowanie zakończenia zadania, KaKry",0.1579
+3066,"UK/C, imitacja rysunku, Kakry",0.0000
+3068,GrabIn/UK/dopasowywanie ,0.5714
+3069,"Igor Kowalczyk, Zabawa ulicą",0.0000
+3070,GrabIn/UP/ZabawaKlockami,0.0000
+3071,SFG/A. Gotowanie - JoMi,0.0000
+3072,Z/A Praca na zlecenie (lista zamówień) WiKa,0.8000
+3073,SZ/C Obsługa komputera WiKa,0.3014
+3074,"UP/A, zabawa, KaSa",0.1429
+3075,"UP/A, zabawa2, KaSa",0.0769
+3076,"FilAnt, zabawa ",0.0000
+3077,SFG/A Wykonywanie czynności porządkowych JaHa,0.0714
+3078,Zamiatanie,0.0000
+3079,"Przepisywanie tekstów na komputerze (duże litery, spacje, kropki)",0.0000
+3080,"MiK/B, rozumienie poleceń, BaŚmie",0.0194
+3081,KacKry/UKI/ z przedmiotem ,0.3000
+3082,"GrabIn/UKW, czekanie ",0.6154
+3083,"UP/C, puzzle, NaUr",1.0000
+3084,"SF/A, mycie rąk NaUr",0.0000
+3085,"MiK/E, stosunki przestrzenne, NaUr",0.6250
+3086,"UKI/B, imitacja motoryki, NaUr",0.7857
+3087,"FS/A, naprzemienna gra NaUr",0.3333
+3088,KonWas/P/zabawa,0.0000
+3089,"MiK/C, proszenie, NaUr",0.6000
+3090,"UP/C, aktywności manipulacyjne, NaUr",0.8333
+3091,"UKI/C, rysowanie ze wzoru, NaUr",0.2500
+3092,"UK/D, współpraca, NaUr",0.3750
+3093,"UP/A, zabawa, NaUr",0.4000
+3094,"UKD/C, sortowanie, NaUr",0.5000
+3095,"USZ/C, wskazywanie kolorów, NaUr",0.6364
+3096,"UKI/B, naśladowanie z przedmiotem BaŚmie",0.2143
+3097,"SFS/A, mycie rąk BaŚmie",0.0000
+3098,"UKD/E, dopasowywanie BaŚmie",0.4286
+3099,"MiKK/B, odpowiadanie na pytania, NaUr",0.7778
+3105,MKN/D Nazywanie przeciwieństw KrzyĆwi,0.3077
+3106,UKI/C Budowanie wg wzoru KrzyĆwi,0.3571
+3107,"UP/C, wycinanie, NaUr",0.1667
+3108,"US/B, reagowanie na polecenia kierowane do grupy, NaUr",0.0000
+3109,UKI/ B imitacja motoryczna MIOBO,0.1429
+3110,Przygotowanie jajecznicy,0.3333
+3111,Pisanie na komputerze,0.6667
+3113,Dopasowywanie - dokładanie do pary (BGN),0.0476
+3114,Z-nauka prostych aktywności prezawodowych - BGN - JaMa,0.3571
+3116,Naśladowanie ruchów motoryki dużej - MacKij / BGN,0.0435
+3118,UKI/B Naśladowanie z przedmiotami PAZa,0.1194
+3120,Wiązanie butów,0.6286
+3121,UKI- Imitacja motoryczna MaMa,0.5000
+3122,UKI- imitacja z przedmiotem -MaMa,1.0000
+3123,UKW-współpraca- MaMa,0.0000
+3124,UKW- współpraca-MaMa,0.5000
+3125,UKD- dopasowywanie -MaMa,0.0000
+3126,MKR- rozumienie-MaMa,0.3333
+3131,SFS- samoobsługa -mycie rąk-MaMa,0.0000
+3132,UKI/B imitacja motoryczna Marbed,0.2500
+3133,UKW/A podążanie za planami Marbed,0.2500
+3134,UKD/B dopasowywanie Marbed,0.6667
+3135,MKR/B rozumienie Marbed,0.5000
+3136,UKI- Imitacja motoryczna - JaPi,0.3333
+3137,UKW- reagowanie na timer - JaPi,0.0000
+3138,UKD - dopasowywanie  -JaPi,0.0000
+3139,MKR - rozumienie prostych poleceń - JaPi,0.5000
+3140,SFS - mycie rąk- JaPi,0.0000
+3141,UKI/B imitacja Olidą,0.7000
+3142,UKW/A podążanie za planem Olidą,0.0000
+3143,DKD/B dopasowywanie Olidą,1.0000
+3144,MKR/B rozumienie Olidą,0.8333
+3149,"Kasjan Sulmowski, Wycinanie",0.7500
+3150,"Kasjan Sulmowski, rysowanie imitacja",0.6000
+3152,MKR/B Rozpoznawanie osób KaLe,0.6667
+3153,MKR/B Rozpoznawanie osób ToCza,0.1304
+3154, UK/W Czekanie OlPi,0.5000
+3158,"MiK/A, budowanie dłuższych wypowiedzi, NaUr",0.1020
+3159,"MiK/B, mówienie ""nie wiem/nie umiem"", NaUr",0.0000
+3160,S/E Liczenie MK ,0.8000
+3162,S/A - Obsługa Komputera JaWó,0.2143
+3164,"MiK/D, rozumienie, IgKo",0.5000
+3165,"UP/C, wycinanie, IgKo",0.6000
+3166,Identyfikowanie elementów otoczenia - AlJan,0.7333
+3167,Nazywanie czynność na obrazkach - AlJan,0.7113
+3168,Odpowiadanie TAK/NIE - AlJan,0.0000
+3169,UK/BaŚmie reagowanie na imię,0.0952
+3170,UP/BaŚmie układanie puzzli,0.6364
+3171,MKK/BaŚmie proszenie o nagrody,0.0323
+3172,Proszenie o przedmioty - AlJan,0.4737
+3174,Sortowanie nieidentycznych elementów - AlJan,0.9200
+3176,Proszenie o wzmocnienia - AlJan,0.5405
+3177,"MKR/B, IgKo, wykonywanie poleceń",0.0938
+3179,Wykonywanie złożonych poleceń - AlJan,0.5429
+3180,Zabawa w zwierzęta - AlJan,0.1429
+3181,"UKW/C, czekanie, FryHib",0.2500
+3182,"MiK/B. reagowanie na polecenia kierowane do grupy, FryHib",0.0000
+3183,SFS/A Ubieranie się Ga Mi,0.0000
+3184,SFS/A Ubieranie się SzKł,0.0000
+3185,"MIKP/C, proszenie za pomocą PECS, IgKo",0.4000
+3187,Komunikacja z użyciem PECS/MaPo-BGN,0.0144
+3188,SF-Plan Samodzielnej Aktywności/MaPo-BGN,0.0000
+3189,S/C Wagi SzyKoz,0.1714
+3190,UKD/C Uzupełnianie sekwencji KrzyĆwi,1.0000
+3191,S/C Czytanie ToLan,0.1739
+3192,S/C Czytanie GaMi,0.0667
+3193,S/C Znajomość nominałów pieniężnych SzKł,0.4769
+3197,SFG/A Realizacja prostych czynności domowych SzKł,0.0571
+3198,PRZEPISYWANIE OLA,0.4000
+3199,SFG/A Realizacja prostych czynności domowych GaMi,0.2353
+3200,Z/A Wykonywanie prezawodowych łańcuchów czynności DoKr.,0.0000
+3201,SFS/B Nalewanie wody z butelki JaSz,0.0000
+3208,UKD/E  Dopasowywanie KsPe,0.3380
+3210,UKD/E Sortowanie nieidentycznych elementów JaSzcz,0.1724
+3211,S/D Czytanie - trening płynności ToLa,0.3000
+3212,"Rozumienie polecenia: ""daj cyfrę/ liczbę""",0.0000
+3213,UKI Imitacja z przedmiotami - ALOCH,1.0000
+3214,Imitacja motoryczna ALOCH,0.0000
+3215,"US/A, samoobsluga, FryHib",0.0000
+3216,"MiKR/C, wskazywanie obiektów, FryHib",0.0455
+3217,"UKD/E, dopasowywanie, FryHib",0.1818
+3218,SFS/PasAd,0.0000
+3219,"UP/A, zabawa2 AdPas",0.0000
+3221,"UP/C, grafomotoryka, AdPa",0.0000
+3222,"MiKR/C, wskazywanie obrazków, MiCio",0.3043
+3223,"SFS/A, samoobsługa, MiCIo",0.0000
+3224,"UP/A, zabawa2, MiCio",0.0400
+3225,"UP/A, zabawa FryHib",0.0000
+3226,"SFS/A, naprzemienna gra, FryHib",0.0000
+3227,"SFS/A, samoobsługa, KoWa",0.0000
+3230,wykonywanie poleceń ALOCH,0.0000
+3231,MOWA BIERNA - WSKAZYWANIE RZECZOWNIKÓW,0.0000
+3242,MKR/C Identyfikowanie przedmiotów  MaMaj,0.5185
+3243,UKW/A Plan dnia 2,0.0000
+3244,MKK/C Opowiadanie o obrazki MaPi,1.0000
+3247,UKI/Imitacja motoryczna - BaŚmie,0.4048
+3248,FS/On task - BaŚmie,1.0000
+3249,MKK/ zadawanie pytań MaPi,0.0000
+3250,S/C Przyswajanie wiedzy szkolnej SzKł,0.1765
+3251,UP/zabawa autami BaŚmie,0.3333
+3252,S/C Przyswajanie wiedzy szkolnej,0.3103
+3253,SF/A Realizacja higieny osobistej MaPa,0.0000
+3255,P/A Zabawa MaPa,0.0000
+3256,MKR/B Wykonywanie prostych poleceń MaPa,0.1765
+3257,UKW/B Reagowanie na polecenie OlPi,1.0000
+3258,MKN/C Nazywanie PECS,0.7000
+3259,MKN/C Nazywanie za pomocą PECS,0.6923
+3260,Z/A - Wykonywanie pracy na zlecenie JaHa,0.9630
+3263,UKI/B - Naśladowanie ruchów z zakresu motoryki dużej RaOj,0.3333
+3264,MKR/B Rozumienie instrukcji obrazkowych RaOj,0.0000
+3265,MKP/B Różnicowanie obrazków PECS,0.0000
+3267,UKI/C Imitacja werbalna JaJó,0.4000
+3268,SF/A Plan aktywności - BaŚmie,0.2000
+3269,PSZ/C Układanie puzzli KaLe,0.3913
+3271,MKR/E Identyfikowanie osób z najbliższego otoczenia JaJó,0.1429
+3272,AnJan - Nazywanie przedmiotów na obrazkach MK_N,0.0667
+3273,MKR/E Rozpoznawanie elementów z najbliższego otoczenia,0.4286
+3274,P/Z Zabawa JaJó,0.4000
+3275,Anjan - Kontak wzrokowy - UK/W,0.0000
+3276,MKR/C Wykonywanie prostych poleceń RaOj,0.3750
+3277,Anjan - Proszenie - MK_P,0.2941
+3280,MKR/B LOGO Rozumienie poleceń JaJó,0.3333
+3281,PSZP/C Zabawy manipulacyjne RaOj,0.5000
+3284,Nazywanie/czynności/przemioty,1.0000
+3287,MKP/c Proszenie o przedmioty KaLe,0.1667
+3288,MKK/C Opowiadanie o obrazku KaLe,0.6875
+3297,PSZ/A Granie w proste gry KaLe,0.0000
+3298,UKD/C Dopasowywanie i sortowanie KaLe,0.5556
+3299,SF/A Umiejętności gospodarcze KaLe,0.0000
+3300,UKD/C Dopasowywanie elementów wg logicznych przesłanek KrzyĆwi,0.4000
+3302,UKD/E Sortowanie obrazków  KrzyĆwi,0.4000
+3303,PSZ/A Granie w proste gry KrzyĆwi,0.0000
+3304,MKR/C Identyfikowanie przedmiotów KrzyĆwi,0.2000
+3305,MKK/B Zadawanie pytań KrzyĆwi,0.2500
+3306,MKN/B Nazywanie przedmiotu używając odpowiedniej formy gramatycznej,0.7500
+3307,UKI/B LOGO usprawnianie motoryki artykulacyjnej iLBo,0.4000
+3308,UKI/C LOGO wywoływanie głoski iLBo,0.7143
+3312,PasAd/Sz,0.0000
+3313,MKR/C LOGO rozpoznawanie obrazków ilBo,0.3810
+3314,UKI/C LOGO ćwiczenia oddechowe iLBo_,0.4118
+3318,PasAd/SFS ,0.0000
+3320,"SFG/A, sprzątanie, MiCio",0.0000
+3321,"MiKN/C, nazywanie za pomocą PECS, MiCio",0.3478
+3322,"USZ/B, wklejanie, MiCio",0.0769
+3323,"MK/C, proszenie za pomocą PECS, KoWa",0.4000
+3324,"MK/C, proszenie o wzmocnienia za pomocą PECS, FryHib",0.0000
+3325,"SF/A, sprzątanie, FryHib",0.0000
+3326,"MK/E, nazywanie za pomocą PECS, FryHib",0.0000
+3327,"MK/C, nazywanie za pomocą PECS, AdPa",0.0000
+3328,"MK/C, proszenie za pomocą PECS, FiAn",0.0000
+3329,"SF/A, plan SAM, NaUr",0.0000
+3330,"USZ/C, grafomotoryka, NaUr",0.5000
+3336,UKD/E Sortowanie przedmiotów w kategoriach ToCza,0.3750
+3337,LOGO ŚmieBar -  UKI/B motoryka artykulacyjna,0.3333
+3339,US/C Pisanie imienia MaPi,0.0769
+3343,UP/A Naprzemienna gra JaJó,0.6000
+3347,UKW/C Czekanie MaPaw,0.5000
+3353,"S/E Czytanie sylab, słów SzKo",0.0000
+3357,Nauka Pory roku,0.5000
+3360,"Mk/C,nazywanie,UrNat",0.1667
+3361,"SS/A, ubieranie się, KaSa",0.0690
+3362,"MK/B, pełne zdanie, KaSa",1.0000
+3363,"SFS/A,samoobsługa,AnFi",0.0000
+3364,"MK/C, proszenie za pomoca PECS, MiCio",0.6667
+3365,"USZ/C, przeliczanie, KaSa",0.4595
+3366,"USZ/A, wklejanie, KaSa",0.1667
+3367,"USZ/C, grafomotoryka, KaSa",0.1786
+3368,MK/C/GrabIn/Proszenie za pomocą PECS,0.1333
+3369,MKN/E Odpowiadanie na pytania trening werbalny DaNa,0.0000
+3370,UKI/C LOGO ćwiczenia oddechowe RaOj,0.4667
+3372,UKI/B LOGO usprawnianie motoryki artykulacyjnej,0.0000
+3373,UKI/C LOGO wywoływanie głoski RaOj,0.1538
+3375,UKI/C LOGO wywoływanie głoski JaLe,0.0000
+3376,UKI/B LOGO usprawnianie motoryki artykulacyjnej JaLe,0.0000
+3377,UKI/C LOGO ćwiczenia oddechowe JaLe,0.3000
+3378,S/A Obsługa komputera - JaHa,1.0000
+3379,SZS/D Wyszukiwanie informacji w Internecie - SzKr,0.1765
+3380,PSZZ/A Wypełnianie formularzy online SzKr,0.0000
+3382,S/E  Pisanie na komputerze SzyKoz,0.1458
+3383,MK/R Bartosz smiechowicz rozumienie mowy,0.0000
+3384,MKR/C Wykonywanie prostych poleceń JaLe,0.5455
+3386,UKI/C - Naśladowanie ruchów z zakresu motoryki dużej JaLe,0.2000
+3388,"SF/A, bycie dyżurnym, KoWa",0.0000
+3389,USZ/P/BarSmie/Czynności monipulacyjne,1.0000
+3391,MKN/C Nazywanie za pomocąPECS ToCza,0.5000
+3392,UP/SZ/GrabIn/Zabawa klockami ,0.2000
+3393,"KasSul, Stosunki przestrzenne, MiK",0.6000
+3394,UKI/B  Imitacja motoryczna MaPa,0.4444
+3395,UKI/B Imitacja z przedmiotami MaPa,0.7500
+3396,MKR/B Rozpoznawanie obrazków MaPa,0.0000
+3397,UKW/B Reagowanie na timer MaPa,0.0000
+3398,"KasSul, Nazywanie pełnym zdaniem, MiK/C",0.7188
+3400,"MK/C, odpowiadanie na pytania TAK/NIE, KaSa",0.3750
+3401,MKP/C Proszenie PECS MaPa,0.2500
+3402,UKD/C Dopasowywanie MaPa,0.6667
+3403,"IgKow, Nazywanie za pomocą PECS, MiK/C",0.2025
+3405,MKP/C Proszenie o pomoc PECS  MaPa,0.0000
+3408,P/Z Zabawa IlBo,0.0000
+3409,MKR/B Rozumienie instrukcji obrazkowych JaLe,0.0000
+3410,MKN/C Komunikowanie zakończenie zadania ToCza,0.0000
+3413,UKI/B Imitacja oralna JaJó,0.2500
+3414,"MKN/C Komunikowanie za pomocą PECS ""Skończyłem"" MaMaj",0.0909
+3415,MKR/B Wykonywanie prostych poleceń ToCza,0.3750
+3422,MKR/E Wykonywanie poleceń złożonych ToCza,0.5000
+3432,MKK/C Prowadzenie rozmowy KrzyĆwi,0.6667
+3435,UKI/B Imitacja oralna  KrzĆwi LOGO,0.7500
+3436,MKR/E Wykonywanie złożonych poleceń MaPi,0.2727
+3438,MKR/B Identyfikowanie osób  MaPi,0.4167
+3439,UKI/B Imitacja motoryczne MaPi,0.1250
+3440,SF/A Sprzątanie MaPi,0.0000
+3441,UKI/C Usprawnianie motoryki artykulacyjnej KaLe LOGO,0.0000
+3442,MKK/C Opowiadanie o sobie  MaPi,0.5385
+3443,P/C Wycinanie MaPi,0.4286
+3444,PSZ/E Liczenie MaPi,0.5000
+3445,PSZ/E Czytanie MaPi,0.4516
+3446,MKR/C Identyfikowanie przedmiotów MaPi,0.1111
+3447,P/C Wycinanie KaLe,0.2593
+3453,UKI/C LOGO wywoływanie głoski ToCz,0.2963
+3454,UKI/B LOGO usprawnianie motoryki artykulacyjnej ToCz,0.1505
+3455,UKI/C LOGO ćwiczenia oddechowe ToCz,0.6923
+3461,US/C Pisanie imienia i nazwiska ToCza,0.3333
+3462,MKR/B Rozumienie stosunków przestrzennych ToCza,0.0000
+3463,US/C Pisanie liter ToCzaj,0.5000
+3464,UKI/C LOGO imitacja mówienia głośno/cicho MaPi,0.6875
+3465,UKI/B LOGO usprawnianie motoryki artykulacyjnej MaPi,0.1818
+3466,MKP/C Proszenie o POMOC MaMaj,0.1000
+3467,US/C Pisanie imienia i nazwiska FiKos,0.4063
+3468,UP/C Wycinanie FiKos,0.7273
+3469,MKR/B Identyfikacja osób z otoczenia FiKos,0.3333
+3472,MKK/C LOGO mowa czynna - budowa zdania AnKo,1.0000
+3473,MKK/C LOGO mowa czynna AnKo,0.6190
+3474,UKI/B LOGO usprawnianie motoryki artykulacyjnej AnKo,0.4000
+3475,UKI/B LOGO motoryka artykulacyjna - pionizacja języka AnKo,0.5000
+3476,UKI/C LOGO ćwiczenia oddechowe AnKo,1.0000
+3479,"MKN/B, nazywanie, KaSa",0.6250
+3480,MKR/B Wykonywanie złożonych poleceń MaMaj,0.2500
+3481,PSZ/C Grafomotoryka cyfry MaMaj,0.2000
+3482,UKI/C LOGO ćwiczenia oddechowe MaPi,0.1765
+3483,MKR/B LOGO mowa bierna - rozumienie cicho/głośno MaPi,0.1200
+3484,UKI/B LOGO usprawnianie motoryki artykulacyjnej JaWr,0.2874
+3485,UKI/C LOGO wywoływanie głoski [f] JaWr,0.2963
+3486,UKI/C LOGO ćwiczenia oddechowe JaWr,1.0000
+3487,MKR/C LOGO rozróżnianie koloru czerwonego JaWr,0.0000
+3490,"UP/E, prace plastyczne, FryHib",0.2500
+3491,UKW/E Podążanie za poleceniami DaNa (edukacja w domu),0.0000
+3492,MKN/E Nazywanie DaNa (edukacja w domu),0.1627
+3493,PSZ/Z Wykonywanie pojedynczych zadań - notowania domowe,0.4286
+3494,"MiK/A, dialog, KaSa",0.3333
+3495,UP/SZ/KarKrysz/Zabawa torami,0.3333
+3496,"UP/A, zabawa3, KaSa",0.2500
+3498,MK/K KaLe Udzielanie odpowiedzi na pytania,0.4000
+3499,PSZ/C KaLe Kolorowanie ,0.3000
+3500,P/C KaLe Rysowanie ,0.1111
+3501,GrabIn/UP/SZ/UMIEJĘTNOŚCI MANIPULACYJNE ,0.1333
+3596,SFS/A higiena osobista UO9,0.0000
+3602,SF/A higiena osobista OU 6,1.0000
+3604,SFS/A Higiena osobista UO10,0.0000
+3611,UKW/D- Podążanie za poleceniami UO9,0.0000
+3615,UKW wykonywanie prostych poleceń  OU10,0.0000
+3620,UKW/C Czekanie OU9,0.0000
+3625,UKC/C nauka czekania OU6,0.0000
+3631,UKW Czekanie ,0.5000
+3637,MKN/B KaLe Nazywanie przedmiotu używając odpowiedniej formy gramatycznej,0.0000
+3638,MKR/C Identyfikowanie przedmiotów KaLe,0.0000
+3639,MKK/C Odpowiadanie na pytania MaPi,0.0000
+3640,PSZ/A Granie w proste gry MaPi,0.0000
+3641,UK/M Nazywanie odgłosów zwierząt BaŚmie,0.1111
+3642,MKR/E Rozpoznawanie przedmiotów w rzeczywistości,0.0000
+3644,UKW/C Reagowanie na timer ToCza,0.2000
+3645,Mk/KacKry/Opowiadanie o sobie ,0.4000
+3646,MKP/C Komunikowanie swojej prośby MaPi,0.6000
+3647,"MIK/E, KaSa. nazywanie",0.3107
+3648,"US/A, naprzemienna gra, KaSa",0.1000
+3649,UK Imitacja motoryki artykulacyjnej MatMaj LOGO,0.2222
+3651,UK Imitacja słów (1 i 2-sylabowych) MatMaj LOGO,0.3478
+3652,UK Imitacja motoryki artykulacjnej FiKo LOGO ,0.2667
+3653,MKN Mowa czynna-nazywanie NhiBa LOGO,0.0000
+3654,UK/C  Imitacja motoryki artykulacyjnej KaLe LOGO,0.5417
+3655,UK/B  Imitacja głoski [L] w sylabach KaLe LOGO ,0.2750
+3658,Naśladowanie ruchów do piosenek,0.4000
+3659,UKI - Imitacja z przedmiotami,1.0000
+3660,UKD - Sortowanie obrazków w kategoriach ,0.5000
+3661,MKK - Udzielanie informacji o sobie ,0.4000
+3662,UKW - Reaguje na timer,0.5000
+3663,"UKI/B, imitacja z przedmiotem, AlJa",0.2500
+3664,"UP/zabawa 2, KaKry",0.0000
+3666,"UK/E, imitacja, FilAnt",0.2000
+3667,UKI/B Imitacja sylab z Głoską M  LOGO MaMaj,0.4000
+3668,"MK/C, proszenie o wzmocnienia, HuWo",0.0000
+3669,"MK/B, imitacja motoryczna, HubWo",0.3333
+3670,"MK/E, nazywanie, HubWo",0.0000
+3671,"UP/A, klejenie, IgKo",0.1000
+3672,"UP/C, grafomotoryka, IgKo",0.3333
+3674,"MK/B, gramatyka, KaSu",0.4545
+3675,"MK/A, rozmowa, KaSu",0.1111
+3676,"USZ/E, liczenie, KaSu",0.2353
+3677,"MK/B, zadawanie pytań, KaSu",0.1250
+3678,"UKD/E, dopasowywanie. KaSu",0.3333
+3679,"USZ/E, liczenie, MiCIo",0.6250
+3680,"UP/C, wycinanie, KoWa",0.0000
+3681,"UKI/C, imitacja rysowania, KoWa",0.0000
+3683,"UKD/C, dopasowywanie, HuWo",0.6154
+3684,"UKW/C, reagowanie na imię, HuWo",0.2500
+3685,"UKW/B, imitacja ze wzoru, HuWo",0.6667
+3686,"UP/C, przecinanie, HuWo",0.0000
+3687,"MKR/B, reagowanie na polecenia, HuWo",0.1707
+3688,"UGS/A, mycie rąk, HuWo",0.0000
+3689,"UP/C, układanie puzzli, HuWo",0.7500
+3691,"USZ/E, karty pracy, BaŚmie",0.8333
+3692,UKI/D Imitacja motoryczna - zestawy Oliwia J.,0.0000
+3693,UKI/E Imitacja z przedmiotami Oliwia J.,0.0000
+3694,MKP/C Proszenie o nagrody z wykorzystaniem PECS Oliwia J.,0.7500
+3703,"UKW/C, czekanie, BaŚmie",0.8889
+3704,"MIKR/C, wskazywanie, BaŚmie",0.2000
+3705,"UP/C, śpiewanie piosenek z gestami, KaSa",0.5000
+3707,UKI/C  Imitacja sylab otwartych LOGO JaJó,0.1786
+3708,UKI/B  Różnicowanie imitacji dźwięków [MA] - [MAMA] LOGO MaPaw,0.0000
+3709,"MIK/B, odpowiadanie na pytania, KaSa",0.2500
+3710,MKR/B Identyfikowanie przedmiotów MaPi,0.5000
+3711,UKW - Czekanie ,1.0000
+3712,UKI - Imitacja wyrazu twarzy,1.0000
+3713,MKR - Identyfikowanie elementów otoczenia ,0.0000
+3714,"MKR - Rozumienie nazw rzeczowników, przymiotników, czasowników",0.0000
+3715,MKP - Proszenie o pomoc ,0.0000
+3717,MKN/C Komunikowanie zakończenia zadania za pomocą PECS ToCza,0.4000
+3718,PSZ/A   KaLe Granie w proste gry ,0.0000
+3719,MKP/C proszenie o pomoc MaPi,0.1818
+3720,MKR/C Rozpoznawanie części ciała ToCza,0.7000
+3721,MKN/B Nazywanie przeciwieństw 2 KrzyĆwi,0.7500
+3722,MKR/B Wykonywanie poleceń złożonych 2 KrzyĆwi,0.0000
+3723,PSZ/E Czytanie KrzyĆwi,0.2500
+3724,PSZ/C Liczenie KrzyĆwi,0.7097
+3725,MKN/C Nazywanie zaimków KrzyĆwi,0.3333
+3726,MKR/B LOGO słuch fonemowy JaWr,0.0000
+3727,UKI/C Dmuchanie nosa iLBo,0.5641
+3730,UKI/C LOGO Dmuchanie nosa RaOj,0.1053
+3732,UKI/C LOGO Dmuchanie nosa MaPi,0.1667
+3733,UKI/C LOGO Dmuchanie nosa AnKo,0.8750
+3745,UKD/B PhiWi Segregowanie.,0.0897
+3746,UKW/B STOP MaGo,0.1667
+3747,UKW/C Czekanie MaGo,0.5556
+3749,UKD/E Dopasowanie etykiet z planu dnia PhiWi,0.0000
+3750,UKI/C Imitacja MaGo,0.2353
+3751,PSZ/C Kolorowanie MaGo,0.5385
+3752,UKI/B uczeń uczeń,0.5882
+3753,UKI/B uczeń 9,0.3333
+3758,UKI/B uczeń 10,0.3333
+3761,UKI/B Uczeń 4,0.6667
+3764,UKI/B uczeń 2,0.3333
+3765,SFG/A Kisiel uczeńuczeń,0.0000
+3766,SSG/A kisiel plan prezentacja,0.0833
+3767,SFG/uczeń 6,1.0000
+3768, Kisiel Uczeń 4,0.0000
+3770,US/ A kisiel /Uczeń 7,0.0000
+3771,SF/SFG/uczen uczeń 5,0.0000
+3772,SFG/ przygotowanie kisielu,0.0000
+3774,SF/G Uczeń Sysaba 9,0.0000
+3776,SF/G/ sysaba uczeń 10,0.0000
+3777,UKW/B on task z limitem czasowym próby,0.0000
+3782,UKW,1.0000
+3786,UK/W sysaba uczeń 10,0.0000
+3788,S/E Liczenie   AdNa,0.3699
+3789,UKW/C Czekanie  AdNa,0.5385
+3790,PSZ/C Kolory AdNa,0.3243
+3791,PS/SZrozumienie tekstu Kuba,0.3810
+3792,Bycie w uwadze Kuba,0.0000
+3793,Pisanie Kuba,0.5217
+3794,S/E Znajomość nominałów pieniężnych AdNa,0.1600
+3795,SFG/A Realizacja prostych czynności domowych AdNa,0.0227
+3796,S/E Czytanie AdNa,0.4058
+3797,MKR/B/wykonywanie prostych poleceń-JASZA-BGN,1.0000
+3798,UKI/B/imitacja motoryczna/JASZA-BGN,0.1667
+3799,UKD/B/ dopasowywanie pojedynczych elementów JASZA BGN,0.2759
+3800,MKR/B/wykonywanie prostych poleceń MaDo-BGN,0.1667
+3801,UKI/B/imitacja motoryczna/MaDo BGN,0.0000
+3802,UKD/B/dopasowywanie pojedynczych elementów JuPo BGN,0.0000
+3803,MKR/B/wykonywanie prostych poleceń JuPo-BGN,0.0000
+3804,UKI/B/imitacja motoryczna/BAWI-BGN,0.0000
+3805,MKR/B/wykonywanie prostych poleceń-BAWI-BGN,0.0714
+3806,UKI/C - Odwzorowywanie AnPie,0.1667
+3807,S/C - kolorowanie w konturze AnPie,0.3548
+3808,S/E - rozpoznawanie/nazywanie kształtów i kolorów AnPie,0.3462
+3809,MKK/E  - Nazywanie AnPie,0.5738
+3810,S/E - Czytanie AnPie,0.4194
+3811,S/C liczenie - AnPie,0.0714
+3812,MK/R - E Rozumienie stosunków przestrzennych MarPis,0.0556
+3813,Z/ Z- A - Zadania prezawodowe MarPis,0.1633
+3814,SF/S - A Realizacja higieny osobistej MarPis,0.0000
+3815,S/E - Liczenie i znajomość cyfr MarPis,0.1709
+3816,S/E- Czytanie MarPis,0.4479
+3817,S/ E - Opowiadanie,0.2727
+3821,S/E- Czytanie BaLe,0.4933
+3822,UKD/B/dopasowywanie pojedynczych elementów MaDo BGN,0.0000
+3823,Bycie w uwadze Kuba najnowszy,0.4259
+3824,MK - spontaniczna komunikacja za pomocą tabletu - AlWi,0.5714
+3825,MK - odpowiadanie na pytania z użyciem PECS - AlWi,0.0323
+3826,WiKa Realizacja prostych czynności domowych ,0.0909
+3829,WiKa Prowadzenie rozmowy ,0.0000
+3837,trening toaletowy,0.3171
+3838,S/E  Czytanie globalne MaGo,0.5000
+3839,WiKa Wykonywanie powtarzalnej pracy,0.2000
+3840,MKN/E Nazywanie MaGo ,0.6098
+3841,SzKr Wykonywanie powtarzalnej pracy ,0.6000
+3842,SzKr Realizacja prostych czynności domowych,0.1538
+3843,S/E Liczenie MaGo,0.3333
+3844,SzKr Spokojna realizacja opanowanych aktywności Planu Dnia ,0.2500
+3846,P/A Zabawa videomodelowanie MaGo,0.2188
+3847,Czekanie DoTa UKW/C,0.2000
+3848,Dopasowywanie DoTa UKW/E,0.2391
+3849,Samoobsługa DoTa UKS/A,0.0000
+3850,Odwzorowywanie BaLe UKI/C,0.2623
+3851,MKN/E Nazywanie KsPe,0.2000
+3852,SFG/A rozwijanie umiejętności gospodarczych PhiWi ,0.0000
+3853,SF/Z/8,0.4286
+3854,SF/Z/9,0.8333
+3855,SF/Z/10,0.2500
+3856,S/E Pisanie GaMi,0.0508
+3858,Wykonywanie prac biurowych JaSzcz,0.0000
+3859,ETYKIETOWANIE..,0.3333
+3860,DOPASOWYWANIE CYFRY DO ILOŚCI,0.2000
+3861,Rozumienie poleceń- pisanie imienia,0.0000
+3862,Nazywanie: czasownik + rzeczownik,0.4262
+3863,Konwersacja,0.3000
+3864,SFG/A Realizacja prostych czynności domowych JaSzcz,0.0000
+3865,SFC/A Spędzanie czasu wolnego JaSzcz,0.2222
+3868,"MKN/C/Nazywanie przedmiotów, osób i ich wzajemnych relacji/DaLe",0.9211
+3871,Z/A Wykonywanie świeczek JaWój,0.3636
+3872,Z/A Wykonywanie ozdób z żywicy epoksydowej JaHa,0.6667
+3873,UKW/B sortowanie identycznych/JaSza/BGN,0.0000
+3874,SFC/A/realizacja albumów aktywności/JaSza/BGN,0.1667
+3875,PSZ/B/wykonywanie prostych aktywności prezawodowych/JaSza/BGN,0.4000
+3884,SFG/A Naprawianie drobnych usterek SzymKos,0.1200
+3885,UKI/B Imitacja motoryczna - SzySo - BGN,0.0000
+3887,UKI/B Imitacja motoryczna - MaWy - BGN,0.0000
+3888,UKD/B Dopasowanie - MaWy - BGN,0.2857
+3889,MKR/B - Wykonywanie prostych poleceń - MaWy - BGN,0.5455
+3890,SFC/A - Realizacja albumów aktywności - MaWy - BGN,0.0000
+3893,MK/P1/Proszenie rówieśników o preferowany przedmiot,0.0000
+3894,MK/P3/Proszenie o pomoc,0.5000
+3895,SFS/C Zachowywanie czystości/ adekwatne korzystanie z toalety,0.0000
+3897,UK/W/ kontakt wzrokowy,0.2500
+3899,MK/R/przymiotniki przeciwstawne,0.3333
+3900,MK/R/ wybór ze wskazówką,0.0000
+3901,MK/P/ proszenie,0.5556
+3902,MK/N/ nauczyciele,0.2500
+3903,MK/N/ cyfry,0.1250
+3904,MK/K/ dokańczanie zdań,0.3158
+3905,SF/P/ składanie ubrań,0.1538
+3906,SF/Z/ pisanie komputer,0.0000
+3907,PSZ/ podpisywanie się,0.3333
+3908,MK/N/Nazywanie,0.2154
+3909,MK/P/Proszenie,0.5000
+3910,SF/P/składanie ubrań,0.0000
+3911,SF/A Realizacja albumów aktywności MaDo - BGN,0.0000
+3912,PSZ/Rysowanie ze wzorem,0.1538
+3913,Liczenie BaLe,0.3333
+3914,Czekanie BaLe ,0.3333
+3915,Imitacja Motoryczna BaLe,0.3750
+3916,"UKI/E, imitacja ze wzoru, KaSa",0.1429
+3917,"MIK/P, proszenie o informację, KaSa",0.0588
+3918,"MKN/E, nazywanie zjawisk atmosferycznych, KaSa",0.1818
+3919,"FS/B, używanie zwrotów grzecznosciowych, KaSa",0.1818
+3920,SFG/B Realizacja czynności domowych JaSzcz,0.2540
+3921,SFG/A Składanie ubrań JaWój,0.0727
+3922,SFS/C Zapinanie i zasuwanie odzieży JaSzcz,0.2344
+3923,Z/B Wykonywanie prostych zadań prezawodowych JaSzcz,0.2879
+3925,KOMUNIKACJA: Odpowiedź na pytanie,0.5000
+3926,S/E Przepisywanie na komputerze MarPis,0.1111
+3927,UK/I imitacja motoryczna,0.5263
+3928,DOPASOWYWANIE CYFRY DO ILOŚCI.,0.8462
+3929,MK/R/1 Rozumienie poleceń,0.6190
+3930,MK/R/2 Wskazywanie części ciała,0.3750
+3931,Dopasowywanie: litery,0.4783
+3934,S/C Wycinanie AnPie,0.3478
+3935,LarPud/UK/Dopasowywanie pojedyncze ,0.5714
+3937,LarPud/MK-P/ proszenie o nagrody.,0.0000
+3938,LarPud/MK-R/identyfikowanie osob z najbliższego otoczenia ,0.2273
+3939,Imitacja motoryczna- sekwencje,0.6667
+3940,Etykietowanie: czynności planu dnia,0.7333
+3941,Dopasowywanie ilości do cyfry 6-10,0.7500
+3942,Nazywanie 3 różnych przykładów,0.4839
+3943,SF/S1/Mycie rąk,0.0303
+3944,Nazywanie: kombinacja rzeczownik- czasownik,0.6053
+3945,Kopiowanie małych liter,0.7273
+3946,Wiązanie butów.,0.0000
+3947,Kopiowanie cyfr,0.7500
+3948,LarPud/SF-C/Plan sam,0.0000
+3949,LarPud/UK-W/Reagowanie na timer,0.0909
+3950,Proszenie o wzmocnienia - Konrad,0.5714
+3951,LarPud/UK-I/Imitacja z przedmiotem,0.2000
+3952,UK/D/B/JaLu- Segregowanie śrub,1.0000
+3953,S/E Liczenie MiMa,0.2429
+3954,Z/A/JaLu Łańcuchy prezawodowe,1.0000
+3955,Z/A Łańcuchy prezawodowe MiMa,0.2647
+3956,S/E/JaLu- Znajomość nominałów,1.0000
+3957,S/E Znajomość nominałów pieniężnych MiMa,0.7222
+3958,LarPud/MK-R/Wykonywanie prostych poleceń,0.2439
+3959,LarPud/USZ/P-Układanie puzzli,0.3750
+3960,LarPud/MK-N/Nazywanie ,0.3659
+3961,MKN/D-Nazywanie z użyciem PECS - BGN - JaMa,0.0667
+3967,Czytanie etykiet Robert W,0.4211
+3968,Pisanie słów Robert W,0.0000
+3974,Nazywanie Robert W_2,0.1837
+3975,SF/S/MYCIE RĄK,0.4286
+3976,SP/S/MYCIE RĄK,0.6667
+3977,UK/W Reagowanie na imię,0.1429
+3978,MK/N Nazywanie obrazków,0.3962
+3979,MK/N/1 Nazywanie kształtów,0.1053
+3981,UK/I imitacja z przedmiotami,0.6154
+3983,MK/N Nazywanie przyimków,0.5263
+3984,MK/1/RPZ/WK,0.2857
+3985,MK/N Nazywanie przymiotników ,0.5333
+3987,MK/R/1 Wykonywanie poleceń przyimki,0.5000
+3988,MK/R/2 Nazywanie zaimków,0.0000
+3989,S/A Tworzenie filmów JaHa,0.5455
+3990,Z/A Wykonywanie rękodzieła MatRyb,0.3478
+3991,MK/K Inicjowanie rozmowy MatRyb,0.5294
+3992,SFS/A Ubieranie się FiSze,0.0000
+3995,"SF/A, realizacja higieny, KaSa",0.1250
+3996,"UP/A, zabawa., KaSa",0.1429
+3997,UK/3/PPŚ/WK,0.0000
+3999,MK/N/1 Nazywać preferowane przedmioty,0.1698
+4000,UK/4/PS/WK.,0.1429
+4001,WiKa - Wykonywanie pracy na zlecenie,0.5000
+4002,I faza PECS - Maciej K.,0.1111
+4003,"MIK/A, proszenie, KaSa",0.2963
+4004,rysowanieEryk,0.3846
+4005,wycinanie Eryk,0.3158
+4006,liczenieEryk,0.3103
+4008,UKI/B naśladowanie ruchów motorycznych UU,0.6364
+4009,UKI/B Naśladowanie ruchów motoryki dużej 12,1.0000
+4011,UKI/B naśladowanie ruchów motorycznych 14,0.0000
+4012,UKI/B/naśladowanie ruchów motorycznych uczeń16,0.5000
+4017,MK/R/1 Wykonywanie poleceń,0.2676
+4020,UKW/C czekanie UU,0.7500
+4022,UKW/C czekanie Uczeń 16,0.5000
+4023,UKW/C czekanie 14,0.7143
+4025,UKW/C Czekanie U12,0.5000
+4031,SFS/S Kremowanie rąk UU,0.0000
+4033,SFS/S Kremowanie rąk U12,1.0000
+4036,UKW/B on task pomiar w próbie czasowej UU,0.0000
+4044,Kremowanie rąk UU 1,0.0000
+4045,S/C przeliczanie do 5 UU,0.5000
+4051,LarPud/USZ-P/Zabawa,0.0000
+4052,LarPud/USZ-P/Umiejętności manipulacyjne,0.2308
+4058,UMSz/C Liczenie do 5 U12,1.0000
+4060,czytanie Eryk,0.0000
+4061,S/E Elastyczne uczenie umiejętności komunikacyjnych i szkolnych MatRyb ,0.4348
+4062,Proszenie o pomoc za pomocą PECS - Igor Kowalczyk,0.1000
+4067,UKW/C Reakcja na Times KaAl,0.4286
+4068,UKW/C Czekanie KaAl,0.3750
+4069,UKI/B Imitacja motoryczna KaAl,0.3000
+4070,UKI/B Imitacja z przedmiotem KaAl,0.3704
+4071,PSZ/2-4 Rysowanie,0.3023
+4072,UK/W/1/ Reakcja na imię,0.2632
+4073,MKR/B Wykonywanie prostych poleceń KaAl,0.2059
+4074,UK/DS1 Dopasowywanie dużych samogłosek,0.7500
+4075,MK/P/2 Proszenie o pomoc,0.5000
+4076,UK/DS/1 Dopasowywanie dużych samogłosek,0.5000
+4077,SF/S/3/ Zapinanie guzika,0.5000
+4079,MK/R/2-5 Wykonywanie poleceń,0.1500
+4080,"MiK/C, wyrażanie próśb za pomocą PECS, IgKo",0.1667
+4081,"FS/B, reagowanie na polecenia do grupy, IgKo",0.3333
+4082,"CiołMik, SFS/A",0.0000
+4083,"MIK/C, identyfikowanie osób, IgKo",0.1667
+4084,MKR/D- Wykonywanie prostych poleceń DoTa,0.0732
+4085,"MKR/E  Identyfikowanie nazw rzeczowników, czasowników DoTa",0.0870
+4086,S/E Kolorowanie DoTa,0.0476
+4087,MKP/C Proszenie o wzmocnienia i potrzebne przedmioty,0.2609
+4089,BaKa MKK/E prowadzenie spokojnej rozmowy,1.0000
+4090,"UK/C, czekanie, IgKo",0.5556
+4091,"MIK/B, identyfikowanie elementów otoczenia, IgKo",0.1186
+4092,UKI/E Naśladowanie z przedmiotami DoTa,0.2857
+4093,"WojHub,SFS/A",0.0370
+4095,"FS/A, pełnienie obowiązków, IgKo",0.1053
+4096,"FS/A, pełnienie obowiązków, KaSa",0.1667
+4097,"UK/C, reagowanie na Imię, IgKow",0.3333
+4098,"MIK/B, przekazywanie kolejki za pomocą PECS, IgKo",0.0000
+4099,"UK/I/2 Naśladowanie do piosenki ,,Głowa, ramiona, kolana, pięty''",0.5714
+4100,"MIK/C, wyrazanie próśb, KoKu",0.3158
+4101,"UK/C, czekanie, KokU",0.6000
+4102,"UK/A, reagowanie na timer, KoKu",0.2000
+4104,"UK/E,  imitacja ze wzoru, KoKu",0.3750
+4105,"UP/C, wykonywanie prac plastycznych, KoKu",0.2000
+4106,"UP/B, wykonywanie zadan, KoKu",0.2143
+4107,"MIK/B, identyfikowanie elementów otoczenia, KoKu",0.3462
+4108,"SF/A, realizacja higieny, KoKu",0.0000
+4109,"SF/A, planowanie czasu wolnego, KoKu",0.5000
+4110,"UKR na imię, przywołanie JM",0.0455
+4111,UKI/A Budowanie z klocków wg planu DoTa,0.0000
+4112,SFS mycie rąk JM,0.0000
+4113,SFS/A1,0.0000
+4114,"MIK/C, nazywanie, KoKu",0.5000
+4115,"UK/C, reagowanie na imię, KoKu",0.4545
+4116,"MIK/B, identyfikowanie osób z najblizszsego otoczenia, KoKu",0.6275
+4117,"FS/A, naprzemienna gra KoKu",0.1667
+4118,LarPud/MK-P/Proszenie o pomoc,0.0000
+4119,LarPud/UK-I/imitacja ze wzoru,0.0000
+4123,"UP/A, pełnienie obowiązków, KoKu",0.1000
+4124,"SF/A, realizacja samodzielnych planow aktywnosci, KoKu",0.3333
+4125,"FS/B, używanie zwrotów grzecznościowych, KoKu",0.0667
+4126,"UP/E, liczenie, KoKu",0.3200
+4127,"UK/C, reagowanie na imię, KaSa",0.3636
+4128,"SF/A, planowanie czasu wolnego KaSa",0.2500
+4130,LarPud/MK-I/Imitacja werbalna,0.0625
+4131,InGrab/MK-P/Wyrażanie próśb za pomocą PECS,0.1111
+4132,"UKW/B, reagowanie na znane polecenia, KaSa",0.6250
+4133,LarPud/SF-S/Ubieranie się,0.0000
+4134,LarPud/UK-I/Imitacja motoryczna,0.2500
+4135,"UP/B, wykonywanie zadan, KaSa",0.5000
+4136,KaKr/SF_S/Realizacja higieny osobistej,0.0000
+4137,LarPud/MK_N/Komunikowanie zakończenia zadania,0.0000
+4138,KacKry/SF_S/Ubieranie się ,0.0000
+4139,InGrab/UK_I/Imitacja werbalna,0.0000
+4140,LarPud/UK_I/Imitacja za nośnikiem elektronicznym,0.0000
+4141,MKP/C Proszenie o potrzebne przedmioty i wzmocnienia BaLe,0.3333
+4142,"MKN/C Nazywanie przedmiotów, osób, czynności i ich wzajemnych relacji BaLe",0.1321
+4143,UKI/C Układanie sekwencji BaLe,0.1538
+4144,S/C Kolorowanie BaLe,0.1429
+4145,S/C Wycinanie BaLe,0.1724
+4146,UKR/C,0.0000
+4150,"MKP/C, wyrażanie prósb, AlJa",0.1212
+4151,"MKR/B, identyfikowanie elementów otoczenia, AlJA",0.1471
+4152,"SF/A, przebieranie się, AlJA",0.0000
+4153,"UKW/C, czekanie, AlJA",0.4545
+4154,"MIKR/C, identyfikowanie osób z najblizszego otoczenia, AlJA",0.1818
+4155,"UKW/C, reagowanie na imię, AlJA",0.2500
+4156,"UP/A, zabawa., AlJA",0.1000
+4157,"FS/D, reagowanie na polecenia do grupy, AlJA",0.1579
+4158,"FilAnt, UKW, Reakcja na timer ",0.0000
+4159,Rozumienie tekstu słuchanego,0.1111
+4160,"KordJaś, USZ/B",0.3333
+4161,"USZ/B, KordJaś",0.1379
+4162,"HubWoj, USZ/B",0.2500
+4164,MIK/C MatMaj LOGO,0.3636
+4165,UKW/B dopasowywanie nieidentycznych obrazków AlOch,0.0000
+4166,"FS/A, realizacja obowiązków, AlJa",0.0435
+4167,"MKN/E, nazywanie, AlJa",0.3077
+4168,"UP/C, kolorowanie, AlJa",0.0000
+4169,"UP/C, grafomotoryka, AlJA",0.0833
+4170,Imitacja werbalna AlOch,0.0000
+4171,Pokazywanie ruchów piosenki Głowa mówi tak/nie AlOch,1.0000
+4172,Cięcie papieru nożyczkami AlOch,0.0000
+4173,"FS/B, używanie zwrotów grzecznościowych, KaSu",0.1818
+4174,Dopasowywanie obrazka do cienia AlOch,0.0000
+4175,PECS ALOch,0.0000
+4176,"SF/A, planowanie czasi wolnego, KaSu",0.2000
+4177,Kolorowanie Al Och,0.0000
+4178,"UP/C, kolorowanie, KaSu",0.4615
+4179,liczenieJulka,0.2069
+4180,rysowanieJulka,0.3333
+4181,wycinanieJulka,0.3333
+4182,FS/B Bycie w zadaniu MaPi,0.2500
+4184,UKW/C Reagowanie na imię KaAl,0.5000
+4185,MKR/C Identyfikowanie osób z najbliższego otoczenia KaAl,0.0000
+4186,UKW/A Podążanie za planem KaAl,0.5000
+4187,MKR/B Identyfikowanie elementów z otoczenia KaAl,0.0000
+4188,MKP/C Proszenie o pomoc z wykorzystaniem PECS KaAl,0.4545
+4189,MKN/C Komunikowanie zakończenia zadania z wykorzystaniem PECS KaAl,0.4444
+4190,MKP/C Proszenie rówieśnika z wykorzystaniem PECS KaAl,0.3333
+4191,PSZ/C Grafomotoryka KaAl,0.2000
+4192,US/C WycinanieAnKo,0.4286
+4193,MKN/C Komunikowanie zakończenia zadania AnKo,0.4000
+4194,FS/B Wykonywanie poleceń grupowych AnKo,0.2143
+4196,S/E- umiejętności matematyczne LaMro,0.2900
+4197,MK - komunikowanie zakończenia zadania oraz rozliczenia kontraktu - AlWi,0.3750
+4198,MK/N/1/Nazywanie preferowanych przedmiotów,1.0000
+4199,"MIK/C, budowanie dłuższych wypowiedzi, KaSa",0.4167
+4200,"UP/C, kolorownie, MiCio",0.1000
+4201,"MIK/C, komentowanie za pomocą PECS, MiCio",0.8000
+4202,"MIK/C, wyrażanie próśb za pomocą PECS, MiCio",0.0727
+4203,"HubWoj, MiK, Proszenie ",1.0000
+4204,"HubWoj, MiK, Proszenie i komunikowanie",0.4000
+4205,UP/C Wycinanie AnDe,0.5000
+4206,US/C Pisanie imienia i nazwiska AnDe,0.4615
+4207,MKN/C Komunikowanie zakończenia zadania AnDe,0.6000
+4209,FS/A Gra z rówieśnikiem AnDe,0.0000
+4210,UP/C Wycinanie DaTrz,0.5000
+4211,UP/C Wycinanie IgKo,0.3913
+4212,"MIK/A, dialog z rówiesnikiem, KaSa",0.0000
+4214,SFC - Plan samodzielnej aktywności LaMro,0.1429
+4215,UKW/C  Czekanie KaLe,0.7692
+4216,FS/B Bycie w zadaniu KaLe,0.0000
+4217,FS/C Wykonywanie poleceń kierowanych do grupy KaLe,0.4167
+4218,PSZ/C Czytanie KaLe,0.3846
+4219,PSZ/C Liczenie KaLe,0.6250
+4220,PSZ/C Pisanie i przepisywanie KaLe,0.5286
+4221,MKN/C - Komunikowanie zakończenia zadania za pomocą PECS KaLe,0.2632
+4223,MKP/C Proszenie o potrzebne przedmioty za pomocą PECS KaLe,0.2375
+4224,MK/P/1,1.0000
+4225,UK/1,0.3182
+4226,MKR/C Rozpoznawanie zaimków KaLe,0.2759
+4227,S/E- pisanie cyfr LaMro - 1,0.3357
+4229,S/E- czytanie LaMro,0.3818
+4230,FS/C Wykonywanie poleceń kierowanych do grupy MaPi,0.6000
+4231,UKW/C Czekanie MaPi,0.5625
+4232,PSZ/C Wycinanie MaPi,0.2000
+4233,MKR/C Identyfikowanie osób z najbliższego otoczenia MaPi,0.5769
+4234,MKN/C Komunikowanie zakończenia zadani za pomocą PECS MaPi,0.6000
+4235,MKK/C Odpowiadanie na pytania z wykorzystaniem PECS MaPi,0.2941
+4236,MKN/C Nazywanie osób z wykorzystaniem PECS MaPi,0.3750
+4237,MKR/C Identyfikowanie elementów MaPi,0.3077
+4238,SFS/A/1/MG,0.0000
+4239,SFS/A/2/MG,0.0000
+4240,PSZ/C Pisanie i przepisywanie MaPi,0.3000
+4241,PSZ/C Czytanie KrzyĆw,0.6000
+4242,MKR/C Identyfikowanie elementów KrzyĆw,0.6279
+4244,MKN/C Nazywanie przedmiotów KrzyĆwi,0.0000
+4246,FS/C Wykonywanie poleceń kierowanych do grupy KrzyĆwi,0.4000
+4247,MKR/C Identyfikowanie elementów KaLe,0.2941
+4248,UKW/C Czekanie KrzyĆwi,0.6923
+4249,SFS/A Realizacja higieny osobistej MiAr,0.0000
+4250,MK/K,0.8000
+4252,MKK/B Odpowiadanie na pytania JaHa,0.1923
+4253,Prezawodowe Patryk,0.3158
+4254,PECS  Patryk,0.0625
+4255,Imitacja Patryk,0.0741
+4256,Chodź do mnie Patryk,0.0833
+4257,FS/B Bycie w zadaniu FiKo,0.5000
+4258,FS/C Wykonywanie poleceń kierowanych do grupy Fiko,0.5000
+4259,UKW/C Czekanie Fiko,0.5385
+4260,PSZ/C Czytanie FiKo,0.7273
+4261,PSZ/C Liczenie FiKo,0.4242
+4262,MKP/C Proszenie o potrzebne przedmioty za pomocą PECS  FiKo,0.4091
+4263,MKN/C Komunikowanie zakończenia zadani za pomocą PECS FiKo,0.6667
+4264,MKP/C Proszenie o pomoc z wykorzystaniem PECS FiKo,0.6667
+4265,MKR/C Rozpoznawanie zaimków osobowych FiKo,0.1515
+4266,MKR/C Rozpoznawanie przyimków FiKo,0.3438
+4267,FS/C Polecenia grupowe/ DaTr,0.6667
+4268,FS/C Polecenia grupowe / IgKo,0.8000
+4269,US/C Zgłaszanie się / IgKo,0.4286
+4271,S/E Pisanie SzKł,0.1373
+4272,SFS/A Ubieranie się FiSz,0.0000
+4273,UK_I/1/MG,0.0000
+4274,UK_I/2/MG,0.5000
+4276,PSZ/CZYTANIE SYLAB,1.0000
+4277,PSZ/CZYTANIE SYLAB DZ,0.0000
+4279,PSZ/LICZENIE DZ,0.6667
+4280,PSZ/CZYTANIE GLOBALNE DZ,0.1667
+4281,PSZ/CZYTANIE GLOBALNE AZ,1.0000
+4282,Mk/C TAK/NIE Ig/Ko,0.5000
+4283,UKI/C LOGO motoryka artykulacyjna AnDe,0.2500
+4284,MKP/D Proszenie o nagrody za pomocą gestów systemu MAKATON,0.0000
+4285,UKD/C Kojarzenie elementów według logicznych przesłanek FiKo,0.7500
+4286,MKR/C Identyfikowanie elementów FiKo,0.7500
+4288,UK/W/MG,0.0000
+4289,przeliczanie od 1 do 3-ech,0.2000
+4290,"imitowanie liter W,I,T,E,K",0.1786
+4291,Wykonywanie złożonych poleceń_WK,0.3333
+4292,Przygotowanie herbaty_WK,0.0000
+4293,Używanie zwrotów grzecznościowych_WK,0.1875
+4294,Używanie komunikatu kończącego zadanie_WK,0.0588
+4295,Rozumienie poleceń prostych - cyfry_WK,0.2500
+4297,SFC - videomodelowanie taniec La Mro,0.7222
+4298,MK/K Konwersacje PECS FiSz,0.2246
+4303,PSZ_Z/A Szycie na maszynie MatRyb,0.2308
+4304,FS_N/A Korzystanie z facebooka MatRyb,0.4286
+4305,UK/B MaPaw Imitacja werbalna dźwięków mowy LOGO ,0.1385
+4306,MK/MK_R Wykonywanie poleceń z zakresu motoryki artykulacyjnej MaPaw LOGO,0.0000
+4307,UK/UK_I/B  Imitacja ruchów motoryki artykulacyjnej  OsOz LOGO ,0.0000
+4308,UK/UK_I/B Imitacja werbalna samogłosek OsOz LOGO,0.0000
+4309,UK/UK_I/B Imitacja werbalna czasowników MatMaj LOGO  ,0.4848
+4310,PSZ/C Proste aktywności prezawodowe FiHi- BGN,0.0000
+4311,MKP/B Przywołanie innej osoby- FiHe- BGN,0.0000
+4312,MK/C Opowiadanie o sobie An/Ko,0.4286
+4313,MKN/C Komunikowanie zakończenia zadania za pomocą PECS MaMaj,0.6667
+4314,UP/C Wycinanie MaMaj,0.6000
+4316,FSG/B Witanie się MaMaj,0.0000
+4319,Albumy aktywności - BGN - JaMa,1.0000
+4321,Imitacja z przedmiotem -GaKo,0.0000
+4322,Imitacja werbalna - BGN - GaKo,0.2857
+4323,Imitacja werbalna - BGN - JaMa,0.2245
+4325,UKI/B LOGO ćwiczenia oddechowe KoWa,0.3750
+4326,UKI/B LOGO usprawnianie motoryki artykulacyjne KoWa,0.5000
+4327,UKI/C LOGO wywoływanie głoski KoWa,0.3333
+4328,"MK/C Komunikowanie ""Nie wiem"" An/Ko",0.3750
+4329,FS/A Granie w gry planszowe An/Ko,0.0000
+4330,"MIK/C, reagowanie na proste polecenia, FiAn",0.1667
+4331,"UKI/C, naśladowanie motoryki, FIAn",0.4286
+4332,"UKW/A, reagowanie na timer, KaKry",0.0303
+4335,"UKW/C, czekanie, KaKry",0.3333
+4336,"UKI/C, imitacja ze wzoru, KaKry",0.1176
+4338,"MKR/C, identyfikowanie przedmiotów z otoczenia, Kakry",0.6667
+4339,"UP/C, grafomotoryka, KaKry",0.0000
+4340,"FS/C, realizowanie interakcji rówieśniczych, KaKry",0.0000
+4341,"FS/A, pełnienie obowiązków, KaKry",0.0000
+4344,MKR/E Różnicowanie między dwoma przedmiotami RaOj,0.6800
+4345,UKW/C Reagowanie na imię OsOz,0.0000
+4346,UKI/C Imitacja motoryczna OsOz,0.6000
+4347,UP/C Wycinanie Do/Ja,0.4000
+4348,MK/C Komunikowanie zakończenia zadania Do/Ja,0.2500
+4349,FS/C Wykonywanie poleceń grupowych Do/Ja,0.6250
+4350,FS/B Bycie w zadaniu Do/Ja,0.3077
+4351,MKR/C Rozumienie prostych poleceń OsOz,0.4000
+4352,UKI/C LOGO Dmuchanie nosa AnDe,0.4444
+4353,MKR/B LOGO Rozumienie stosunków przestrzennych AnDe,0.3438
+4354,MKN/B LOGO Nazywanie stosunków przestrzennych AnDe,0.2059
+4355,MKN/B LOGO Słownik mowy - zawody AnDe,0.3667
+4356,UKI/C LOGO Oddech dla mowy JaWr,0.6000
+4357,UKI/C LOGO wywoływanie głoski [v] JaWr,0.2778
+4358,UKI/B LOGO usprawnianie motoryki artykulacyjne FrHi,0.6429
+4359,UKI/B LOGO ćwiczenia oddechowe FrHi,0.1667
+4360,UKI/C LOGO wywoływanie głoski FrHi,0.4545
+4361,UKI/C LOGO Nauka mówienia głośno iLBo,0.1000
+4362,MKR/B LOGO Różnicowanie dźwięków zwierząt iLBo,0.1111
+4363,UKI/B LOGO usprawnianie motoryki artykulacyjne KaAl,0.0571
+4364,UKI/C LOGO ćwiczenia oddechowe KaAl,0.4000
+4365,UKI/C LOGO wywoływanie głoski KaAl,0.2326
+4366,MKR/C LOGO Różnicowanie rzeczy do jedzenia i picia MaPi,0.7000
+4367,SFS/A Realizacja higieny osobistej OsOz,0.0000
+4368,UKW/C Reagowanie na imię KonWas,0.3333
+4369,UKI/C Imitacja motoryczna KonWa,0.7500
+4370,MKN/C  Komunikowanie zakończenia zadania za pomocą PECS ToCza,0.5000
+4371,UP/C Wycinanie ToCza,0.7273
+4374,SFS/A Realizacja higieny osobistej MaPa,0.0000
+4375,SFS/A Realizacja higieny osobistej KonWa,0.0000
+4376,PSZ/S - pisanie na komputerze - ALWi,0.2667
+4377,SFS/A podążanie za planem SeKo,0.0000
+4378,MKP/B proszenie PECS SeKo,0.4545
+4380,Dopasowywanie obrazka JAMI,0.4375
+4381,Imitacja z przedmiotami - JaMi,0.1290
+4382,podaj rzeczownik + przymiotnik,0.3333
+4383,podaj rzeczownik + czasownik,0.2000
+4384,S/ C zegar/MatMat,0.4167
+4385,S/ E nominały pieniężne/ MatMat,0.3462
+4386,S/ C pisanie/NatJez,0.2273
+4387,S/C kolorowanie/IgoWos,0.2500
+4388,S/E- stosunki przestrzenne IgoWo,0.0000
+4390,UKD/B Sortowanie JURI,0.0000
+4391,UK/I/B KaLeś  Imitacja werbalna słów (wyrazistość mowy) LOGO,0.3810
+4395,Czynności higieniczne Robert W,0.0488
+4396,Odpowiadanie na pytania dot. obrazków RW,0.2500
+4397,S/E posługiwanie się zegarem SzKł,0.2222
+4398,UKI/B DaTrz Imitacja motoryki artykulacyjnej LOGO ,0.5789
+4399,UKI/B DaTrz Ćwiczenia kinestezji artykulacyjnej LOGO ,0.5714
+4400,UKI/C IgKo  Dmuchanie nosa LOGO ,0.6667
+4401,UKI/B IgKo  Imitacja dźwięków z głoską [S] LOGO ,0.5870
+4402,S/C Posługiwanie się zegarem MABA,0.1724
+4403,Wiązanie butów M.SZ,0.0000
+4404,Wiązanie butów J.W,0.6000
+4405,MKN/D Test płynności MiGa,0.0000
+4406,UKI/B naśladowanie motoryczne - BaSio -ŚDS,0.0000
+4407,UKI/B - naśladowanie z przedmiotami -BaSio - ŚDS,0.4444
+4408,MKR/B - wykonywanie prostych poleceń - BaSio -ŚDS,0.1688
+4411,UKW/C - czekanie AnPie,0.4348
+4412,UKW/C - reagowanie na imię AnPie,0.3125
+4414,UKI/B FilKo Imitacja werbalna słów - wyrazistość mowy LOGO ,0.4444
+4415,czytanie Julka,0.0000
+4416,MK/C Odpowiadanie na pytania ToLa,0.0000
+4417,MK/B Rozwiajanie komunikacji JaHa,0.4286
+4418,Czynności biurowe,0.2941
+4419,"kserowanie, laminowanie",0.4118
+4423,Zajęcia grupowe,1.0000
+4424,MKK/C Odpowiadanie na pytania FiKo,0.2222
+4425,MKK/C Odpowiadanie na pytania KaLe,0.3103
+4426,PSZZ/A Realizacja prezawodowych łańcuchów czynności SzymKos,0.2308
+4427,UKW/B  Reagowanie na polecenia DaNa,0.3636
+4428,organizacja dnia GrPo,0.0000
+4430,Dopasowywanie - taki sam,0.3333
+4431,Patryk - Dopasuj - taki sam,0.0000
+4432,SFG/A Eleganckie nakrywanie do stołu JaHa,0.6667
+4433,FS/A Pierwsza pomoc JaHa,0.5000
+4434,MKN/C SM1,0.5455
+4435,MKR/C SM,0.1000
+4438,FS/C Wykonywanie poleceń kierowanych  do grupy FiKo,0.5455
+4439,FS/C Wykonywanie poleceń kierowanych  do grupy KaLe,0.3158
+4440,FS/C Wykonywanie poleceń kierowanych  do grupy MaPi,0.2727
+4441,FS/C Wykonywanie poleceń kierowanych  do grupy KrzyĆwi,0.1818
+4443,PSZ/C Pisanie na komputerze AlTu,0.2500
+4444,PSZ/ C Zegar AlTu,0.0000
+4447,MKK/C Opowiadanie historyjek obrazkowych AdNa,0.0000
+4448,SzyKoz Odpowiadanie na pytania podczas zajęć grupowych,0.7500
+4449,ToLa Odpowiadanie na pytania podczas zajęć grupowych,0.6061
+4450,UK/DS/2 Dopasowywanie nieidentycznych obrazków (funkcja/cecha/klasa),0.4444
+4452,KOMUNIKACJA-JAŚ,0.7500
+4453,MK/N/8 Nazywanie czynności (rzeczownik-przymiotnik-rzeczownik),0.1200
+4454,SF/G - pomiar tempa nabywania umiejętności poprzez różne techniki - AlWi,0.0000
+4456,SF/G_ZMYWARKA,0.0000
+4457,PSZ/B Czytanie KrzyĆwi,0.6897
+4458,SF/G_SPRZĄTANIE PO JEDZENIU,0.2222
+4459,MKR/C Rozpoznawanie zaimków osobowych KrzyĆwi,0.4348
+4460,MKR/C Rozumienie stosunków przestrzennych KrzyĆwi,0.0909
+4461,MKN/C Komunikowanie zakończenia zadania za pomocą PECS KrzyĆwi,0.3529
+4462,MKP/C Proszenie o pomoc za pomocą PECS KrzyĆwi,0.3333
+4463,MKP Proszenie o zaspokojenie potrzeby MaBo,0.1159
+4466,UKI/D   Imitacja werbalna Michał R. ,0.4000
+4467,MK/R/7 Wskazywanie preferowanych przedmiotów,0.0238
+4469,UK/DS5 Układanie ze wzoru,0.0000
+4470,MKP/C Proszenie o przedmioty potrzebne do zadania za pomocą PECS KrzyĆwi,0.5000
+4472,UKI/E Imitacja z przedmiotami sekwencji ruchów Michał R.,0.7143
+4475,S/E posługiwanie się zegarem MarPis,0.1864
+4476,UKI/B Imitacja motoryczna- KiWi,0.6250
+4477,SFG/A Czynności gospodarcze - mycie lustra Ja Wó,0.1667
+4478,UKI/B Imitacja z przedmiotami - KiWi,0.3333
+4479,MKR/B Wykonywanie prostych poleceń- KiWi,0.0000
+4480,UKD/B Sortowanie,0.0000
+4481,UKW/B/Podążanie za znanymi poleceniami/ PaZa,0.5000
+4482,S/E Przepisywanie na komputerze MiMa,0.3333
+4490,MKK/E/Udzielanie informacji o sobie/ JaLu,0.4000
+4491,MKK/E/Prowadzenie rozmowy tematycznej/ JaLu,0.4242
+4492,S/E Posługiwanie się zegarem/JaLu,0.5926
+4493,MKR/B/Wykonywanie prostych poleceń/ PaZa,0.2576
+4495,UKI/D Imitacja z przedmiotami - Imitacja z ciastoliną Michał R.,0.5000
+4496,"UKI/D Imitacja - klocki, kubek, bębenek, grzechotka Michał R.",0.5000
+4497,MKK/ E opowiadanie tematyczne TOMA,0.3913
+4498,UKW/C - czekanie z podpowiedzią wizualną Michał R.,0.9091
+4499,"MKR/C  Rozumienie nazw rzeczowników, czasowników i przymiotników Michał R.",0.4000
+4500,"MKR/C Identyfikowanie przedmiotów, obrazków, czynności Michał R.",0.7576
+4501,P/C Kolorowanie  Michał R.,0.2000
+4502,MKP/C Proszenie o wzmocnienia - komunikacja PECS Michał R.,0.0645
+4504,MKR/B Wykonywanie prostych poleceń Michał R.,0.6923
+4506,PSZ_Z/A Obsługa sklepu internetowego MatRyb ,0.4286
+4507,"MKR/C Rozumienie nazw rzeczowników, czasowników i przymiotników SzymKos",0.2958
+4508,MKR Podawanie przedmiotu TOMA,0.7000
+4509,"MK/R/3-4,6-8 Wykonywanie poleceń",0.0000
+4510,MK/P/5 Proszenie o preferowaną aktywność,0.2000
+4512,MKR/B/Rozwijanie komunikacji/JaLu,0.1702
+4513,MKK/B/Odpowiadanie na pytania/JaLu,0.0714
+4514,MKK/B/Inicjowanie rozmowy/JaLu,0.0800
+4515,FS/B Bycie w zadaniu MaMaj,0.4615
+4517,SFG/B Realizacja prostych czynności domowych MiA,0.2308
+4518,FS/B Bycie w zadaniu ToCza,0.5000
+4520,Sf/SF_C/ Realizacja planu samodzielnej aktywności/ JaLu,0.7059
+4521,UK/ I/Imitacja czynności samoobsługowych,0.0000
+4522,PSZ/ C Liczenie i przeliczanie- pokazywanie wzrokiem- FraSan- BGN,0.2143
+4523,PSZ/ D Czytanie globalne/ pokazywanie wzrokiem- FraSan- BGN,0.0625
+4524,MK/R Zapalnie i gaszenie światła,0.0000
+4525,UK/I/ Imitacja z instrumentami muzycznymi,0.0000
+4527,MK/R Podlewania kwiatka,0.0000
+4528,Prowadzenie rozmowy RW,0.3333
+4530,Zadawanie pytań RW,0.2273
+4532,Czynności gospodarcze RW,0.0755
+4533,UK/D Sortowania przedmiotów ,0.0000
+4534,MKP/C Proszenie o potrzebne elementy Michał R,0.3000
+4535,S/C Pisanie Imienia i Nazwiska MiJu,0.6552
+4536,SF/C Realizacja planu samodzielnej aktywności/MiMa,0.0000
+4538,"MKR/C, identyfikowanie obiektów, KoJa",0.4889
+4539,"UKW/C, czekanie, KoJa",0.6250
+4540,"MKN/C, nazywanie za pomocą PECS, KoJa",1.0000
+4541,"MKR/B, wykonywanie prostych poleceń, KoJa",0.4000
+4542,"MKP/B, proszenie za pomoca PECS, KoJa",1.0000
+4543,UKI/D Naśladowanie ruchów nauczyciela Karol G.,0.5000
+4544,MKR/E Różnicowanie obrazków (rzeczowniki i czasowniki) Karol G.,0.6364
+4545,S/E posługiwanie się zegarem GaMi,0.1200
+4546,S/E znajomość nominałów pieniędzy GAMi,0.7027
+4547,PSZP/C Kolorowanie w konturach Wiktor S.,0.2857
+4548,MK/N Nazywanie obrazków 2,0.4737
+4549,MK/N/2 Nazywanie członków rodziny,0.5000
+4550,LOGO Ćwiczenia artykulacyjne,0.8333
+4551,LOGO Ćwiczenia motoryki oralnej,0.2143
+4552,MKP/E Proszenie o potrzebne przedmioty z użyciem PECS Karol G.,0.1034
+4556,LOGO - ćwiczenia motoryczne,0.3636
+4557,LOGOBŚ - ćwiczenia motoryki ,0.2308
+4559,UKW/C Czekanie Karol G.,0.5556
+4561, UKW/A POdążanie za planem dnia kroki,0.0513
+4562,UKW/C - Czekanie z podpowiedzią wizualną Amelia K.,0.6667
+4563,PSZ/C Kolorowanie- BGN- JaMa,0.5000
+4564,PSZ/C - Wycinanie- BGN- JaMa,0.0000
+4565,Podpisywanie zbiorów,0.3333
+4566,Dopasowywanie liczby do ilości 11-15,0.3333
+4567,Dopasowywanie ilości do liczby 11-15,0.3571
+4569,"Rozumienie polecenia: ""daj cyfrę 1-3""",0.2857
+4570,Nazywanie osób,0.6667
+4571,Etykietowanie czynności planu dnia,0.5263
+4572,Wycinanie- BGN,0.0000
+4576,UKI/C LOGO Higiena nosa ToCz,0.6667
+4577,UKI/C LOGO Higiena nosa JaWr,0.7273
+4578,LOGO LarPud - ćwiczenia motoryczne,0.0000
+4579,UKI/C wywoływanie głoski [x] JaWr,0.4737
+4581,"MKR/C, identyfikowanie obiektów, HuWo",0.2000
+4582,"UP/C, liczenie, KoJa",0.6667
+4583,MK/K/1 Odpowiadanie na pytania,0.0000
+4584,MK/N Nazywanie kolorów,0.3103
+4585,MK/R/2 Pokazywanie zwierząt,0.4828
+4586,PSZ/ Odczytywanie godzin z zegara,0.4286
+4587,"PSZ/ Określanie ""mniej"" ""więcej""",0.0000
+4588,"MKK/C, odpowiadanie na pytania, KaSa",0.1765
+4589,"UKW/C, czekanie, MiCio",0.7143
+4590,MKK/C LOGO analiza głoskowa wyrazów JaWr,0.0000
+4591,UKI/C LOGO motoryka artykulacyjna - przenoszenie elementu RaOj,0.6190
+4592,UKI/B LOGO motoryka duża - Jestem niedźwiadek RaOj,0.2239
+4593,PSZ/CZYTANIE WYRAZOW,0.1667
+4594,PSZ/LICZENIE/AZ,0.0000
+4595,PSZ/CZYTANIE WYRAZÓW DZ,0.0000
+4596,PSZ/LICZENIE/DZ,0.4444
+4597,DavTrz UKI Nazywanie zgodne z poprawną formą czasownika LOGO,0.5000
+4600,SF/G_ODKURZANIE PODŁOGI,0.2500
+4601,OsOz UKI/C Imitacja samogłosek LOGO ,0.0000
+4602,MKK/C spontanicznie komentowanie za pomocą PECS FiKo,0.0000
+4603,MKK/B - zadawanie pytań - AlWi,0.1795
+4604,Przywołanie - DoMi - BGN,0.0000
+4605,"MKR/C, reagowanie na złożone polecenia, KaSa",0.2500
+4606,"UP/B, rysowanie, KaSa",0.1471
+4607,MKR/C Rozumienie poleceń motorycznych RaOj 2,0.7333
+4609,P/C Układanie puzzli RaOj,0.6000
+4610,PSZ / S znajomość nominałów pieniężnych - FraSan- BGN ,0.1818
+4611,UKI/B LOGO motoryka duża - Jestem niedźwiadek KoWa,0.3333
+4612,UKI/C LOGO ćwiczenia oddechowe KoWa,0.4706
+4613,UKI/C LOGO motoryka artykulacyjna - przenoszenie elementu KoWa,0.8667
+4614,PSZ/P/B LOGO Dokańczanie frazy piosenki - O jak przyjemnie ToCz,0.0000
+4615,S/C Zegar NiZa,1.0000
+4619,Roch nakrywanie do stołu,0.0000
+4621,Zad. komp. Ala,0.2593
+4627,Zadania komputerowe Roch,0.2791
+4631, nazwisko ROCH,0.7778
+4632, ALA NAZWISKO,0.8125
+4634,nakrywanie do stołu Alicja,0.0000
+4635,FSN/D Używanie Ipada w środowisku domowym z Rodzicami,0.0000
+4638,MK/N/D/Rozwijanie płynności/JaLu,0.4667
+4639,MK/P/ Proszenie z wykorzystaniem PECS/PaZa,0.2308
+4641,MK/C Identyfikowanie osób z najbliższego otoczenia Ja/Wr,0.0769
+4642,US/C Pisanie imienia i nazwiska JaWr,0.2500
+4643,PSZ/A Wykonywanie prezawodowych łańcuchów czynności/ WiLi,0.1463
+4644,PSZ/S/E/Przepisywanie na komputerze/WiLi,0.1667
+4645,UKW/B  On-task MaGo,0.0000
+4647,PSZ/S/E/Liczenie/WiLi,0.3500
+4648,MKK/B Korzystanie z komunikacji PECS SzymKos,0.0000
+4649,UKD/B Dopasowywanie konkretów (z pleksi) - BGN- FiHe,0.0000
+4650,UKI/B Imitacja motoryczna- WiCiu- BGN,0.1905
+4651,MKR/B Wykonywanie poleceń jedno i wieloelementowych- WiCiu- BGN,0.0000
+4652,PSZ/C Umiejętności prezawodowe WiCiu- BGN,0.4000
+4653,Realizacja prostych czynności domowych MB,0.0000
+4654,UKW/B Podążanie za poleceniami GrzPo,0.2857
+4655,MKR/B LOGO Rozumienie stosunków przestrzennych MaPi,0.0000
+4656,MKR/B LOGO Czasowniki - rozumienie MaPi,0.2000
+4657,FSG/A Gotowanie JaWo,0.0000
+4659,FSN/B Monitorowanie utrzymywania umiejętności komunikacyjnych JaHa,0.0000
+4660,FSN/B Monitorowanie utrzymanie umiejętności gotowania JaHa,1.0000
+4661,Z/C Nazywanie produktów do sklepiku szkolnego  MaRy,0.5455
+4662,SFG/B Realizacja prostych czynności gospodarczych PhWid,0.0000
+4664,MKR/C Rozumienie poleceń obrazkowych RaOj,0.2778
+4665,UKI/C Imitacja motoryki dużej RaOj,0.6400
+4666,WiKa Wykonywanie powtarzalnej pracy (praca taśmowa),0.2917
+4669,UKI/C LOGO motoryka artykulacyjna - przenoszenie elementu FrHi,0.5000
+4670,UKI/B LOGO motoryka duża - Jestem niedźwiadek FrHi,0.1667
+4673,MKN\C informowanie o zakończeniu zadania za pomocą PECS FiKo,0.3333
+4674,MKP/C Proszenie o przerwę FiKo,0.0909
+4676,MKR/ C wybieranie elementów w oparciu o 3 słowne podpowiedzi,0.7500
+4678,SFS - samodzielne jedzenie z użyciem sztućców ,0.0000
+4679,MKN/E nazywanie rzeczowników JOJA BGN,0.0000
+4680,SFC/D Imitacja podczas gimnastyki- BGN,0.0000
+4681,Prowadzenie rozmowy Wi Ka,0.0000
+4682,Wi Ka Prowadzenie rozmowy z Rówieśnikami (w konkretnych sytuacjach),0.2500
+4683,WiKa Utrzymywanie uwagi,0.4167
+4686,DoMi-BGN,0.6429
+4687,SFG/A wykonywanie prostych czynności gospodarczych /SEKO ŚDS,0.0846
+4689,zabawa - JaMa- BGN,0.5000
+4691,sortowanie nieidentycznych - JaMa - BGN,1.0000
+4692,Sortowanie banknotów - JaMa - BGN,1.0000
+4693,Czytanie - JaMa - BGN,0.0000
+4696,SzKr Wykonywanie powtarzalnej pracy (praca taśmowa),0.3333
+4698,SzKr Utrzymywanie uwagi ,0.7000
+4699,SzKr Prowadzenie rozmowy z Rówieśnikami ,0.1000
+4700,PSZ/C Czytanie  FiKo,0.6875
+4701,PSZ/C  Czytanie  MaPi,0.7692
+4702,PSZ/C Czytanie  KaLe,0.6383
+4704,"MiK/C, nazywanie, AnJa",0.2188
+4705,"MKR/E, rozumienie nazw przymiotników, rzecznowników, czasowników, AnJA",0.2857
+4706,"UKI/B, imitacja ze wzoru, AnJa",0.1538
+4707,"SZ/C, liczenie, AnJa",0.0909
+4708,"SZ/B, zgłaszanie się do odpowiedzi, KaSa",0.5000
+4709,Z/A Łańcuchy prezawodowe -Pakiety MiMa,0.0000
+4710,SFG/A Wycieranie stolika MiMa,0.0000
+4711,MKK/E Rozmowa z terapeutą  MiMa,0.3333
+4712,UK/I/C OsOz Imitacja werbalna samogłoski [y] LOGO,0.0000
+4713,UK/MK  OsOz Rozumienie poleceń w obrębie buzi LOGO ,0.2000
+4714,UKI/C JaJó Imitacja ruchów w obrębie warg LOGO ,0.3846
+4715,MKR/B LOGO synteza wyrazów 3-głoskowych JaWr,0.0759
+4716,UKI/C JaJó Imitacja pojedynczych słóww krokch LOGO,0.4063
+4717,"UKW/C, czekanie, AnJa",0.5000
+4718,MKP/C Proszenie o potrzebne przedmioty za pomocą PECS FryHib,0.0833
+4719,MKP/C Proszenie o pomoc z wykorzystaniem PECS FryHib,0.1333
+4720,MKN/C Komunikowanie zakończenia zadania za pomocą PECS FryHib,0.0909
+4721,UP/C Wycinanie FryHib,0.5000
+4723,UKI/B Imitacja motoryczna FryHib,0.3500
+4724,FS/B Bycie w zadaniu FryHib,0.0714
+4725,MKK/C Odpowiadanie na pytania MaMaj,0.4545
+4726,MKP/C Proszenie o potrzebne przedmioty za pomocą PECS MaMaj,0.8333
+4727,UKW/A Podążanie za planem aktywności dnia KonWa,0.0000
+4728,P/C Układanie puzzli KonWa,1.0000
+4729,MKP/B Komunikowanie swoich próśb- MaBo ,0.0000
+4730,MK/R/C MaPaw Rozumienie poleceń dotyczących motoryki artykulacyjnej LOGO ,0.3514
+4731,SFG/A Realizowanie czynności gospodarczych z wykorzystaniem sprzętu AGD,0.0000
+4733,Realizacja czynności domowych WiKa,0.0000
+4734,FS/B Bycie w zadaniu  KrzyĆwi,1.0000
+4735,FS/B Bycie w zadaniu   FiKo,0.5000
+4736,FS/B Bycie w zadaniu  KaLe,0.2500
+4737,FS/B Bycie w zadaniu  MaPi,0.2500
+4742,S/E Znajomość nominałów pieniężnych MaPis,0.4375
+4743,SF/A umiejętności gospodarcze KrzyĆwi,0.0000
+4744,SF/A umiejętności gospodarcze FiKo,0.0000
+4745,SF/A umiejętności gospodarcze  KaLe,0.0000
+4746,SF/A umiejętności gospodarcze  MaPi,0.0000
+4747,Tomek- płynność czytania,0.0000
+4749,UKD/ B dopasowywanie przedmiotów i obrazków; MiSi,0.0000
+4750,UKW/D trening poleceń MiSi,0.1786
+4751,PSZ/ C wykonywanie prostych prac prezawodowych MiSi,0.0370
+4752,UKD sortowanie identycznych MiSi,0.0000
+4753,PSZ/ liczenie KaKra,0.1786
+4754,"PSZ czytanie globalne, etykietowanie KaKra",0.0000
+4755,SFG wykonywanie gospodarczych łańcuchów czynności KaKra,0.0000
+4756,FS/A Wykonywanie obowiązków  grupie  KrzyĆwi,0.0000
+4757,FS/A Wykonywanie obowiązków  grupie  FiKo,0.0000
+4758,FS/A Wykonywanie obowiązków  grupie  KaLe,0.1538
+4759,FS/A Wykonywanie obowiązków  grupie  MaPi,0.0000
+4760,FS/A Interakcje rówieśnicze KaAl,0.0000
+4761,FS/A Interakcje rówieśnicze KrzyĆwi,0.0000
+4762,FS/A Interakcje rówieśnicze FiKo,0.0000
+4763,FS/A Interakcje rówieśnicze KaLe,0.1818
+4764,FS/A Interakcje rówieśnicze MaPi,0.0000
+4765,UKW/A Podążanie za planem SAM  KaAl,0.0000
+4766,UKW/A Podążanie za planem SAM  KrzyĆwi,0.0000
+4770,LarPud/MK-P/ proszenie o wzmocnienia ,0.2500
+4771,"MKR/C, identyfikowanie obiektów, FiAn",0.0278
+4772,MKK/C Odpowiadanie na pytania JaJó,0.4545
+4773,LarPud/MK-P/ proszenie o pomoc,0.4000
+4774,FS/B Bycie w zadaniu JaJó,0.1538
+4775,"UP/C, grafomotoryka, HuWo",0.0769
+4776,"UKW/C, czekanie, HuWo",0.3500
+4777,BarŚmiech/MK-P/proszenie o pomoc,0.0000
+4780,MKR/C Identyfikowanie elementów KrzyĆwi,0.5000
+4781,PSZ/C Pisanie imienia i nazwiska  KrzyĆwi,0.7059
+4782,MKP/B Komunikowanie swoich próśb KrzyĆwi,1.0000
+4783,UKW/C Reagowanie na imię MarPaw,0.4286
+4784,MKP/B Komunikowanie swoich próśb FiKo,1.0000
+4785,MKP/B Komunikowanie swoich próśb MaPi,0.8333
+4786,MKP/B Komunikowanie swoich próśb KaLe,1.0000
+4787,UKI/C Imitacja motoryczna MarPaw,0.7273
+4789,MKR/C Rozumienie poleceń motorycznych MarPaw,0.3750
+4790,Realizacja czynności domowych,0.3333
+4791,Spokojna realizacja opanowanych aktywności SzKr,0.2000
+4792,UP/C Wycinanie JaWr,0.5000
+4793,MKN/C Komunikowanie zakończenia zadania JaWr,0.5000
+4794,MKR/B Rozpoznawanie kolorów JaWr,0.5000
+4795,UKW/C Czekanie. AnKo,0.3200
+4796,MK/C Odpowiadanie na pytania w języku polskim DoJa,0.1538
+4797,UKW/C -  Sekwencje AnPie,0.0000
+4798,MKK/C Odpowiadanie na pytania AnDe,0.3000
+4799,US/C Pisanie imienia i nazwiska IgKo,0.1667
+4801,MK/C Komunikowanie zakończenia zadania. IgKo,0.1429
+4802,US/C  Pisanie imienia i nazwiska DaTr,0.2222
+4803,UKW/A Podążanie za planem SAM   KaLe,0.2000
+4804,UKW/A Podążanie za planem SAM   MaPi,0.0000
+4805,PSZ/C Pisanie imienia i nazwiska  MaPi,0.5455
+4806,PSZ/C Kolorowanie MaPi,0.3750
+4807,FS/B Bycie w zadaniu IlBo,0.2000
+4808,MKN/C Komunikowanie zakończenia zadania za pomocą PECS IlBo,0.1429
+4809,MKP/C Proszenie za pomocą PECS IlBo,0.1053
+4810,MKK/C Odpowiadanie na pytania IlBo,0.0000
+4811,UKI/C MaPaw Imitacja sylaby PA (w krokach) LOGO ,0.0909
+4812,UKW/C Reagowanie na imię IlBo,0.0714
+4813,UKI/C  JaDo  Poprawna artykulacja głoski [w] LOGO ,0.8000
+4815,MK/N/B  JaDo  Nazywanie przymiotników w zwrotach LOGO ,0.5217
+4816,"SZ/B, wykonywanie zadań, AnJa",0.2500
+4817,"MKP/C, proszenie o przedmioty, AnJa",0.0968
+4818,MK/N Nazywanie przedmiotów,0.3333
+4819,LarPud/MK-P/Proszenie o potrzebne przedmioty za pomocą PECS,0.0000
+4821,UKW/C Reagowanie na imię FryHib,0.0667
+4822,UKW/C Reagowanie na timer FryHib,0.3000
+4823,UP/A Naprzemienna gra MaMaj,0.3333
+4824,UKW/C Reagowanie na timer MatMaj,0.3333
+4825,UKW/C Reagowanie na timer TomCza,0.5000
+4826,MKK/C Odpowiadanie na pytania ToCza,0.0000
+4827,MKP/C Proszenie za pomocą PECS ToCza,0.0000
+4828,US/C Pisanie imienia i nazwiska TomCza,0.6667
+4829,UKW/C Reagowanie na timer IloBo,0.3158
+4830,MKP/C Proszenie za pomocą PECS JaJó,0.5000
+4831,UKW/C Reagowanie na timer JaJó,0.4231
+4832,MKN/C Komunikowanie zakończenia zadania za pomocą PECS JaJó,0.4615
+4836,Jan nauka wzorów i sekwencji (2 elementy) n,1.0000
+4837,Jan- uczenie dopasowywania i segregowania. ,0.5000
+4838,UK/UK_W- Podążanie za planem DOSTA,0.0000
+4840,MK/C Odpowiadanie na pytania Da/Trz,0.3333
+4841,"MK/C Odpowiadanie na pytanie ""Co robi..."" Da/Trz",0.0000
+4842,"FS/C, adekwatne reakcje rówieśnicze, KaSa",0.3529
+4843,PSZZ/C Wykonywanie powtarzalnej pracy MaBo,0.0000
+4844,SFG/A Sprzątanie JaSzcz,0.0000
+4845,PSZ/C Wykonywanie powtarzalnej pracy (praca taśmowa) FiSz,0.0357
+4846,PSZ/A Wykonywanie czynności prezawodowych,0.0000
+4848,Imitacja motoryki dużej z przedmiotami i bez,0.2000
+4849,Samodzielność w wyłączaniu timera,0.0000
+4850,rozumienie poleceń/rozumienie rzeczowników,0.1111
+4852,MK/C FiKo Rozumienie poleceń z zakresu aparatu mowy LOGO,0.6667
+4856,nauka proszenia o pomoc,0.8000
+4861,"MKR/B, wykonywanie prostych poleceń, FiAn",0.0238
+4863,MIK/B  KrzĆw  Nazywanie form rzeczownika ze względu na liczbę mnogą i pojedynczą LOGO,0.5200
+4864,UKI/C  FiKo Utrwalanie głoski [SZ] LOGO ,0.6800
+4867,"FS/C, reagowanie na polecenia do grupy, AnJa",0.2000
+4869,Wiązanie butów BK,1.0000
+4870,MKN/C Nazywanie czynności MaGo,0.2000
+4871,"UKI/C, imitacja motoryczna, MiMa",0.2500
+4872,"MKP/C, proszenie za pomocą PECS, MiMA",0.1176
+4873,"UKD/C, dopasowywanie, MiMa",0.0714
+4874,"UKI/C, imitacja ze wzoru, MiMa",0.0714
+4875,"UP/C, układanie puzzli, MiMa",0.0667
+4876,"UKW/C, czekanie. MiMa",0.0000
+4877,"MKR/C, identyfikowanie obiektów, MiMa",0.0000
+4878,PW  Wykonywanie powtarzalnej pracy,0.0000
+4880,FS/C Wykonywanie poleceń kierowanych do grupy FiKo1,0.3571
+4881,FS/B Bycie w zadaniu   DaTrz,0.6250
+4883,FS/B Bycie w zadaniu   Ig/Ko,0.2000
+4885,InGrab/MK/R regowanie na polecenia ,0.0769
+4887,LOGO - ćwiczenia artykulacyjne ,0.6667
+4888,LOGO - ćwiczenia motoryczne KacKry,0.2308
+4889,LOGOAW - ćwiczenia motoryczne ,0.0000
+4890,UKW/C Czekanie2 KaAl,0.7273
+4891,UKW/C Reagowanie na imię  KaAl,0.2857
+4892,SF/A Ubieranie się KaAl,0.0000
+4893,Wiązanie butów GB,0.9048
+4894,"UKW/C, czekanie, FIAn",0.4167
+4895,"UKD/C, dopasowywanie pojedynczych elementów, FiAn",0.2143
+4896,"SF/A, ubieranie się, FIAn",0.0000
+4897,"UP/C, kolorowanie HuWo",0.0769
+4899,P/C Układanie układanki MarPaw,0.8571
+4900,US/B Dzielenie na głoski AnKo,0.1250
+4901,US/C Dzielenie na sylaby i głoski DoJa,0.5000
+4902,US/C Dzielenie na sylaby i głoski JaWr,0.3750
+4903,S/E/Liczenie pisemne/KaPa,0.5833
+4904,S/E/Przepisywanie na czas/KaPa,0.4167
+4905,S/E/Obsługa edytora tekstu Word/KaPa,0.3333
+4906,LOGO - ćwiczenia motoryczne KorJaś,0.6250
+4907,LOGO - ćwiczenia artykulacyjne KorJaś,0.6000
+4911,sortowanie/percepcja wzrokowa-słuchowa,0.6842
+4912,nauka zabawy/videomodeling,0.3125
+4913,gimnastyka do muzyki,0.8000
+4914,koszyki aktywności/samodzielne spędzanie czasu,0.6000
+4915,UKI - imitacja motoryczna - RoPan,0.7778
+4917,plan aktywności,0.1000
+4918,PSZ/C  Wykonywanie powtarzalnej pracy GrPo,0.0769
+4919,SFG/A - Sprzątanie - videomodelowanie,0.0000
+4920,SFG/A - Gotowanie - łańcuch przez pełną prezentację - AlWi,0.0000
+4921,SF/A - Sprzątanie - imitacja - AlWi,0.0000
+4922,LOGOIKow - Imitacja werbalna [k],0.1600
+4923,"FS/C, respektowanie zasad w grupie, AnJa",0.5000
+4924,LOGO - ćwiczenia motoryczne AlJan,0.0357
+4925,"MKP/E, proszenie o informacje, AnJa",0.0000
+4926,"MKK/C, budowanie dłuższych wypowiedzi, AnJa",0.0000
+4927,"MKK/C, prowadzenie rozmowy, AnJa",0.5000
+4928,MIK/B  DaTrz Nazywanie zgodne z odpowiednią formą czasownika LOGO ,0.5152
+4929,dopasowywanie/sortowanie obrazków konkretów,0.1176
+4930,PSZ/E-  rysowanie AnPie,0.5000
+4931,SFC/B - oglądanie materiałów video (on task) AnPie,1.0000
+4932,S/C Posługiwanie się zegarem SzyKo,0.5000
+4935,LOGO-UKI/MM- Imitacja werbalna,0.3333
+4939,LOGO-UKI/MM- Imitacja oralna - otwieranie ust,0.0000
+4941,SFG/A Sprzątanie JanSzcz,0.0000
+4942,MKP/C/Proszenie/SeSo,0.4286
+4943,S/E/Liczenie sposobem pisemnym/SeSo,0.4444
+4944,S/D/Identyfikowanie kolorów/KaFr,0.0000
+4946,MKN/E Nazywanie DaNa,0.1000
+4947,AdWoj/MK- Proszenei za pomocą PECS,0.1176
+4948,MK/C Komunikowanie zakończenia zadania DaTrz,0.6667
+4949,US/C Dzielenie na sylaby i głoski DaTrz,0.6000
+4950,US/C Dzielenie na sylaby i głoski IgKo,0.4444
+4951,LOGO-UKI/B IG - Imitacja oralna - otwieranie ust,0.0000
+4952,US/C Dzielenie na sylaby i głoski AnDę,0.6000
+4953,PSZ/C Układanie puzzli KaAl,0.6667
+4954,MKR/C Identyfikowanie elementów KaAl,0.6667
+4955,SFG- Wykonywanie prostych czynności domowych- KiiWI,0.0000
+4956,UKI Imitacja werbalna- KiWI,0.0000
+4957,MKP Komunikowanie werbalne próśb,0.0000
+4958,BarŚmiech/UK-I/ imitacja werbalna,0.1818
+4959,SFZ/C - praca taśmowa - AlWi,0.0000
+4960,MKR Wykonywanie poleceń- WoSta,0.0000
+4961,UKD/B Dopasowywanie konkretów - WoSta,0.8333
+4962,UKI/B Imitacja z przedmiotami - WoSta,0.6000
+4963,MKP Komunikowanie próśb za pomocą PECS- WoSta,0.2222
+4964,SFC- Realizacja planu SAM- WoSta,0.0000
+4965,PSZ/C Układanie puzzli FryHib,0.5333
+4966,SFS/A Realizacja higieny osobistej FryHib,0.0000
+4967,SFS/A Realizacja higieny osobistej IlBo,0.0000
+4968,MKR/C Identyfikowanie elementów2 KaLe,0.3333
+4969,LOGO-UKI/MM- otwieranie ust,0.5000
+4970,LOGO-UKI/MM- Imitacja oralna - dziòbek,0.4000
+4971,"FS/C, respektowanie zasad grupowych, AnJA",0.7500
+4972,Nauka grania w proste gry,0.5385
+4974,SFS/A Realizacja higieny osobistej MaMaj,0.0000
+4975,SFS/A Realizacja higieny osobistej JaJó,0.0000
+4976,LOGO-UKI/B AW- Imitacja werbalna,0.0000
+4977,LOGO - ćwiczenia motoryczne KonKun,0.0000
+4978,LOGO - Imitacja oralna - ćwiczenia artykulacyjne,0.2105
+4979,LOGO UKI/B FA - Imitacja oralna - zwieranie warg,0.0000
+4980,LOGO UKI/D KS - Naśladowanie sylab ,1.0000
+4982,AdWoj/UK-I/ imitacja motoryczna,0.0000
+4983,LOGO KS UKI/B - Imitacja oralna,0.7000
+4984,"MKK/C, odpowiadanie na pytania. KaSa",0.3636
+4985,"UP/E, czytanie, KaSa",0.2727
+4986,"FS/A, granie w gry zespołowe, KaSa",0.0000
+4988,"LOGO-UKI/D Imitacja sylab z głoską""t""",0.1818
+4990,UKI/C JaJó  Imitacja sylaby [FA]  LOGO   ,0.5714
+4992,LOGO-UKI/B IG - Imitacja werbalna,0.0000
+4993,UKI/C JaJó  Imitacja sylaby [KU] - LOGO   ,0.2857
+4994,MKN/C Dokańczanie zdań,0.2857
+4996,FS/FS B/ Używanie zwrotów grzecznościowych/JaLu,0.0000
+4998,UKI/C KaLe Imitacja ruchów kląskania językiem - LOGO,0.6667
+5003,rozwijanie mowy werbalnej/MW,0.9655
+5004,Mowa/proszenie o nagrody,0.0000
+5009,"UKI/C, imitacja z przedmiotem, WoAd",0.0000
+5010,"P/C, ukladanie puzzli, WoAd",0.0000
+5011,"UKW/C, czekanie, WoAd",0.0000
+5012,"MKR/C, identyfikowanie elementów, WoAd",0.0000
+5013,Ga/Em Imitacja werbalna/nazywanie,0.1250
+5015,UKI/B  naśladowanie ruchów  motoryki dużej UE,0.5000
+5022,UKW/C Czekanie UE,0.3333
+5025,UKI/C Czekanie,1.0000
+5033,SFS/A Realizacja higieny osobistej- kremowanie rąk UE,0.0000
+5042,S/C Liczenie UE,0.7500
+5053,mg,0.0000
+5054,UPS/C Rysowanie człowieka ,0.0000
+5055,UPS/B Rysowanie ,0.0000
+5056,UKI/C  Imitacja werbalna głoski [G]  Mat/Maj LOGO ,0.6667
+5057,PSZ/C wykonywanie powtarzalnej pracy (praca taśmowa) JoMi,0.0000
+5058,LOGOHWoj - Imitacja werbalna - imitacja [la],1.0000
+5059,LOGO wywoływanie głoski [L] ILBo,0.2500
+5065,LOGOMMac - ćwiczenia motoryczne,0.0000
+5074,LOGO - Imitacja werbalna [l] w logotomach w nagłosie,0.0000
+5075,LOGO - Imitacja w obrębie głowy - dmuchanie,1.0000
+5077,Picie Herbaty Philip,1.0000
+5078,SFS/A Dbanie o wizerunek MaPo,0.0000
+5079,LOGOFWit - Imitacja w obrębie głowy - dmuchanie,1.0000
+5080,LOGOFWit - Imitacja oralna - ćwiczenia motoryki narządów mowy,0.3333
+5081,UP/SZ/LarPud - wycinanie,0.0000
+5082,UP/SZ/BarŚmie - wycinanie,1.0000
+5083,"SF/A, wykonywanie obowiązków, LaPu",0.0000
+5085,FSN/A Przygotowywanie posiłku w środowisku domowym MaPo,0.0000
+5086,UKW/B Utrzymywanie uwagi MaPo,0.4286
+5087,"UKI/CFWit - Imitacja werbalna [f], [v] we wszystkich pozycjach",0.8333
+5088,"UKW/C, reagowanie na imię, AnJa",0.0000
+5090,MK_P/D Proszenie o niezbędny przedmiot to wykonania zadania NG,0.0000
+5092,UKI/B Naśladowanie ruchów motoryki dużej  SzSz,0.0000
+5094,"LOGO MiK/CAJan -  NAzywanie czynności, przedmiotów i obrazków",0.3000
+5098,"FS/B, używanie zwrotów grzecznościowych. AnJa",0.0000
+5099,"MKK/C, odpowiadanie na  pytania, AnJA",0.0000
+5100,"S/A, pełnienie obowiązków, AnJA",0.0000
+5101,"MKP/C, wyrażanie próśb"", AnJA",0.0000
+5102,"UKI/B, imitacja ze wzoru. AnJA",0.0000
+5103,"UP/E, wykonywanie prac plastycznych, AnJA",0.0000
+5105,"UKI/C,imitacja motoryczna,JaSt",0.6000
+5107,"MKR/B, wykonywanie prostych poleceń, JaSt",0.0000
+5108,MK_P/B Proszenie o niezbędny przedmiot to wykonania zadania NG,0.0000
+5109,MK_P/ E Proszenie o potrzebny przedmiot NG,0.0000
+5110,MK_P/ E Proszenie o potrzebny przedmiot NG1,0.0000
+5111,MKN/Nazywanie czynności dmuchania baniek,0.0000
+5113,LOGOIGr - Ćwiczenia motoryki artykulacyjnej,0.0000
+5114,LOGOIGr - Dmuchanie,0.0000
+5119,"UKW/C, reagowanie na imię, OlGr",0.0000
+5120,UKW/A - Podążanie za planem - OlGr,0.0000
+5121,UKW - Utrzymanie uwagi na zadaniu - OlGr,0.3333
+5122,"UKI/B, Imitacja motoryki małej i dużej - OlGr",0.0000
+5128,"UK/D, Dopasowywanie pojedynczych elementów - OlGr",0.1667
+5129,"UKW/C, czekanie, JaSt",0.0000
+5130,"MKR/B, Rozumienie prostych poleceń - OlGr",0.3000
+5131,"UKW/C, reagowanie na timer, JaSt",0.0000
+5132,MKP/C - Proszenie o nagrody - OlGr,0.5000
+5133,"MKN, Nazywanie przedmiotów - OlGr",0.0000
+5134,SFS - Ubieranie się - OlGr,0.0000
+5135,"UKW/E, podążanie za planem, JaSt",0.0000
+5136,"UKI/E, Imitacja z przedmiotami, imitacja prostego rysunku - OLGr",0.0000
+5137,"MKP/C, proszenie o wzmocnienia za pomocą PECS, JaSt",1.0000
+5138,"UKW, On task - FaWi",1.0000
+5139,KacKry/MK-K/ Opowiadanie ,0.0000
+5140,MKP/C - Proszenie o nagrody - FaWi,0.5000
+5142,MKR/C - Nazywanie + opisywanie - FaWi,0.6000
+5143,SFS - Ubieranie się - FaWi,0.0000
+5144,UPR - Wykonywanie prostych rysunków - FaWi,1.0000
+5145,"UP, Wycinanie - OlGr",0.0000
+5146,"FSG/B, Respektowanie zasad panujących w grupie, OlGr",0.0000
+5162,"LOGOIGr - Imitacja motoryczna - naśladowanie ruchów do piosenki ""jadę, jadę""",0.0000
+5166,LOGOIKow - Mowa i komunikacja - nazywanie wzmocnień,0.0000
+5167,LOGOIKow - Mowa i komunikacja - nazywanie czynności za pomocą PECS,0.0000
+5179,MKR/B Wykonywanie prostych poleceń FryHib,0.0000
+5181,MKP/C Proszenie za pomocą PECS OsOz,0.6667
+5183,UKI/B Imitacja z przedmiotem FryHib,0.1111
+5187,LOGO UKI/C - Imitacja motoryczna - naśladowanie ruchów do piosenki otwórz - zamknij,1.0000
+5188,"LOGO UKI/C Imitacja motoryczna - naśladowanie ruchów do piosenki ""A ram sam sam""",0.0000
+5190,UKW/A Podążanie za planem dnia La/To,0.0000
+5191,UKW/C Reagowanie na imię La/To,0.0000
+5192,PSZ/C Czytanie MaMaj,0.3333
+5194,MKR/B Identyfikacja osób z otoczenia MaMaj,0.0000
+5196,"LOGO UKI/B Imitacja motoryczna - naśladowanie ruchów do piosenki ""Otwórz, zamknij""",0.0000
+5202,"MiK/B, wyrażanie próśb za pomocą PECS, HuWo",0.0000
+5215,UP/C Wycinanie kształtów MaMaj,0.6000
+5217,FS/C Realizowanie poleceń kierowanych do grupy MaMaj,0.3333
+5218,FS/B Bycie w zadaniu IloBo,0.0000
+5220,UP/C Wycinanie kształtów IlBo,0.5556
+5236,SF/A Umiejętności gospodarcze MaMaj,0.0000
+5237,MKP/C Proszenie o pomoc za pomocą PECS IlBo,0.0000
+5238,MKR/B Wykonywanie prostych poleceń IlBo,0.1667
+5244,MKP/C - Proszenie o pomoc - FaWI,0.0000
+5250,MKP/C Proszenie o pomoc MaPa,1.0000
+5252,UKI/C  MiCe  Ćwiczenia języka i warg LOGO ,0.0000
+5260,MKK/C Odpowiadanie na pytania z wykorzystaniem PECS  MaPi,0.5000
+5262,MKP/C Proszenie o pomoc z wykorzystaniem PECS MaPi,0.5000
+5263,MKP/C Komunikowanie próśb MaPi,0.5000
+5267,UKI/C MatMaj  Imitacja czasowników w krokach LOGO ,0.2500
+5269,USZ/C Pisanie MaPi,0.0000
+5270,UKI/C MatMaj Imitacja głoski [L] z pełną kontrolą ułożenia języka LOGO ,0.1667
+5271,UKI/C MatMaj Imitacja słów do wyliczanki logopedycznej LOGO ,0.0000
+5283,FS/C Realizowanie poleceń kierowanych do grupy MaPi,0.5000
+5290,LOGO- imitacja oralna- dmuchanie ,1.0000
+5300,MKP/C Proszenie o potrzebny przedmiot do wykonania zadania z wykorzystaniem PECS KrzyĆwi,0.5000
+5301,MKN/C Informowanie o zakończeniu zadania z wykorzystaniem PECS KrzyĆwi,0.0000
+5303,FS/C Realizowanie poleceń kierowanych do grupy KrzyĆwi,0.5000
+5304,MKK/C Spontaniczne komentowanie z wykorzystaniem PECS KrzyĆwi,0.5000
+5305,MKK/C Odpowiadanie na pytania za pomocą PECS KrzyĆwi,0.5000
+5315,UKI/C OsOz Motoryka Artykulacyjna LOGO ,0.0000
+5361,FS/A Witanie się KrzyĆwi,0.0000
