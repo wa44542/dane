@@ -1,0 +1,91 @@
+"AVG(TIMESTAMPDIFF(second ,SES_START_DATE,SES_END_DATE))",LP_LTE_ID,LTE_TITLE,TH_TITLE
+111584.3608,1,w wyodrębnionych próbach ciągłych,gospodarka żetonowa
+51518.8308,2,w wyodrębnionych próbach nieciągłych,gospodarka żetonowa
+20919.2043,5,łańcuchach przez całk. prezentację,gospodarka żetonowa
+16147.7143,6,w planie aktywności,gospodarka żetonowa
+53678.9585,8,w próbach incydentalnych,gospodarka żetonowa
+22716.7031,12,poprzez NET,gospodarka żetonowa
+51892.2451,14,poprzez kształtowanie,gospodarka żetonowa
+121156.6426,17,trening incydentalny,gospodarka żetonowa
+63904.8794,24,w wyodrębnionych próbach,gospodarka żetonowa
+162212.0095,26,uczenie w krokach-typ C,gospodarka żetonowa
+81288.1442,40,poprzez DTT,gospodarka żetonowa
+16333.6573,2,w wyodrębnionych próbach nieciągłych,komputer
+61237.0973,2,w wyodrębnionych próbach nieciągłych,komunikator
+597489.5000,14,poprzez kształtowanie,komunikator
+16759.8621,17,trening incydentalny,komunikator
+20285.3705,40,poprzez DTT,komunikator
+130172.0667,2,w wyodrębnionych próbach nieciągłych,kontrakt
+38519.0053,8,w próbach incydentalnych,kontrakt
+32429.6923,12,poprzez NET,kontrakt
+89895.2800,14,poprzez kształtowanie,kontrakt
+135098.5149,16,poprzez kontrakt,kontrakt
+80449.6941,17,trening incydentalny,kontrakt
+75935.6346,24,w wyodrębnionych próbach,kontrakt
+216077.7893,1,w wyodrębnionych próbach ciągłych,książka PECS/ IPAD
+41681.4922,2,w wyodrębnionych próbach nieciągłych,książka PECS/ IPAD
+16521.0667,6,w planie aktywności,książka PECS/ IPAD
+65044.3097,8,w próbach incydentalnych,książka PECS/ IPAD
+28014.4778,12,poprzez NET,książka PECS/ IPAD
+19983.6556,13,"z wykorzystaniem  kontraktu, obejmującego....",książka PECS/ IPAD
+75823.9099,14,poprzez kształtowanie,książka PECS/ IPAD
+46219.1507,17,trening incydentalny,książka PECS/ IPAD
+27337.6207,18,trening incedentalny,książka PECS/ IPAD
+35165.0532,24,w wyodrębnionych próbach,książka PECS/ IPAD
+478457.8033,26,uczenie w krokach-typ C,książka PECS/ IPAD
+31167.6195,32,w wyodrębnionych próbach nieciągłych i poprzez podpowiedzi wizualne,książka PECS/ IPAD
+35835.6603,40,poprzez DTT,książka PECS/ IPAD
+16147.7143,6,w planie aktywności,plan aktywności
+19983.6556,13,"z wykorzystaniem  kontraktu, obejmującego....",plan aktywności
+135098.5149,16,poprzez kontrakt,plan aktywności
+35199.4706,1,w wyodrębnionych próbach ciągłych,skrypty
+97802.3760,2,w wyodrębnionych próbach nieciągłych,skrypty
+20919.2043,5,łańcuchach przez całk. prezentację,skrypty
+80980.0988,8,w próbach incydentalnych,skrypty
+34522.2852,12,poprzez NET,skrypty
+8356.4950,13,"z wykorzystaniem  kontraktu, obejmującego....",skrypty
+52913.5577,14,poprzez kształtowanie,skrypty
+93151.6738,17,trening incydentalny,skrypty
+161745.4194,1,w wyodrębnionych próbach ciągłych,"środowisko, tak, by miało szanse wywołać określone reakcje"
+79223.8769,2,w wyodrębnionych próbach nieciągłych,"środowisko, tak, by miało szanse wywołać określone reakcje"
+17392.2222,6,w planie aktywności,"środowisko, tak, by miało szanse wywołać określone reakcje"
+70007.2155,8,w próbach incydentalnych,"środowisko, tak, by miało szanse wywołać określone reakcje"
+36022.3500,12,poprzez NET,"środowisko, tak, by miało szanse wywołać określone reakcje"
+19983.6556,13,"z wykorzystaniem  kontraktu, obejmującego....","środowisko, tak, by miało szanse wywołać określone reakcje"
+81694.5941,14,poprzez kształtowanie,"środowisko, tak, by miało szanse wywołać określone reakcje"
+50932.8168,17,trening incydentalny,"środowisko, tak, by miało szanse wywołać określone reakcje"
+26483.9441,18,trening incedentalny,"środowisko, tak, by miało szanse wywołać określone reakcje"
+82205.9687,24,w wyodrębnionych próbach,"środowisko, tak, by miało szanse wywołać określone reakcje"
+12920.1923,40,poprzez DTT,"środowisko, tak, by miało szanse wywołać określone reakcje"
+43790.2139,2,w wyodrębnionych próbach nieciągłych,tablet z filmem
+18093.7041,17,trening incydentalny,tablet z filmem
+20666.8537,40,poprzez DTT,tablet z filmem
+87016.5242,1,w wyodrębnionych próbach ciągłych,wzmocnienia zgodne z ind. systemem wzm
+67539.3545,2,w wyodrębnionych próbach nieciągłych,wzmocnienia zgodne z ind. systemem wzm
+15419.8235,5,łańcuchach przez całk. prezentację,wzmocnienia zgodne z ind. systemem wzm
+64575.3827,8,w próbach incydentalnych,wzmocnienia zgodne z ind. systemem wzm
+43235.8122,12,poprzez NET,wzmocnienia zgodne z ind. systemem wzm
+19983.6556,13,"z wykorzystaniem  kontraktu, obejmującego....",wzmocnienia zgodne z ind. systemem wzm
+81405.1236,14,poprzez kształtowanie,wzmocnienia zgodne z ind. systemem wzm
+135098.5149,16,poprzez kontrakt,wzmocnienia zgodne z ind. systemem wzm
+43605.0296,17,trening incydentalny,wzmocnienia zgodne z ind. systemem wzm
+26483.9441,18,trening incedentalny,wzmocnienia zgodne z ind. systemem wzm
+64004.2395,24,w wyodrębnionych próbach,wzmocnienia zgodne z ind. systemem wzm
+162212.0095,26,uczenie w krokach-typ C,wzmocnienia zgodne z ind. systemem wzm
+66646.4393,39,poprzez nauczanie intensywne,wzmocnienia zgodne z ind. systemem wzm
+38285.9049,40,poprzez DTT,wzmocnienia zgodne z ind. systemem wzm
+109962.3697,1,w wyodrębnionych próbach ciągłych,zestaw pomocy do danego zadania
+63715.0326,2,w wyodrębnionych próbach nieciągłych,zestaw pomocy do danego zadania
+46463.9510,5,łańcuchach przez całk. prezentację,zestaw pomocy do danego zadania
+17392.2222,6,w planie aktywności,zestaw pomocy do danego zadania
+58897.3867,8,w próbach incydentalnych,zestaw pomocy do danego zadania
+20768.2702,12,poprzez NET,zestaw pomocy do danego zadania
+80330.5676,14,poprzez kształtowanie,zestaw pomocy do danego zadania
+135098.5149,16,poprzez kontrakt,zestaw pomocy do danego zadania
+78900.6975,17,trening incydentalny,zestaw pomocy do danego zadania
+102424.0435,18,trening incedentalny,zestaw pomocy do danego zadania
+57661.9742,24,w wyodrębnionych próbach,zestaw pomocy do danego zadania
+32742.2550,26,uczenie w krokach-typ C,zestaw pomocy do danego zadania
+31167.6195,32,w wyodrębnionych próbach nieciągłych i poprzez podpowiedzi wizualne,zestaw pomocy do danego zadania
+66646.4393,39,poprzez nauczanie intensywne,zestaw pomocy do danego zadania
+50440.6212,40,poprzez DTT,zestaw pomocy do danego zadania
