@@ -1,0 +1,6 @@
+PLP_STATE,count(*)
+preparing,8
+supervisor-accepted,2
+pending,1777
+closed,591
+suspended,575
